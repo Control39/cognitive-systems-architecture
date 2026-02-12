@@ -1,3 +1,11 @@
-# ekaterina-kudelya-it-compass
+# ?? IT-Compass
+> правление архитектурой и знани€ми
 
-IT-Compass repository for Ekaterina Kudelya
+## ?? —труктура
+- /decisions Ч ADR (архитектурные решени€)
+- /architecture Ч схемы
+- /templates Ч шаблоны
+
+## ?? —ледующие шаги
+- [ ] обавить первый ADR
+- [ ] одключить к cloud-reason
