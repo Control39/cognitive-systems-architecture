@@ -1,0 +1,97 @@
+# === Секреты ===
+.env
+.env.local
+secrets/
+*.pem
+*.key
+*.crt
+
+# === IDE ===
+.idea/
+.vscode/
+.gigaide/
+.codeassistant/
+*.swp
+*~
+
+# === OS ===
+Thumbs.db
+.DS_Store
+$RECYCLE.BIN/
+Desktop.ini
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pyvenv.cfg
+pip-selfcheck.json
+
+# === Виртуальные окружения ===
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# === Build / Output ===
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# === Тесты и покрытие ===
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# === Логи ===
+logs/
+*.log
+log/
+
+# === Temp / Backups ===
+temp/
+tmp/
+*.tmp
+*.bak
+*.orig
+*~.*
+
+# === Генерируемые файлы ===
+PROJECT_REPORT.md
+DAILY_REPORT.md
+ai_reviews/
+reports/
+journal/
+
+# === Дубли из основной экосистемы (если копировались) ===
+/data-analytics-portfolio/
+/data-engineering-journey/
+/devops-journey/
+/documentation/
+/backup_system/
+/tools/
+
+# === Скрипты развёртки (управляются в основном репозитории) ===
+/scripts/consolidate_repositories.bat
+/scripts/create_html_presentation.py
+/scripts/create_presentation.py
+
+# === Кэш Giga IDE / AI ===
+.cache/
+.gigacache/
+.ai-cache/
+
+# === Личные заметки / контекст ===
+контекст.txt
+context.txt
+journal/
+notes/
+private/

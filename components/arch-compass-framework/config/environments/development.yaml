@@ -1,0 +1,26 @@
+# Arch Compass Framework Development Environment Configuration
+# This is the configuration file for the development environment
+
+application:
+  name: "ArchCompass-Dev"
+  version: "1.0.0-dev"
+  environment: "development"
+
+database:
+  host: "localhost"
+  port: 5432
+  name: "archcompass_dev"
+  username: "archcompass_dev_user"
+  password: "archcompass_dev_password"
+
+logging:
+  level: "debug"
+  file: "logs/archcompass_dev.log"
+
+security:
+  encryptionKey: "dev_encryption_key"
+  jwtSecret: "dev_jwt_secret"
+
+features:
+  enableAI: true
+  enableMonitoring: true
