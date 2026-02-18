@@ -1,0 +1,60 @@
+# Portfolio Organizer
+
+Portfolio Organizer - это система для организации и управления портфолио проектов.
+
+## Описание
+
+Portfolio Organizer предоставляет инструменты для структурирования, анализа и представления портфолио проектов, включая функции для веб-интерфейса, API и интеграции с различными источниками данных.
+
+## Основные компоненты
+
+### API
+- **Reasoning API** - API для анализа и рекомендаций по проектам
+- **Mobile API** - API для мобильных приложений
+- **Demo API** - Демонстрационный API
+
+### Web Interface
+- **HTML/CSS** - Веб-интерфейс для отображения портфолио
+
+### Analytics
+- **Advanced Analytics** - Расширенные аналитические функции
+
+### Integrations
+- **Market Data** - Интеграция с рыночными данными
+
+### Notifications
+- **Notification Service** - Сервис уведомлений
+
+## Установка
+
+1. Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Запустите веб-интерфейс:
+   ```bash
+   python src/web/app.py
+   ```
+
+## Использование
+
+### Запуск веб-интерфейса
+
+```bash
+python src/web/app.py
+```
+
+### Использование API
+
+```python
+import requests
+
+# Получение данных о портфолио
+response = requests.get('http://localhost:5000/api/portfolio')
+print(response.json())
+```
+
+## Лицензия
+
+Этот проект лицензирован по лицензии MIT - см. файл [LICENSE](LICENSE) для получения подробной информации.

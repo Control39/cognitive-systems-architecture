@@ -1,0 +1,17 @@
+<<<<<<< Updated upstream
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+types-PyYAML>=6.0.0
+requests>=2.32.3
+urllib3>=2.6.3
+=======
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+types-PyYAML>=6.0.0
+>>>>>>> Stashed changes

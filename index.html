@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio System Architect</title>
+    <script src="../mermaid.min.js"></script>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --accent-color: #e74c3c;
+            --light-color: #ecf0f1;
+            --dark-color: #34495e;
+            --text-color: #2c3e50;
+            --bg-color: #ffffff;
+            --sidebar-bg: #f8f9fa;
+            --border-color: #dee2e6;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+        }
+
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        nav ul li a:hover {
+            color: var(--secondary-color);
+        }
+
+        .main-content {
+            display: flex;
+            min-height: calc(100vh - 120px);
+        }
+
+        .sidebar {
+            width: 250px;
+            background-color: var(--sidebar-bg);
+            padding: 1.5rem;
+            border-right: 1px solid var(--border-color);
+        }
+
+        .sidebar h2 {
+            font-size: 1.3rem;
+            margin-top: 0;
+            color: var(--primary-color);
+        }
+
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .sidebar ul li {
+            margin-bottom: 0.5rem;
+        }
+
+        .sidebar ul li a {
+            text-decoration: none;
+            color: var(--dark-color);
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        .sidebar ul li a:hover {
+            color: var(--secondary-color);
+        }
+
+        .content {
+            flex: 1;
+            padding: 2rem;
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        .section h2 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 0.5rem;
+        }
+
+        .diagram-container {
+            background-color: white;
+            border: 1px solid var(--border-color);
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+            overflow-x: auto;
+        }
+
+        .diagram-container h3 {
+            margin-top: 0;
+            color: var(--dark-color);
+        }
+
+        .mermaid {
+            text-align: center;
+        }
+
+        footer {
+            background-color: var(--primary-color);
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: auto;
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid var(--border-color);
+            }
+            
+            nav ul {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            nav ul li {
+                margin: 0.5rem 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <h1>Portfolio System Architect</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#overview">Обзор</a></li>
+                        <li><a href="#diagrams">Диаграммы</a></li>
+                        <li><a href="#components">Компоненты</a></li>
+                        <li><a href="#roadmap">Дорожная карта</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="main-content">
+        <aside class="sidebar">
+            <h2>Навигация</h2>
+            <ul>
+                <li><a href="#overview">Обзор проекта</a></li>
+                <li><a href="#architecture-diagram">Архитектура системы</a></li>
+                <li><a href="#data-flow-diagram">Потоки данных</a></li>
+                <li><a href="#principles-diagram">Архитектурные принципы</a></li>
+                <li><a href="#integration-diagram">Интеграция компонентов</a></li>
+                <li><a href="#components">Компоненты системы</a></li>
+                <li><a href="#roadmap">Дорожная карта</a></li>
+                <li><a href="#skills">Матрица навыков</a></li>
+            </ul>
+        </aside>
+
+        <main class="content">
+            <section id="overview" class="section">
+                <h2>Обзор Portfolio System Architect</h2>
+                <p>Portfolio System Architect - это комплексная система для демонстрации архитектурного мышления и профессиональных компетенций системного архитектора. Проект объединяет несколько ключевых компонентов в единую экосистему:</p>
+                
+                <ul>
+                    <li><strong>Arch Compass Framework</strong> - фреймворк для архитектурных решений</li>
+                    <li><strong>IT Compass</strong> - трекер компетенций и навыков</li>
+                    <li><strong>Portfolio Organizer</strong> - система организации и представления портфолио</li>
+                    <li><strong>Thought Architecture</strong> - система архитектуры мышления</li>
+                    <li><strong>Career Development System</strong> - система планирования карьерного роста</li>
+                </ul>
+                
+                <p>Проект демонстрирует системное мышление, архитектурный подход и технические навыки, необходимые для работы системного архитектора.</p>
+            </section>
+
+            <section id="architecture-diagram" class="section">
+                <h2>Архитектура системы</h2>
+                <div class="diagram-container">
+                    <h3>Компоненты системы</h3>
+                    <div class="mermaid" id="component-diagram">
+                        <!-- Диаграмма будет загружена динамически -->
+                    </div>
+                </div>
+            </section>
+
+            <section id="data-flow-diagram" class="section">
+                <h2>Потоки данных</h2>
+                <div class="diagram-container">
+                    <h3>Потоки данных системы</h3>
+                    <div class="mermaid" id="data-flow-diagram">
+                        <!-- Диаграмма будет загружена динамически -->
+                    </div>
+                </div>
+            </section>
+
+            <section id="principles-diagram" class="section">
+                <h2>Архитектурные принципы</h2>
+                <div class="diagram-container">
+                    <h3>Архитектурные принципы</h3>
+                    <div class="mermaid" id="principles-diagram">
+                        <!-- Диаграмма будет загружена динамически -->
+                    </div>
+                </div>
+            </section>
+
+            <section id="integration-diagram" class="section">
+                <h2>Интеграция компонентов</h2>
+                <div class="diagram-container">
+                    <h3>Интеграция компонентов</h3>
+                    <div class="mermaid" id="integration-diagram">
+                        <!-- Диаграмма будет загружена динамически -->
+                    </div>
+                </div>
+            </section>
+
+            <section id="components" class="section">
+                <h2>Компоненты системы</h2>
+                <h3>Arch Compass Framework</h3>
+                <p>Фреймворк для архитектурных решений, предоставляющий основу для проектирования и документирования архитектуры.</p>
+                
+                <h3>IT Compass</h3>
+                <p>Трекер компетенций и навыков, позволяющий отслеживать профессиональный рост и достижения.</p>
+                
+                <h3>Portfolio Organizer</h3>
+                <p>Система организации и представления портфолио, обеспечивающая структурированное представление проектов и достижений.</p>
+                
+                <h3>Thought Architecture</h3>
+                <p>Система архитектуры мышления, реализующая методологию системного мышления для решения сложных задач.</p>
+                
+                <h3>Career Development System</h3>
+                <p>Система планирования карьерного роста, предоставляющая инструменты для определения целей и планирования развития.</p>
+            </section>
+
+            <section id="roadmap" class="section">
+                <h2>Дорожная карта развития</h2>
+                <p>Проект следует четкой дорожной карте развития, охватывающей несколько лет и включающей как технические, так и методологические аспекты развития.</p>
+                <p>Подробную информацию о дорожной карте можно найти в документе <a href="docs/ROADMAP.md">ROADMAP.md</a>.</p>
+            </section>
+
+            <section id="skills" class="section">
+                <h2>Матрица навыков</h2>
+                <p>Проект демонстрирует широкий спектр технических и методологических навыков, подтвержденных реальными примерами и доказательствами.</p>
+                <p>Подробную информацию о матрице навыков можно найти в документе <a href="docs/SKILLS.md">SKILLS.md</a>.</p>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Portfolio System Architect. Все права защищены.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Инициализация Mermaid
+        mermaid.initialize({ 
+            startOnLoad: true,
+            theme: 'default',
+            securityLevel: 'loose',
+            flowchart: {
+                useMaxWidth: true
+            }
+        });
+
+        // Функция для загрузки содержимого файла
+        async function loadDiagramContent(filePath) {
+            try {
+                const response = await fetch(filePath);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const text = await response.text();
+                // Извлекаем содержимое диаграммы из блока кода
+                const match = text.match(/```mermaid\n([\s\S]*?)\n```/);
+                return match ? match[1] : text;
+            } catch (error) {
+                console.error(`Ошибка загрузки ${filePath}:`, error);
+                return `Ошибка загрузки диаграммы: ${error.message}`;
+            }
+        }
+
+        // Функция для рендеринга диаграммы
+        async function renderDiagram(elementId, diagramPath) {
+            try {
+                const diagramContent = await loadDiagramContent(diagramPath);
+                const element = document.getElementById(elementId);
+                if (element) {
+                    element.innerHTML = diagramContent;
+                    // Перерисовываем диаграмму
+                    mermaid.init(undefined, `#${elementId}`);
+                }
+            } catch (error) {
+                console.error(`Ошибка рендеринга диаграммы ${elementId}:`, error);
+            }
+        }
+
+        // Загрузка и рендеринг диаграмм после загрузки страницы
+        document.addEventListener('DOMContentLoaded', async function() {
+            // Рендерим диаграммы
+            await renderDiagram('component-diagram', 'diagrams/interactive/component-diagram.md');
+            await renderDiagram('data-flow-diagram', 'diagrams/interactive/data-flow-diagram.md');
+            await renderDiagram('principles-diagram', 'diagrams/interactive/architecture-principles.md');
+            await renderDiagram('integration-diagram', 'diagrams/interactive/integration-diagram.md');
+        });
+
+        // Плавная прокрутка для навигационных ссылок
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
