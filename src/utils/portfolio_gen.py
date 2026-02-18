@@ -1,6 +1,6 @@
 # Генератор портфолио для IT Compass.
 # Методология "Объективные маркеры компетенций"
-# © 2025 Ekaterina Kudelya. CC BY-ND 4.0
+# ¬© 2025 Ekaterina Kudelya. CC BY-ND 4.0
 """
 import json
 import logging
@@ -10,9 +10,11 @@ from datetime import datetime
 
 logger = logging.getLogger(__name__)
 
+# –§—É–Ω–∫—Ü–∏—è –¥–ª—è –æ–ø—Ä–µ–¥–µ–ª–µ–Ω–∏—è –∫–æ–¥–∏—Ä–æ–≤–∫–∏ —Ñ–∞–π–ª–∞
+
 class PortfolioGenerator:
     def __init__(self, markers_dir: str = "src/data/markers", progress_file: str = "src/data/user_progress.json", output_file: str = "docs/my_portfolio.md"):
-        self.markers_dir = Path(markers_dir)
+                self.markers_dir = Path(markers_dir)
         self.progress_file = Path(progress_file)
         self.output_file = Path(output_file)
         self._markers_cache: Optional[Dict[str, Dict]] = None
@@ -30,20 +32,20 @@ class PortfolioGenerator:
             ]
             
             if not completed_markers_list:
-                print("ℹ️ Нет выполненных маркеров.")
+                print("\0x274C –ù–µ—Ç –≤—ã–ø–æ–ª–Ω–µ–Ω–Ω—ã—Ö –º–∞—Ä–∫–µ—Ä–æ–≤.")
                 return False
             
             portfolio_content = self._create_portfolio_content(completed_markers_list)
             return self._save_portfolio(portfolio_content)
             
         except Exception as e:
-            logger.error(f"Ошибка при генерации портфолио: {e}")
-            print(f"⚠️ Ошибка генерации: {e}")
+            logger.error(f"–û—à–∏–±–∫–∞ –ø—Ä–∏ –≥–µ–Ω–µ—Ä–∞—Ü–∏–∏ –ø–æ—Ä—Ç—Ñ–æ–ª–∏–æ: {e}")
+            print(f"\0x26A0Ô∏è –û—à–∏–±–∫–∞ –≥–µ–Ω–µ—Ä–∞—Ü–∏–∏: {e}")
             return False
     
     def _load_progress(self) -> Optional[Dict]:
         if not self.progress_file.exists():
-            print("⚠️ Файл прогресса отсутствует.")
+            print("\0x26A0Ô∏è –§–∞–π–ª –ø—Ä–æ–≥—Ä–µ—Å—Å–∞ –æ—Ç—Å—É—Ç—Å—Ç–≤—É–µ—Ç.")
             return None
         
         try:
@@ -51,15 +53,15 @@ class PortfolioGenerator:
                 progress = json.load(f)
             
             if not isinstance(progress, dict):
-                logger.error("Некорректная структура файла прогресса")
+                logger.error("–ù–µ–∫–æ—Ä—Ä–µ–∫—Ç–Ω–∞—è —Å—Ç—Ä—É–∫—Ç—É—Ä–∞ —Ñ–∞–π–ª–∞ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞")
                 return None
                 
             return progress
         except json.JSONDecodeError as e:
-            logger.error(f"Ошибка парсинга файла прогресса: {e}")
+            logger.error(f"–û—à–∏–±–∫–∞ –ø–∞—Ä—Å–∏–Ω–≥–∞ —Ñ–∞–π–ª–∞ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞: {e}")
             return None
         except Exception as e:
-            logger.error(f"Неожиданная ошибка при загрузке прогресса: {e}")
+            logger.error(f"–ù–µ–æ–∂–∏–¥–∞–Ω–Ω–∞—è –æ—à–∏–±–∫–∞ –ø—Ä–∏ –∑–∞–≥—Ä—É–∑–∫–µ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞: {e}")
             return None
     
     def _load_all_markers(self) -> Dict[str, Dict]:
@@ -69,7 +71,7 @@ class PortfolioGenerator:
         markers = {}
         
         if not self.markers_dir.exists():
-            logger.warning(f"Директория маркеров не найдена: {self.markers_dir}")
+            logger.warning(f"–î–∏—Ä–µ–∫—Ç–æ—Ä–∏—è –º–∞—Ä–∫–µ—Ä–æ–≤ –Ω–µ –Ω–∞–π–¥–µ–Ω–∞: {self.markers_dir}")
             return markers
         
         try:
@@ -87,12 +89,12 @@ class PortfolioGenerator:
                             markers[marker["id"]] = marker_copy
                             
                 except json.JSONDecodeError as e:
-                    logger.error(f"Ошибка парсинга файла {json_path}: {e}")
+                    logger.error(f"–û—à–∏–±–∫–∞ –ø–∞—Ä—Å–∏–Ω–≥–∞ —Ñ–∞–π–ª–∞ {json_path}: {e}")
                 except Exception as e:
-                    logger.error(f"Неожиданная ошибка при загрузке {json_path}: {e}")
+                    logger.error(f"–ù–µ–æ–∂–∏–¥–∞–Ω–Ω–∞—è –æ—à–∏–±–∫–∞ –ø—Ä–∏ –∑–∞–≥—Ä—É–∑–∫–µ {json_path}: {e}")
                     
         except Exception as e:
-            logger.error(f"Критическая ошибка при загрузке маркеров: {e}")
+            logger.error(f"–ö—Ä–∏—Ç–∏—á–µ—Å–∫–∞—è –æ—à–∏–±–∫–∞ –ø—Ä–∏ –∑–∞–≥—Ä—É–∑–∫–µ –º–∞—Ä–∫–µ—Ä–æ–≤: {e}")
             
         self._markers_cache = markers
         return markers
@@ -101,40 +103,40 @@ class PortfolioGenerator:
         by_skill = self._group_markers_by_skill(completed_markers)
         
         lines = [
-            "# 🎯 Моё IT-портфолио",
+            "# \0x1F4E3 –ú–æ—ë IT-–ø–æ—Ä—Ç—Ñ–æ–ª–∏–æ",
             "",
-            f"> Сформировано автоматически через [IT Compass](https://github.com/Control39/it-compass) "
+            f"> –°—Ñ–æ—Ä–º–∏—Ä–æ–≤–∞–Ω–æ –∞–≤—Ç–æ–º–∞—Ç–∏—á–µ—Å–∫–∏ —á–µ—Ä–µ–∑ [IT Compass](https://github.com/Control39/it-compass) "
             f"({datetime.now().strftime('%d.%m.%Y')})",
             "",
-            f"> **Методология:** © 2025 Ekaterina Kudelya, [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)",
+            f"> **–ú–µ—Ç–æ–¥–æ–ª–æ–≥–∏—è:** ¬© 2025 Ekaterina Kudelya, [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)",
             "",
-            "## ✅ Подтверждённые навыки",
+            "## \0x2705 –ü–æ–¥—Ç–≤–µ—Ä–∂–¥—ë–Ω–Ω—ã–µ –Ω–∞–≤—ã–∫–∏",
             ""
         ]
         
         for skill_name in sorted(by_skill.keys()):
             lines.append(f"### {skill_name}")
             for marker in by_skill[skill_name]:
-                lines.append(f"- ✅ **{marker['marker']}**")
+                lines.append(f"- \0x2705 **{marker['marker']}**")
                 if marker.get("validation"):
-                    lines.append(f" > 🔍 Валидация: {marker['validation']}")
+                    lines.append(f" > üîç –í–∞–ª–∏–¥–∞—Ü–∏—è: {marker['validation']}")
                 
                 if marker.get("priority") == "high":
-                    lines.append(f" > ⭐ Высокий приоритет для трудоустройства")
+                    lines.append(f" > ‚≠ê –í—ã—Å–æ–∫–∏–π –ø—Ä–∏–æ—Ä–∏—Ç–µ—Ç –¥–ª—è —Ç—Ä—É–¥–æ—É—Å—Ç—Ä–æ–π—Å—Ç–≤–∞")
                 
                 methodology_author = marker.get("methodology_author", "Ekaterina Kudelya")
                 methodology_license = marker.get("methodology_license", "CC BY-ND 4.0")
-                lines.append(f" > 📋 Методология: © {methodology_author}, {methodology_license}")
+                lines.append(f" > üìã –ú–µ—Ç–æ–¥–æ–ª–æ–≥–∏—è: ¬© {methodology_author}, {methodology_license}")
             lines.append("")
         
         lines.extend([
-            "## 💡 Рекомендации по использованию",
+            "## \0x1F4D1 –†–µ–∫–æ–º–µ–Ω–¥–∞—Ü–∏–∏ –ø–æ –∏—Å–ø–æ–ª—å–∑–æ–≤–∞–Ω–∏—é",
             "",
-            "- Прикладывайте скриншоты выполненных проектов",
-            "- Указывайте ссылки на GitHub репозитории",
-            "- Используйте это портфолио при откликах на вакансии",
+            "- –ü—Ä–∏–∫–ª–∞–¥—ã–≤–∞–π—Ç–µ —Å–∫—Ä–∏–Ω—à–æ—Ç—ã –≤—ã–ø–æ–ª–Ω–µ–Ω–Ω—ã—Ö –ø—Ä–æ–µ–∫—Ç–æ–≤",
+            "- –£–∫–∞–∑—ã–≤–∞–π—Ç–µ —Å—Å—ã–ª–∫–∏ –Ω–∞ GitHub —Ä–µ–ø–æ–∑–∏—Ç–æ—Ä–∏–∏",
+            "- –ò—Å–ø–æ–ª—å–∑—É–π—Ç–µ —ç—Ç–æ –ø–æ—Ä—Ç—Ñ–æ–ª–∏–æ –ø—Ä–∏ –æ—Ç–∫–ª–∏–∫–∞—Ö –Ω–∞ –≤–∞–∫–∞–Ω—Å–∏–∏",
             "",
-            "> 🚀 **Следующий шаг:** Продолжайте отмечать выполненные маркеры!"
+            "> \0x1F6E0Ô∏è **–°–ª–µ–¥—É—é—â–∏–π —à–∞–≥:** –ü—Ä–æ–¥–æ–ª–∂–∞–π—Ç–µ –æ—Ç–º–µ—á–∞—Ç—å –≤—ã–ø–æ–ª–Ω–µ–Ω–Ω—ã–µ –º–∞—Ä–∫–µ—Ä—ã!"
         ])
         
         return lines
@@ -154,13 +156,13 @@ class PortfolioGenerator:
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 f.write(portfolio_text)
             
-            print(f"✅ Портфолио сохранено: {self.output_file.absolute()}")
-            logger.info(f"Портфолио успешно создано: {self.output_file}")
+            print(f"\0x2705 –ü–æ—Ä—Ç—Ñ–æ–ª–∏–æ —Å–æ—Ö—Ä–∞–Ω–µ–Ω–æ: {self.output_file.absolute()}")
+            logger.info(f"–ü–æ—Ä—Ç—Ñ–æ–ª–∏–æ —É—Å–ø–µ—à–Ω–æ —Å–æ–∑–¥–∞–Ω–æ: {self.output_file}")
             return True
             
         except Exception as e:
-            logger.error(f"Ошибка при сохранении портфолио: {e}")
-            print(f"⚠️ Ошибка записи: {e}")
+            logger.error(f"–û—à–∏–±–∫–∞ –ø—Ä–∏ —Å–æ—Ö—Ä–∞–Ω–µ–Ω–∏–∏ –ø–æ—Ä—Ç—Ñ–æ–ª–∏–æ: {e}")
+            print(f"\0x26A0Ô∏è –û—à–∏–±–∫–∞ –∑–∞–ø–∏—Å–∏: {e}")
             return False
 
 def generate_portfolio():
@@ -172,6 +174,6 @@ if __name__ == "__main__":
     success = generate_portfolio()
     
     if success:
-        print("\n🎉 Портфолио готово! Файл: docs/my_portfolio.md")
+        print("\n\0x1F389 –ü–æ—Ä—Ç—Ñ–æ–ª–∏–æ –≥–æ—Ç–æ–≤–æ! –§–∞–π–ª: docs/my_portfolio.md")
     else:
-        print("\n❌ Не удалось создать портфолио.")
+        print("\n\0x274C –ù–µ —É–¥–∞–ª–æ—Å—å —Å–æ–∑–¥–∞—Ç—å –ø–æ—Ä—Ç—Ñ–æ–ª–∏–æ.")
