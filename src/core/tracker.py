@@ -1,6 +1,6 @@
-# Модуль отслеживания карьерного прогресса пользователя.
-# Методология "Объективные маркеры компетенций"
-# © 2025 Ekaterina Kudelya. CC BY-ND 4.0
+# –ú–æ–¥—É–ª—å –æ—Ç—Å–ª–µ–∂–∏–≤–∞–Ω–∏—è –∫–∞—Ä—å–µ—Ä–Ω–æ–≥–æ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞ –ø–æ–ª—å–∑–æ–≤–∞—Ç–µ–ª—è.
+# –ú–µ—Ç–æ–¥–æ–ª–æ–≥–∏—è "–û–±—ä–µ–∫—Ç–∏–≤–Ω—ã–µ –º–∞—Ä–∫–µ—Ä—ã –∫–æ–º–ø–µ—Ç–µ–Ω—Ü–∏–π"
+# ¬© 2025 Ekaterina Kudelya. CC BY-ND 4.0
 """
 import json
 import logging
@@ -31,7 +31,10 @@ class SkillData:
 class CareerTracker:
     def __init__(self, markers_dir: str = "src/data/markers", progress_file: str = "src/data/user_progress.json"):
         self.markers_dir = Path(markers_dir)
-        self.progress_file = Path(progress_file)
+                self.progress_file = Path(progress_file)
+        self.markers_dir = Path(markers_dir)
+        self.markers_dir.parent.mkdir(parents=True, exist_ok=True)
+        self.markers_dir.mkdir(exist_ok=True)
         self._markers_cache: Optional[Dict[str, SkillData]] = None
         self._all_markers_cache: Optional[Dict[str, Marker]] = None
         self.markers = self._load_all_markers()
@@ -39,7 +42,7 @@ class CareerTracker:
     
     def _load_all_markers(self) -> Dict[str, SkillData]:
         if not self.markers_dir.exists():
-            logger.warning(f"Директория маркеров не найдена: {self.markers_dir}")
+            logger.warning(f"–î–∏—Ä–µ–∫—Ç–æ—Ä–∏—è –º–∞—Ä–∫–µ—Ä–æ–≤ –Ω–µ –Ω–∞–π–¥–µ–Ω–∞: {self.markers_dir}")
             return {}
         
         markers = {}
@@ -57,15 +60,15 @@ class CareerTracker:
                         description=skill_data_raw.get("description", ""),
                         levels=levels
                     )
-                    logger.info(f"Загружен навык: {skill_name}")
+                    logger.info(f"–ó–∞–≥—Ä—É–∂–µ–Ω –Ω–∞–≤—ã–∫: {skill_name}")
                     
                 except json.JSONDecodeError as e:
-                    logger.error(f"Ошибка парсинга JSON в файле {file_path}: {e}")
+                    logger.error(f"–û—à–∏–±–∫–∞ –ø–∞—Ä—Å–∏–Ω–≥–∞ JSON –≤ —Ñ–∞–π–ª–µ {file_path}: {e}")
                 except Exception as e:
-                    logger.error(f"Неожиданная ошибка при загрузке {file_path}: {e}")
+                    logger.error(f"–ù–µ–æ–∂–∏–¥–∞–Ω–Ω–∞—è –æ—à–∏–±–∫–∞ –ø—Ä–∏ –∑–∞–≥—Ä—É–∑–∫–µ {file_path}: {e}")
                     
         except Exception as e:
-            logger.error(f"Критическая ошибка при загрузке маркеров: {e}")
+            logger.error(f"–ö—Ä–∏—Ç–∏—á–µ—Å–∫–∞—è –æ—à–∏–±–∫–∞ –ø—Ä–∏ –∑–∞–≥—Ä—É–∑–∫–µ –º–∞—Ä–∫–µ—Ä–æ–≤: {e}")
             
         return markers
     
@@ -88,13 +91,13 @@ class CareerTracker:
                     )
                     levels[level_key].append(marker)
                 except KeyError as e:
-                    logger.warning(f"Отсутствует ключ {e} в маркере: {marker_data}")
+                    logger.warning(f"–û—Ç—Å—É—Ç—Å—Ç–≤—É–µ—Ç –∫–ª—é—á {e} –≤ –º–∞—Ä–∫–µ—Ä–µ: {marker_data}")
                     continue
         return levels
     
     def _load_progress(self) -> Dict[str, List[str]]:
         if not self.progress_file.exists():
-            logger.info("Файл прогресса не найден, создаётся новый")
+            logger.info("–§–∞–π–ª –ø—Ä–æ–≥—Ä–µ—Å—Å–∞ –Ω–µ –Ω–∞–π–¥–µ–Ω, —Å–æ–∑–¥–∞—ë—Ç—Å—è –Ω–æ–≤—ã–π")
             return {"completed_markers": [], "in_progress_markers": []}
         
         try:
@@ -102,28 +105,28 @@ class CareerTracker:
                 data = json.load(f)
             
             if not isinstance(data, dict):
-                logger.warning("Некорректная структура файла прогресса")
+                logger.warning("–ù–µ–∫–æ—Ä—Ä–µ–∫—Ç–Ω–∞—è —Å—Ç—Ä—É–∫—Ç—É—Ä–∞ —Ñ–∞–π–ª–∞ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞")
                 return {"completed_markers": [], "in_progress_markers": []}
             
             completed = data.get("completed_markers", [])
             in_progress = data.get("in_progress_markers", [])
             
             if not isinstance(completed, list) or not all(isinstance(x, str) for x in completed):
-                logger.warning("Некорректные данные completed_markers")
+                logger.warning("–ù–µ–∫–æ—Ä—Ä–µ–∫—Ç–Ω—ã–µ –¥–∞–Ω–Ω—ã–µ completed_markers")
                 completed = []
                 
             if not isinstance(in_progress, list) or not all(isinstance(x, str) for x in in_progress):
-                logger.warning("Некорректные данные in_progress_markers")
+                logger.warning("–ù–µ–∫–æ—Ä—Ä–µ–∫—Ç–Ω—ã–µ –¥–∞–Ω–Ω—ã–µ in_progress_markers")
                 in_progress = []
             
-            logger.info(f"Загружен прогресс: {len(completed)} выполнено, {len(in_progress)} в процессе")
+            logger.info(f"–ó–∞–≥—Ä—É–∂–µ–Ω –ø—Ä–æ–≥—Ä–µ—Å—Å: {len(completed)} –≤—ã–ø–æ–ª–Ω–µ–Ω–æ, {len(in_progress)} –≤ –ø—Ä–æ—Ü–µ—Å—Å–µ")
             return {"completed_markers": completed, "in_progress_markers": in_progress}
             
         except json.JSONDecodeError as e:
-            logger.error(f"Ошибка парсинга файла прогресса: {e}")
+            logger.error(f"–û—à–∏–±–∫–∞ –ø–∞—Ä—Å–∏–Ω–≥–∞ —Ñ–∞–π–ª–∞ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞: {e}")
             return {"completed_markers": [], "in_progress_markers": []}
         except Exception as e:
-            logger.error(f"Неожиданная ошибка при загрузке прогресса: {e}")
+            logger.error(f"–ù–µ–æ–∂–∏–¥–∞–Ω–Ω–∞—è –æ—à–∏–±–∫–∞ –ø—Ä–∏ –∑–∞–≥—Ä—É–∑–∫–µ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞: {e}")
             return {"completed_markers": [], "in_progress_markers": []}
     
     def _save_progress(self) -> bool:
@@ -131,18 +134,18 @@ class CareerTracker:
             self.progress_file.parent.mkdir(parents=True, exist_ok=True)
             with open(self.progress_file, 'w', encoding='utf-8') as f:
                 json.dump(self.progress, f, ensure_ascii=False, indent=2)
-            logger.info("Прогресс успешно сохранён")
+            logger.info("–ü—Ä–æ–≥—Ä–µ—Å—Å —É—Å–ø–µ—à–Ω–æ —Å–æ—Ö—Ä–∞–Ω—ë–Ω")
             return True
         except Exception as e:
-            logger.error(f"Ошибка сохранения прогресса: {e}")
+            logger.error(f"–û—à–∏–±–∫–∞ —Å–æ—Ö—Ä–∞–Ω–µ–Ω–∏—è –ø—Ä–æ–≥—Ä–µ—Å—Å–∞: {e}")
             return False
     
     def show_progress(self) -> None:
-        print("\n📊 ВАШ ПРОГРЕСС:")
+        print("\nüìä –í–ê–® –ü–†–û–ì–†–ï–°–°:")
         print("-" * 50)
         
         if not self.markers:
-            print("⚠️ Нет загруженных маркеров.")
+            print("‚ö†Ô∏è –ù–µ—Ç –∑–∞–≥—Ä—É–∂–µ–Ω–Ω—ã—Ö –º–∞—Ä–∫–µ—Ä–æ–≤.")
             return
         
         total_completed = 0
@@ -171,25 +174,25 @@ class CareerTracker:
         if total_markers > 0:
             overall_percentage = (total_completed / total_markers) * 100
             overall_bar = self._create_progress_bar(overall_percentage)
-            print(f"{'Общий прогресс':<20} {overall_bar} {overall_percentage:5.1f}% ({total_completed}/{total_markers})")
+            print(f"{'–û–±—â–∏–π –ø—Ä–æ–≥—Ä–µ—Å—Å':<20} {overall_bar} {overall_percentage:5.1f}% ({total_completed}/{total_markers})")
     
     def _create_progress_bar(self, percentage: float, width: int = 20) -> str:
         filled_width = int((percentage / 100) * width)
-        return "█" * filled_width + "░" * (width - filled_width)
+        return "‚ñà" * filled_width + "‚ñë" * (width - filled_width)
     
     def mark_completed(self, marker_id: str) -> bool:
         marker_id = marker_id.strip()
         
         if not marker_id:
-            print("❌ ID маркера не может быть пустым")
+            print("‚ùå ID –º–∞—Ä–∫–µ—Ä–∞ –Ω–µ –º–æ–∂–µ—Ç –±—ã—Ç—å –ø—É—Å—Ç—ã–º")
             return False
         
         if marker_id in self.progress["completed_markers"]:
-            print(f"ℹ️ Маркер {marker_id} уже отмечен как выполненный")
+            print(f"‚ÑπÔ∏è –ú–∞—Ä–∫–µ—Ä {marker_id} —É–∂–µ –æ—Ç–º–µ—á–µ–Ω –∫–∞–∫ –≤—ã–ø–æ–ª–Ω–µ–Ω–Ω—ã–π")
             return True
         
         if not self._marker_exists(marker_id):
-            print(f"❌ Маркер {marker_id} не найден.")
+            print(f"‚ùå –ú–∞—Ä–∫–µ—Ä {marker_id} –Ω–µ –Ω–∞–π–¥–µ–Ω.")
             return False
         
         self.progress["completed_markers"].append(marker_id)
@@ -198,10 +201,10 @@ class CareerTracker:
             self.progress["in_progress_markers"].remove(marker_id)
         
         if self._save_progress():
-            print(f"✅ Маркер {marker_id} отмечен как выполненный! 🎉")
+            print(f"‚úÖ –ú–∞—Ä–∫–µ—Ä {marker_id} –æ—Ç–º–µ—á–µ–Ω –∫–∞–∫ –≤—ã–ø–æ–ª–Ω–µ–Ω–Ω—ã–π! üéâ")
             return True
         else:
-            print(f"❌ Ошибка при сохранении прогресса")
+            print(f"‚ùå –û—à–∏–±–∫–∞ –ø—Ä–∏ —Å–æ—Ö—Ä–∞–Ω–µ–Ω–∏–∏ –ø—Ä–æ–≥—Ä–µ—Å—Å–∞")
             return False
     
     def _marker_exists(self, marker_id: str) -> bool:
@@ -213,7 +216,7 @@ class CareerTracker:
         return False
     
     def show_recommendations(self, limit: int = 5) -> None:
-        print("\n🎯 РЕКОМЕНДАЦИИ (high priority):")
+        print("\nüéØ –†–ï–ö–û–ú–ï–ù–î–ê–¶–ò–ò (high priority):")
         print("-" * 50)
         
         high_priority_markers = []
@@ -224,22 +227,22 @@ class CareerTracker:
                         high_priority_markers.append((skill_name, marker))
         
         if not high_priority_markers:
-            print("🎉 Поздравляем! Все high-priority маркеры выполнены!")
+            print("üéâ –ü–æ–∑–¥—Ä–∞–≤–ª—è–µ–º! –í—Å–µ high-priority –º–∞—Ä–∫–µ—Ä—ã –≤—ã–ø–æ–ª–Ω–µ–Ω—ã!")
             return
         
         shown_count = 0
         for skill_name, marker in high_priority_markers[:limit]:
-            print(f"• {skill_name}: {marker.marker}")
+            print(f"‚Ä¢ {skill_name}: {marker.marker}")
             
             if marker.resources:
-                print(f" 📎 Ресурсы: {', '.join(marker.resources[:2])}")
+                print(f" üìé –†–µ—Å—É—Ä—Å—ã: {', '.join(marker.resources[:2])}")
                 if len(marker.resources) > 2:
-                    print(f" ... и ещё {len(marker.resources) - 2} ресурсов")
+                    print(f" ... –∏ –µ—â—ë {len(marker.resources) - 2} —Ä–µ—Å—É—Ä—Å–æ–≤")
             
             if marker.smart_criteria:
                 time_bound = marker.smart_criteria.get("time_bound", "")
                 if time_bound:
-                    print(f" ⏰ Время выполнения: {time_bound}")
+                    print(f" ‚è∞ –í—Ä–µ–º—è –≤—ã–ø–æ–ª–Ω–µ–Ω–∏—è: {time_bound}")
             print()
             
             shown_count += 1
@@ -247,7 +250,7 @@ class CareerTracker:
             if shown_count >= limit:
                 remaining = len(high_priority_markers) - limit
                 if remaining > 0:
-                    print(f"... и ещё {remaining} рекомендаций")
+                    print(f"... –∏ –µ—â—ë {remaining} —Ä–µ–∫–æ–º–µ–Ω–¥–∞—Ü–∏–π")
                 break
     
     def get_skill_progress(self, skill_name: str) -> Dict[str, Any]:
