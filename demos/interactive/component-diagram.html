@@ -77,7 +77,7 @@
 <body>
     <div class="container">
         <h1>Интерактивная диаграмма компонентов системы</h1>
-        
+
         <div class="legend">
             <div class="legend-item">
                 <div class="legend-color" style="background-color: #4CAF50;"></div>
@@ -92,26 +92,26 @@
                 <span>Внешние системы</span>
             </div>
         </div>
-        
+
         <div class="controls">
             <button onclick="showDiagram('full')">Полная диаграмма</button>
             <button onclick="showDiagram('it-compass')">IT-Compass</button>
             <button onclick="showDiagram('arch-compass')">Arch-Compass</button>
             <button onclick="showDiagram('cloud-reason')">Cloud-Reason</button>
         </div>
-        
+
         <div id="diagram-container"></div>
-        
+
         <div id="description" class="description">
             <h3>Описание диаграммы</h3>
-            <p>Эта интерактивная диаграмма показывает компоненты системы portfolio-system-architect и их взаимосвязи. 
+            <p>Эта интерактивная диаграмма показывает компоненты системы portfolio-system-architect и их взаимосвязи.
             Вы можете нажать на кнопки выше, чтобы отобразить различные части системы.</p>
         </div>
     </div>
 
     <script>
         mermaid.initialize({startOnLoad:true});
-        
+
         const diagrams = {
             full: `graph TD
     subgraph Основные_компоненты
@@ -122,7 +122,7 @@
         F[system-proof] --> B
         G[thought-architecture] --> B
     end
-    
+
     subgraph Интеграционные_сервисы
         B --> H[Data Sync Service]
         H --> I[Event Bus]
@@ -135,13 +135,13 @@
         H --> J[Cache Layer]
         J --> B
     end
-    
+
     subgraph Внешние_системы
         K[Внешние API] --> B
         L[Базы данных] --> H
         M[Системы мониторинга] --> H
     end`,
-            
+
             'it-compass': `graph TD
     A[it-compass] --> B[API Gateway]
     B --> C[Data Sync Service]
@@ -151,7 +151,7 @@
     E --> B
     F[User Progress DB] --> C
     G[Skill Markers DB] --> C`,
-            
+
             'arch-compass': `graph TD
     A[arch-compass-framework] --> B[API Gateway]
     B --> C[Model Repository]
@@ -161,7 +161,7 @@
     F --> A
     G[Architecture Models DB] --> C
     H[Best Practices KB] --> D`,
-            
+
             'cloud-reason': `graph TD
     A[cloud-reason] --> B[API Gateway]
     B --> C[Reasoning Engine]
@@ -172,11 +172,11 @@
     G[External Data Sources] --> D
     H[ML Models] --> C`
         };
-        
+
         function showDiagram(type) {
             const element = document.querySelector("#diagram-container");
             element.innerHTML = '<div class="mermaid">' + diagrams[type] + '</div>';
-            
+
             // Обновляем описание
             const descriptions = {
                 full: "Полная диаграмма показывает все компоненты системы и их взаимосвязи. Основные компоненты подключаются через API Gateway к интеграционным сервисам.",
@@ -184,14 +184,14 @@
                 'arch-compass': "Диаграмма Arch-Compass показывает архитектуру фреймворка для архитектурного проектирования, включая репозиторий моделей и движок анализа.",
                 'cloud-reason': "Диаграмма Cloud-Reason показывает архитектуру облачной платформы для анализа и принятия решений, включая внешние источники данных и ML-модели."
             };
-            
-            document.querySelector("#description").innerHTML = 
+
+            document.querySelector("#description").innerHTML =
                 '<h3>Описание диаграммы</h3><p>' + descriptions[type] + '</p>';
-            
+
             // Переинициализируем mermaid
             mermaid.init(undefined, ".mermaid");
         }
-        
+
         // Показываем полную диаграмму при загрузке
         window.onload = function() {
             showDiagram('full');

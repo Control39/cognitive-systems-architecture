@@ -15,7 +15,7 @@ const App = () => {
 
   // Базовый URL API
   const API_BASE_URL = 'http://localhost:5000/api';
-  
+
   // Загрузка пользователей
   const loadUsers = async () => {
     try {
@@ -45,7 +45,7 @@ const App = () => {
           password: newUser.password
         })
       });
-      
+
       if (response.ok) {
         const createdUser = await response.json();
         setUsers([...users, createdUser]);
@@ -89,7 +89,7 @@ const App = () => {
           password: loginData.password
         })
       });
-      
+
       if (response.ok) {
         const data = await response.json();
         setIsLoggedIn(true);
@@ -104,7 +104,7 @@ const App = () => {
       Alert.alert('Ошибка', 'Произошла ошибка при входе в систему');
     }
   };
-  
+
   // Функция выхода
   const handleLogout = async () => {
     try {
@@ -120,7 +120,7 @@ const App = () => {
       Alert.alert('Ошибка', 'Произошла ошибка при выходе из системы');
     }
   };
-  
+
   // Загрузка навыков пользователя
   const loadUserSkills = async (userId) => {
     try {
@@ -132,25 +132,25 @@ const App = () => {
       Alert.alert('Ошибка', 'Не удалось загрузить навыки пользователя');
     }
   };
-  
+
   // Показ навыков пользователя
   const showUserSkills = (userId) => {
     // Если навыки еще не загружены, загружаем их
     if (!skills[userId]) {
       loadUserSkills(userId);
     }
-    
+
     // Здесь можно открыть отдельный экран с навыками пользователя
     Alert.alert('Навыки', 'Здесь будут отображаться навыки пользователя');
   };
-  
+
   // Загрузка данных при запуске приложения
   useEffect(() => {
     loadMarkers();
     // Проверяем статус аутентификации
     checkAuthStatus();
   }, []);
-  
+
   // Проверка статуса аутентификации
   const checkAuthStatus = async () => {
     try {
@@ -171,7 +171,7 @@ const App = () => {
         // Экран входа
         <View style={styles.section}>
           <Text style={styles.title}>Вход в систему</Text>
-          
+
           <View style={styles.form}>
             <TextInput
               style={styles.input}
@@ -188,7 +188,7 @@ const App = () => {
             />
             <Button title="Войти" onPress={handleLogin} />
           </View>
-          
+
           {/* Форма регистрации */}
           <Text style={styles.sectionTitle}>Регистрация нового пользователя</Text>
           <View style={styles.form}>
@@ -220,7 +220,7 @@ const App = () => {
           <Text style={styles.title}>Система управления карьерным развитием</Text>
           <Text style={styles.subtitle}>Добро пожаловать, {currentUser?.username}!</Text>
           <Button title="Выйти" onPress={handleLogout} />
-          
+
           <View style={styles.section}>
             <Text style={styles.sectionTitle}>Пользователи</Text>
             {users.map(user => (
@@ -231,7 +231,7 @@ const App = () => {
               </View>
             ))}
           </View>
-          
+
           <View style={styles.section}>
             <Text style={styles.sectionTitle}>Маркеры компетенций</Text>
             {markers.map(marker => (

@@ -77,7 +77,7 @@
 <body>
     <div class="container">
         <h1>Интерактивная архитектурная модель</h1>
-        
+
         <div class="legend">
             <div class="legend-item">
                 <div class="legend-color" style="background-color: #4CAF50;"></div>
@@ -96,39 +96,39 @@
                 <span>Внешние системы</span>
             </div>
         </div>
-        
+
         <div class="controls">
             <button onclick="showDiagram('layers')">Слоистая архитектура</button>
             <button onclick="showDiagram('microservices')">Микросервисы</button>
             <button onclick="showDiagram('data-flow')">Поток данных</button>
             <button onclick="showDiagram('deployment')">Развертывание</button>
         </div>
-        
+
         <div id="diagram-container"></div>
-        
+
         <div id="description" class="description">
             <h3>Описание архитектурной модели</h3>
-            <p>Эта интерактивная модель показывает различные аспекты архитектуры системы portfolio-system-architect. 
+            <p>Эта интерактивная модель показывает различные аспекты архитектуры системы portfolio-system-architect.
             Вы можете нажать на кнопки выше, чтобы отобразить различные представления архитектуры.</p>
         </div>
     </div>
 
     <script>
         mermaid.initialize({startOnLoad:true});
-        
+
         const diagrams = {
             layers: `graph TD
     A[Пользовательский интерфейс] --> B[API Gateway]
     B --> C[Бизнес-логика]
     C --> D[Слой данных]
     D --> E[Внешние системы]
-    
+
     style A fill:#4CAF50
     style B fill:#2196F3
     style C fill:#2196F3
     style D fill:#FF9800
     style E fill:#9C27B0`,
-            
+
             microservices: `graph LR
     A[User Service] --> B[API Gateway]
     C[Portfolio Service] --> B
@@ -136,7 +136,7 @@
     E[Verification Service] --> B
     F[Thought Service] --> B
     G[Analytics Service] --> B
-    
+
     B --> H[Service Mesh]
     H --> I[Message Queue]
     I --> A
@@ -145,7 +145,7 @@
     I --> E
     I --> F
     I --> G
-    
+
     style A fill:#4CAF50
     style B fill:#2196F3
     style C fill:#4CAF50
@@ -155,7 +155,7 @@
     style G fill:#4CAF50
     style H fill:#FF9800
     style I fill:#FF9800`,
-            
+
             'data-flow': `graph LR
     A[Пользователь] --> B[Веб-интерфейс]
     B --> C[API Gateway]
@@ -173,7 +173,7 @@
     J --> C
     C --> B
     B --> A
-    
+
     style A fill:#4CAF50
     style B fill:#2196F3
     style C fill:#2196F3
@@ -184,7 +184,7 @@
     style H fill:#FF9800
     style I fill:#9C27B0
     style J fill:#FF9800`,
-            
+
             deployment: `graph TB
     subgraph Кластер_Kubernetes
         subgraph Namespace_1
@@ -192,20 +192,20 @@
             B[Backend Pod]
             C[Database Pod]
         end
-        
+
         subgraph Namespace_2
             D[Analytics Pod]
             E[ML Pod]
         end
-        
+
         F[Ingress Controller] --> A
         G[Service Mesh] --> F
     end
-    
+
     H[Внешние API] --> G
     I[Monitoring Stack] --> G
     J[Logging System] --> G
-    
+
     style A fill:#4CAF50
     style B fill:#2196F3
     style C fill:#FF9800
@@ -217,11 +217,11 @@
     style I fill:#FF9800
     style J fill:#FF9800`
         };
-        
+
         function showDiagram(type) {
             const element = document.querySelector("#diagram-container");
             element.innerHTML = '<div class="mermaid">' + diagrams[type] + '</div>';
-            
+
             // Обновляем описание
             const descriptions = {
                 layers: "Слоистая архитектура показывает разделение системы на уровни: пользовательский интерфейс, API gateway, бизнес-логику, слой данных и внешние системы. Каждый уровень имеет четко определенную ответственность.",
@@ -229,14 +229,14 @@
                 'data-flow': "Диаграмма потока данных показывает, как данные перемещаются через систему от пользователя до внешних API и обратно. Включает аутентификацию, маршрутизацию, кэширование и обработку запросов.",
                 deployment: "Диаграмма развертывания показывает, как система развернута в кластере Kubernetes с разделением на namespaces. Включает ingress controller, service mesh, внешние API и системы мониторинга."
             };
-            
-            document.querySelector("#description").innerHTML = 
+
+            document.querySelector("#description").innerHTML =
                 '<h3>Описание архитектурной модели</h3><p>' + descriptions[type] + '</p>';
-            
+
             // Переинициализируем mermaid
             mermaid.init(undefined, ".mermaid");
         }
-        
+
         // Показываем слоистую архитектуру при загрузке
         window.onload = function() {
             showDiagram('layers');

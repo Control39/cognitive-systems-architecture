@@ -176,16 +176,16 @@ footer {
     .dashboard-grid {
         grid-template-columns: 1fr;
     }
-    
+
     nav ul {
         flex-direction: column;
     }
-    
+
     nav ul li {
         margin-right: 0;
         margin-bottom: 0.5rem;
     }
-    
+
     #project-list {
         grid-template-columns: 1fr;
     }

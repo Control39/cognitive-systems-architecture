@@ -9,27 +9,27 @@ graph LR
     H --> I[(БД компетенций)]
     C --> J[Сервис визуализации]
     J --> K[(БД визуализаций)]
-    
+
     L[Внешние API] --> C
     M[Система аналитики] --> F
     M --> H
-    
+
     subgraph "Пользовательский поток"
         A --> B --> C --> D --> E
         C --> F --> G
         C --> H --> I
         C --> J --> K
     end
-    
+
     subgraph "Аналитический поток"
         F --> M
         H --> M
     end
-    
+
     subgraph "Внешние интеграции"
         L --> C
     end
-    
+
     style A fill:#4CAF50,stroke:#388E3C
     style B fill:#2196F3,stroke:#0D47A1
     style C fill:#FF9800,stroke:#E65100

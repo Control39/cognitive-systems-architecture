@@ -32,18 +32,18 @@ Write-Log "Интервал проверки: $CheckInterval секунд"
 try {
     while ($true) {
         Write-Log "Проверка новых файлов..."
-        
+
         # Получение списка новых файлов
         $NewFiles = Get-ChildItem -Path $WatchFolder -File -Recurse | Where-Object {
             $_.LastWriteTime -gt (Get-Date).AddMinutes(-5)
         }
-        
+
         if ($NewFiles.Count -gt 0) {
             Write-Log "Найдено $($NewFiles.Count) новых файлов для обработки"
-            
+
             foreach ($File in $NewFiles) {
                 Write-Log "Обработка файла: $($File.Name)"
-                
+
                 # Здесь будет логика загрузки файла
                 # Для демонстрации просто перемещаем файл
                 $DestinationPath = Join-Path $ProcessedFolder $File.Name
@@ -53,7 +53,7 @@ try {
         } else {
             Write-Log "Новых файлов не найдено"
         }
-        
+
         Write-Log "Ожидание следующей проверки..."
         Start-Sleep -Seconds $CheckInterval
     }
