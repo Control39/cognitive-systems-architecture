@@ -39,13 +39,13 @@ try {
     } else {
         $Files = Get-ChildItem -Path $SourcePath -File
     }
-    
+
     Write-Log "Найдено $($Files.Count) файлов для организации"
-    
+
     # Счетчики для статистики
     $ProcessedCount = 0
     $ErrorCount = 0
-    
+
     foreach ($File in $Files) {
         try {
             # Определение категории файла по расширению
@@ -58,17 +58,17 @@ try {
                 {$_ -in ".mp3", ".wav", ".flac"} { "audio" }
                 default { "other" }
             }
-            
+
             # Создание папки категории
             $CategoryPath = Join-Path $DestinationPath $Category
             if (!(Test-Path $CategoryPath)) {
                 New-Item -ItemType Directory -Path $CategoryPath | Out-Null
             }
-            
+
             # Перемещение файла
             $DestinationFile = Join-Path $CategoryPath $File.Name
             Move-Item -Path $File.FullName -Destination $DestinationFile -Force
-            
+
             $ProcessedCount++
             Write-Log "Организован файл: $($File.Name) -> $Category"
         } catch {
@@ -76,7 +76,7 @@ try {
             Write-Log "Ошибка при организации файла $($File.Name): $($_.Exception.Message)"
         }
     }
-    
+
     Write-Log "Организация файлов завершена"
     Write-Log "Успешно обработано: $ProcessedCount файлов"
     if ($ErrorCount -gt 0) {

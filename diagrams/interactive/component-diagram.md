@@ -5,16 +5,16 @@ graph TD
     C --> E[Сервис портфолио]
     C --> F[Сервис компетенций]
     C --> G[Сервис визуализации]
-    
+
     D --> H[(База данных пользователей)]
     E --> I[(База данных портфолио)]
     F --> J[(База данных компетенций)]
     G --> K[(База данных визуализаций)]
-    
+
     L[Внешние API] --> C
     M[Система аналитики] --> E
     M --> F
-    
+
     style A fill:#4CAF50,stroke:#388E3C
     style B fill:#2196F3,stroke:#0D47A1
     style C fill:#FF9800,stroke:#E65100
@@ -28,7 +28,7 @@ graph TD
     style K fill:#795548,stroke:#3E2723
     style L fill:#607D8B,stroke:#263238
     style M fill:#607D8B,stroke:#263238
-    
+
     classDef user fill:#4CAF50,stroke:#388E3C;
     classDef frontend fill:#2196F3,stroke:#0D47A1;
     classDef gateway fill:#FF9800,stroke:#E65100;

@@ -45,15 +45,15 @@ document.addEventListener('DOMContentLoaded', function() {
 function updateDashboard() {
     // Общее количество проектов
     document.getElementById('total-projects').textContent = projectData.length;
-    
+
     // Проекты в работе
     const inProgressCount = projectData.filter(project => project.status === 'in-progress').length;
     document.getElementById('in-progress').textContent = inProgressCount;
-    
+
     // Завершенные проекты
     const completedCount = projectData.filter(project => project.status === 'completed').length;
     document.getElementById('completed').textContent = completedCount;
-    
+
     // Ближайшие дедлайны (в течение 30 дней)
     const upcomingDeadlines = projectData.filter(project => {
         const deadline = new Date(project.deadline);
@@ -69,7 +69,7 @@ function updateDashboard() {
 function renderProjectList() {
     const projectList = document.getElementById('project-list');
     projectList.innerHTML = '';
-    
+
     projectData.forEach(project => {
         const projectElement = document.createElement('div');
         projectElement.className = 'project-item';
@@ -103,14 +103,14 @@ function initCharts() {
     // Для демонстрации создаем простой график с использованием Canvas
     const canvas = document.getElementById('projects-chart');
     const ctx = canvas.getContext('2d');
-    
+
     // Устанавливаем размеры canvas
     canvas.width = canvas.offsetWidth;
     canvas.height = canvas.offsetHeight;
-    
+
     // Очищаем canvas
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-    
+
     // Рисуем простую диаграмму
     const statuses = ['completed', 'in-progress', 'pending'];
     const counts = [
@@ -118,20 +118,20 @@ function initCharts() {
         projectData.filter(p => p.status === 'in-progress').length,
         projectData.filter(p => p.status === 'pending').length
     ];
-    
+
     const barWidth = 50;
     const spacing = 20;
     const maxCount = Math.max(...counts);
-    
+
     statuses.forEach((status, index) => {
         const barHeight = (counts[index] / maxCount) * (canvas.height - 50);
         const x = index * (barWidth + spacing) + 50;
         const y = canvas.height - barHeight - 20;
-        
+
         // Рисуем столбец
         ctx.fillStyle = getStatusColor(status);
         ctx.fillRect(x, y, barWidth, barHeight);
-        
+
         // Подпись
         ctx.fillStyle = '#000';
         ctx.font = '12px Arial';
@@ -159,10 +159,10 @@ function getStatusColor(status) {
 document.querySelectorAll('nav a').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
         e.preventDefault();
-        
+
         const targetId = this.getAttribute('href').substring(1);
         const targetElement = document.getElementById(targetId);
-        
+
         if (targetElement) {
             targetElement.scrollIntoView({
                 behavior: 'smooth'

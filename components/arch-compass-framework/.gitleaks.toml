@@ -23,7 +23,7 @@
     '''\\.md$''',
     '''^docs/''',
   ]
-  
+
   # Regex patterns for secrets that should be ignored
   regexes = [
     '''github_token_placeholder''',
@@ -31,7 +31,7 @@
     '''password_placeholder''',
     '''secret_placeholder''',
   ]
-  
+
   # Specific commits to ignore
   commits = [
     # Add specific commit hashes here if needed

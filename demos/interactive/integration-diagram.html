@@ -77,7 +77,7 @@
 <body>
     <div class="container">
         <h1>Интерактивная диаграмма интеграции проектов</h1>
-        
+
         <div class="legend">
             <div class="legend-item">
                 <div class="legend-color" style="background-color: #4CAF50;"></div>
@@ -92,26 +92,26 @@
                 <span>Внешние зависимости</span>
             </div>
         </div>
-        
+
         <div class="controls">
             <button onclick="showDiagram('full')">Полная интеграция</button>
             <button onclick="showDiagram('case-1')">Кейс 1: IT-Compass & Portfolio</button>
             <button onclick="showDiagram('case-2')">Кейс 2: Arch-Compass & Cloud-Reason</button>
             <button onclick="showDiagram('case-3')">Кейс 3: System-Proof & Thought-Arch</button>
         </div>
-        
+
         <div id="diagram-container"></div>
-        
+
         <div id="description" class="description">
             <h3>Описание диаграммы</h3>
-            <p>Эта интерактивная диаграмма показывает интеграцию проектов в экосистеме portfolio-system-architect. 
+            <p>Эта интерактивная диаграмма показывает интеграцию проектов в экосистеме portfolio-system-architect.
             Вы можете нажать на кнопки выше, чтобы отобразить различные кейсы интеграции.</p>
         </div>
     </div>
 
     <script>
         mermaid.initialize({startOnLoad:true});
-        
+
         const diagrams = {
             full: `graph TD
     subgraph Кейс_1
@@ -121,7 +121,7 @@
         D --> A
         D --> C
     end
-    
+
     subgraph Кейс_2
         E[arch-compass-framework] --> F[Model Repository]
         G[cloud-reason] --> H[Analysis Engine]
@@ -131,7 +131,7 @@
         J --> E
         J --> G
     end
-    
+
     subgraph Кейс_3
         K[thought-architecture] --> L[Thought Repository]
         M[system-proof] --> N[Proof Engine]
@@ -141,7 +141,7 @@
         P --> L
         P --> N
     end
-    
+
     subgraph Интеграционные_компоненты
         Q[API Gateway] --> R[Unified Data Layer]
         S[Authentication Service] --> Q
@@ -152,7 +152,7 @@
         K --> S
         M --> S
     end`,
-            
+
             'case-1': `graph TD
     A[it-compass] --> B[Data Sync Service]
     C[portfolio-organizer] --> B
@@ -164,7 +164,7 @@
     F[User Progress DB] --> B
     G[Portfolio DB] --> C
     H[Skill Markers DB] --> A`,
-            
+
             'case-2': `graph TD
     A[arch-compass-framework] --> B[Model Repository]
     C[cloud-reason] --> D[Analysis Engine]
@@ -176,7 +176,7 @@
     G[Architecture Models DB] --> B
     H[External Data Sources] --> D
     I[Best Practices KB] --> D`,
-            
+
             'case-3': `graph TD
     A[thought-architecture] --> B[Thought Repository]
     C[system-proof] --> D[Proof Engine]
@@ -189,11 +189,11 @@
     H[Proof Rules DB] --> D
     I[Architecture Patterns KB] --> F`
         };
-        
+
         function showDiagram(type) {
             const element = document.querySelector("#diagram-container");
             element.innerHTML = '<div class="mermaid">' + diagrams[type] + '</div>';
-            
+
             // Обновляем описание
             const descriptions = {
                 full: "Полная диаграмма интеграции показывает все три кейса интеграции и их связь через унифицированный уровень данных и сервис аутентификации.",
@@ -201,14 +201,14 @@
                 'case-2': "Кейс 2 показывает интеграцию arch-compass-framework и cloud-reason через репозиторий моделей и движок анализа. Система автоматически верифицирует архитектурные решения на основе аналитических данных.",
                 'case-3': "Кейс 3 показывает интеграцию thought-architecture и system-proof через репозиторий мыслей и движок верификации. Система проверяет согласованность между мышлением архитектора и принятыми решениями."
             };
-            
-            document.querySelector("#description").innerHTML = 
+
+            document.querySelector("#description").innerHTML =
                 '<h3>Описание диаграммы</h3><p>' + descriptions[type] + '</p>';
-            
+
             // Переинициализируем mermaid
             mermaid.init(undefined, ".mermaid");
         }
-        
+
         // Показываем полную диаграмму при загрузке
         window.onload = function() {
             showDiagram('full');
