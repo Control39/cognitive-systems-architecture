@@ -19,26 +19,32 @@
 ## 🧩 Компоненты
 
 ```
-portfolio-system-architect/
-├── components/
-│   ├── arch-compass-framework/     → Фреймворк архитектурного компаса
-│   ├── it-compass/                 → Система объективных маркеров IT-компетенций
-│   ├── cloud-reason/               → Система облачного рассуждения
-│   ├── career-development-system/  → Система развития карьеры
-│   ├── portfolio-organizer/         → Организатор портфолио
-│   ├── system-proof/              → Система доказательств
-│   └── thought-architecture/      → Архитектура мысли
-├── docs/
-│   ├── obsidian-map/               → Автогенерируемая карта знаний
-│   ├── website/                    → Автогенерируемый сайт
-│   └── methodology/                 → Методология системного мышления
-├── scripts/
-│   ├── generate_obsidian_map.py  → Генератор карты знаний
-│   ├── generate_website.py        → Генератор сайта
-│   └── run_daily.ps1              → Ежедневная автоматизация
-├── .github/workflows/update.yml    → Автообновление
-├── ARCHITECTURE.md                → Архитектурное видение
-└── index.html                     → Главная страница сайта
+cognitive-architect-manifesto/
+├── 01_JOURNEY/                    → Путь (доказательство эволюции)
+│   ├── 01_excel-to-methodology/   → IT-Compass: как табличка стала методологией
+│   ├── 02_chaos-to-system/       → RAG + Reasoning: как хаос стал архитектурой
+│   └── 03_projects-to-ecosystem/ → Как родились 7+ проектов
+│
+├── 02_METHODOLOGY/                → Ядро (то, что создано)
+│   ├── it-compass/               → Объективные маркеры (ядро методологии)
+│   ├── arch-compass/             → Архитектурный фреймворк
+│   ├── markers/                  → Маркеры компетенций по областям
+│   └── career-development/        → Система развития карьеры
+│
+├── 03_EVIDENCE/                  → Доказательства (что работает)
+│   ├── rag-system/                → Индексация тысяч файлов
+│   ├── reasoning-loop/          → Циклы анализа через ИИ
+│   └── portfolio-generator/      → Автоматическая генерация портфолио
+│
+├── 04_ARTIFACTS/                 → Артефакты (результаты)
+│   ├── case-studies/             → Кейсы применения (из диалогов)
+│   ├── demos/                    → Демонстрации (HTML, скрипты)
+│   └── grants/                   → Материалы для гранта
+│
+└── 05_MANIFEST/                 → Манифест (кто я теперь)
+    ├── README.md                → "Я создала новую профессию" (визитка)
+    ├── ARCHITECTURE.md         → Как связаны компоненты
+    └── METHODOLOGY.md          → Полное описание методологии
 ```
 
 ---
@@ -75,10 +81,10 @@ portfolio-system-architect/
 
 ## 📚 Документация
 
-- [Архитектура](ARCHITECTURE.md)
-- [Методология](docs/methodology/system-thinking.md)
-- [Компоненты](components/README.md)
-- [Интеграция](docs/integration/case-studies.md)
+- [Архитектура](05_MANIFEST/ARCHITECTURE.md)
+- [Методология](05_MANIFEST/METHODOLOGY.md)
+- [Компоненты](02_METHODOLOGY/README.md)
+- [Интеграция](04_ARTIFACTS/case-studies/README.md)
 
 ---
 
