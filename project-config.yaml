@@ -1,5 +1,5 @@
 # project-config.yaml
-version: "1.0"
+version: "1.1"
 name: "portfolio-system-architect"
 description: "Единая экосистема архитектора когнитивных систем"
 author:
@@ -20,7 +20,8 @@ components:
       - "docs/architecture.md"
     dependencies:
       - "powershell>=7.0"
-      - "gitleaks"
+      - "PSScriptAnalyzer>=1.0.0"
+      - "Pester>=5.0.0"
 
   - name: "it-compass"
     path: "components/it-compass/"
@@ -32,8 +33,14 @@ components:
       - "docs/METHODOLOGY.md"
     dependencies:
       - "python>=3.8"
-      - "pandas"
-      - "openpyxl"
+      - "streamlit>=1.32.0"
+      - "pandas>=1.3.2"
+      - "openpyxl>=3.0.0"
+      - "requests>=2.31.0"
+      - "jinja2>=3.1.3"
+    testing:
+      framework: "pytest"
+      command: "pytest components/it-compass/tests/ -v"
 
   - name: "cloud-reason"
     description: "Система облачного рассуждения с REST API и интеграцией с Git"
@@ -47,7 +54,8 @@ components:
       - "pydantic>=1.8.0"
       - "requests>=2.25.0"
       - "gitpython>=3.1.0"
-      - "gitleaks>=8.0.0"
+      - "chardet>=5.0.0"
+      - "colorama>=0.4.6"
     documentation:
       api: "components/cloud-reason/docs/API.md"
       workflows: "components/cloud-reason/docs/workflows.md"
@@ -56,6 +64,9 @@ components:
       scripts:
         - "components/cloud-reason/scripts/run_api.sh"
         - "components/cloud-reason/scripts/run_tests.sh"
+    testing:
+      framework: "pytest"
+      command: "pytest components/cloud-reason/tests/ -v --cov=components/cloud-reason/src"
     ci_cd:
       github_actions:
         workflows:
@@ -68,6 +79,10 @@ components:
     entrypoint: "src/api/reasoning_api.py"
     documentation:
       - "README.md"
+    dependencies:
+      - "python>=3.8"
+      - "fastapi>=0.68.0"
+      - "pydantic>=1.8.0"
 
   - name: "system-proof"
     path: "components/system-proof/"
@@ -76,6 +91,12 @@ components:
     documentation:
       - "README.md"
       - "RAG/docs/"
+    dependencies:
+      - "powershell>=7.0"
+      - "PSScriptAnalyzer>=1.0.0"
+    testing:
+      framework: "Pester"
+      command: "Invoke-Pester components/system-proof/tests/"
 
   - name: "thought-architecture"
     path: "components/thought-architecture/"
@@ -84,6 +105,8 @@ components:
       - "README.md"
       - "cases/"
       - "tools/"
+    dependencies:
+      - "markdown>=3.4.1"
 
   - name: "career-development-system"
     path: "components/career-development-system/"
@@ -92,6 +115,31 @@ components:
     documentation:
       - "README.md"
       - "docs/API_REFERENCE.md"
+    dependencies:
+      - "python>=3.8"
+      - "pandas>=1.3.2"
+    "unittest"
+      command: "python -m unittest discover components/career-development-system/src/tests/"
+
+  - name: "ml-model-registry"
+    path: "components/ml-model-registry/"
+    language: "python"
+    entrypoint: "src/core/registry.py"
+    documentation:
+      - "README.md"
+      - "ARCHITECTURE.md"
+    dependencies:
+      - "python>=3.8"
+      - "fastapi>=0.68.0"
+      - "sqlalchemy>=1.4.23"
+      - "pydantic>=1.8.2"
+      - "pandas>=1.3.2"
+      - "numpy>=1.21.2"
+      - "scikit-learn>=0.24.2"
+      - "mlflow>=1.20.2"
+    testing:
+      framework: "unittest"
+      command: "python -m unittest discover components/ml-model-registry/tests/"
 
 # Автоматизация — ваши реальные скрипты
 automation:
@@ -123,6 +171,12 @@ ci_cd:
       - name: "update-components"
         path: ".github/workflows/update.yml"
         triggers: ["push", "pull_request"]
+      - name: "code-quality"
+        path: ".github/workflows/code-quality.yml"
+        triggers: ["push", "pull_request"]
+      - name: "test-cloud-reason"
+        path: ".github/workflows/test-cloud-reason.yml"
+        triggers: ["push", "pull_request"]
 
 # Теги для поиска и грантов
 tags:
@@ -134,3 +188,35 @@ tags:
   - "python"
   - "powershell"
   - "ai-assisted"
+  - "ml-ops"
+  - "rag-system"
+
+# Единые стандарты проекта
+standards:
+  python:
+    version: ">=3.8"
+    formatter: "black"
+    linter: "ruff"
+    type_checker: "mypy"
+    test_framework: "pytest"
+    docstring_style: "google"
+  
+  powershell:
+    version: ">=7.0"
+    linter: "PSScriptAnalyzer"
+    test_framework: "Pester"
+  
+  documentation:
+    primary_language: "ru"
+    secondary_language: "en"
+    format: "markdown"
+  
+  testing:
+    min_coverage_python: 70
+    min_coverage_powershell: 60
+    require_tests: true
+  
+  security:
+    tools: ["gitleaks", "bandit", "git-secrets"]
+    scan_on_commit: true
+    scan_on_pr: true
