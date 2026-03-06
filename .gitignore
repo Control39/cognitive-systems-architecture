@@ -107,4 +107,8 @@ Thumbs.db
 .gigaide/
 .codeassistant/
 .gigaide/
-components/koda.yaml
+components/koda.yamlKODA.md
+koda.yaml
+tem-architect.txt
+scripts/compare_repo_versions.ps1
+repo_comparison_report.md
