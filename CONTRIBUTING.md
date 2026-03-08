@@ -89,21 +89,11 @@ git push origin feature/ваша-идея
 
 ## 🔄 Объединение IT-Compass
 
-Находится в процессе объединения двух версий IT-Compass:
+Объединение двух версий IT-Compass завершено:
 - Методология (it-compass) - авторская система маркеров компетенций
 - Приложение (it-compass.bak) - веб-интерфейс с API-интеграциями и психологической поддержкой
 
-Подробный план объединения: [integration/it-compass-merger.md](integration/it-compass-merger.md)
-
----
-
-## 🔄 Объединение IT-Compass
-
-Находится в процессе объединения двух версий IT-Compass:
-- Методология (it-compass) - авторская система маркеров компетенций
-- Приложение (it-compass.bak) - веб-интерфейс с API-интеграциями и психологической поддержкой
-
-Подробный план объединения: [integration/it-compass-merger.md](integration/it-compass-merger.md)
+Результат: единая система в `components/it-compass`. Подробный план объединения: [integration/it-compass-merger.md](integration/it-compass-merger.md)
 
 ---
 
