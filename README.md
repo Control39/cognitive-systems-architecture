@@ -90,7 +90,7 @@ python scripts/generate_website.py
 
 - [Архитектура](05_MANIFEST/ARCHITECTURE.md) — как связаны компоненты
 - [Методология](05_MANIFEST/METHODOLOGY.md) — полное описание объективных маркеров
-- [Компоненты](02_METHODOLOGY/README.md) — детали каждого модуля
+- [Компоненты](cognitive-architect-manifesto/02_METHODOLOGY/README.md) — детали каждого модуля
 - [Кейсы](04_ARTIFACTS/case-studies/README.md) — примеры применения
 
 ---
