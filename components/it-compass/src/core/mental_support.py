@@ -8,7 +8,7 @@ import json
 import random
 from datetime import datetime, date
 from typing import Dict, List, Optional, Any
-from .mental.psychological_support import PsychologicalSupport
+from .mental.psychological_support import PsychologicalSupport as PS
 
 
 class MoodRecord:
@@ -83,7 +83,7 @@ class MentalSupport:
     
     def __init__(self, user_id: str):
         self.user_id = user_id
-        self.psychological_support = PsychologicalSupport()
+        self.psychological_support = PS()
         self.mood_history: List[MoodRecord] = []
     
     def record_mood(self, mood_record: MoodRecord) -> None:
@@ -150,7 +150,7 @@ class MentalSupport:
 
 
 # Алиас для обратной совместимости
-LowEnergyMode = PsychologicalSupport
+LowEnergyMode = PS
 
 
 # Пример использования (для тестирования)

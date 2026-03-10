@@ -27,6 +27,7 @@ graph TD
     E[portfolio-organizer] --> G
     F[system-proof] --> G
     H[thought-architecture] --> G
+    I[ml-model-registry] --> G
     style G fill:#1a73e8,stroke:#fff,color:#fff
 ```
 
@@ -78,6 +79,14 @@ graph TD
   - Моделирование мышления
   - Анализ когнитивных процессов
   - Оптимизация мышления
+
+### 8. ml-model-registry
+- **Назначение**: Реестр версий ML-моделей
+- **Функции**:
+  - Хранение метаданных моделей
+  - Управление версиями
+  - Отслеживание экспериментов
+  - Интеграция с CI/CD
 
 ---
 

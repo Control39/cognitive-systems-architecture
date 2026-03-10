@@ -86,6 +86,21 @@
   - cases/01-ai-communication-breakthrough/README.md
   - tools/ai_context_setup.md
 
+## ml-model-registry
+
+### Версия 1: components/ml-model-registry/
+- **Уникальные файлы:**
+  - ARCHITECTURE.md
+  - docs/api_documentation.md
+  - docs/architecture_diagram.md
+  - src/api/main.py
+  - src/core/model_registry.py
+  - src/storage/model_storage.py
+  - src/utils/helpers.py
+  - tests/test_model_registry.py
+  - tests/test_integration.py
+  - .github/workflows/ci.yml
+
 ## cognitive-architect-manifesto
 
 ### Версия 1: cognitive-architect-manifesto/
