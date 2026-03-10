@@ -105,3 +105,12 @@ ehthumbs.db
 Thumbs.db
 .codeassistant/
 .gigaide/
+
+# Koda CLI context (local)
+KODA.md
+
+# Analysis files
+*.xlsx
+*.csv
+repo_structure_*.xlsx
+repo_structure_*.csv

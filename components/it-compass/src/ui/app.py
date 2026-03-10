@@ -13,7 +13,7 @@ from typing import Dict, List, Optional
 from ..core.tracker import SkillTracker
 from ..core.api_integration import APIIntegration
 from ..utils.portfolio_gen import PortfolioGenerator
-from ..core.mental.psychological_support import PsychologicalSupport
+from ..core.mental.psychological_support import PsychologicalSupport as PS
 
 
 class ITCompassApp:
@@ -24,7 +24,7 @@ class ITCompassApp:
         self.tracker = SkillTracker()
         self.api_integration = APIIntegration()
         self.portfolio_gen = PortfolioGenerator()
-        self.psychological_support = PsychologicalSupport()
+        self.psychological_support = PS()
         
         # Настройка страницы
         st.set_page_config(
