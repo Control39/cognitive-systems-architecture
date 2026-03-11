@@ -1,5 +1,9 @@
 # Карта версий компонентов и их уникальных файлов
 
+> **Примечание:** Этот файл содержит информацию о старой структуре. Старая структура (cognitive-architect-manifesto, 01_CONTEXT, 02_METHODOLOGY, 03_CASES, 05_PRESENTATIONS) удалена. Актуальная структура описана в README.md.
+
+---
+
 ## it-compass
 
 ### Версия 1: components/it-compass/
