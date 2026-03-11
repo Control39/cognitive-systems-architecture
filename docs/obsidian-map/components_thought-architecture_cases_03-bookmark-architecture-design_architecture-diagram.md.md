@@ -2,8 +2,8 @@
 
 - **Путь**: `components\thought-architecture\cases\03-bookmark-architecture-design\architecture-diagram.md`
 - **Тип**: .MD
-- **Размер**: 415 байт
-- **Последнее изменение**: 1772442031.3588927
+- **Размер**: 423 байт
+- **Последнее изменение**: 1772979098.4569724
 
 ## Предпросмотр
 

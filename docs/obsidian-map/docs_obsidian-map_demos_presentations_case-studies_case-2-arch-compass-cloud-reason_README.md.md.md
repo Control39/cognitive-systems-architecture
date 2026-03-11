@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\demos_presentations_case-studies_case-2-arch-compass-cloud-reason_README.md.md`
 - **Тип**: .MD
 - **Размер**: 1201 байт
-- **Последнее изменение**: 1772467523.8407414
+- **Последнее изменение**: 1772680654.9584506
 
 ## Предпросмотр
 

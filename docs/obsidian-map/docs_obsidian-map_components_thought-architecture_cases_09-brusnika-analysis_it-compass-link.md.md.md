@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_thought-architecture_cases_09-brusnika-analysis_it-compass-link.md.md`
 - **Тип**: .MD
 - **Размер**: 987 байт
-- **Последнее изменение**: 1772467523.894323
+- **Последнее изменение**: 1772680654.9411235
 
 ## Предпросмотр
 

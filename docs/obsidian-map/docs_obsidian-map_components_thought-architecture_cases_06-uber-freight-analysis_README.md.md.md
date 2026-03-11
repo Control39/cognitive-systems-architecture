@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_thought-architecture_cases_06-uber-freight-analysis_README.md.md`
 - **Тип**: .MD
 - **Размер**: 1189 байт
-- **Последнее изменение**: 1772467523.886322
+- **Последнее изменение**: 1772680654.9411235
 
 ## Предпросмотр
 

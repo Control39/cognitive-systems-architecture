@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_02_METHODOLOGY_arch-compass_README.md.md`
 - **Тип**: .MD
 - **Размер**: 466 байт
-- **Последнее изменение**: 1772467524.0383213
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 

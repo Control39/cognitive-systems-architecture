@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\demos_presentations_case-studies_case-1-it-compass-portfolio-organizer_README.md.md`
 - **Тип**: .MD
 - **Размер**: 1205 байт
-- **Последнее изменение**: 1772467523.8377407
+- **Последнее изменение**: 1772680654.9584506
 
 ## Предпросмотр
 

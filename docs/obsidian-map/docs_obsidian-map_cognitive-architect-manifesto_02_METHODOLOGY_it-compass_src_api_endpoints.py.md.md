@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_02_METHODOLOGY_it-compass_src_api_endpoints.py.md`
 - **Тип**: .MD
 - **Размер**: 853 байт
-- **Последнее изменение**: 1772467524.0443258
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 

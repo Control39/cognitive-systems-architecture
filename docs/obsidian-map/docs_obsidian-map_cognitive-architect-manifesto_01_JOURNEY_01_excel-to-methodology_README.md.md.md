@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_01_JOURNEY_01_excel-to-methodology_README.md.md`
 - **Тип**: .MD
 - **Размер**: 486 байт
-- **Последнее изменение**: 1772467524.0483215
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 

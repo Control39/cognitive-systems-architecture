@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_02_METHODOLOGY_markers_README.md.md`
 - **Тип**: .MD
 - **Размер**: 442 байт
-- **Последнее изменение**: 1772467524.040323
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 

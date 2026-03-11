@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_01_JOURNEY_02_chaos-to-system_README.md.md`
 - **Тип**: .MD
 - **Размер**: 552 байт
-- **Последнее изменение**: 1772467524.0503278
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 

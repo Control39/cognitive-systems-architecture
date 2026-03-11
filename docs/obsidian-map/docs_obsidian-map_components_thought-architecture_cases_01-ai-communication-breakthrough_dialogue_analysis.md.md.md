@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_thought-architecture_cases_01-ai-communication-breakthrough_dialogue_analysis.md.md`
 - **Тип**: .MD
 - **Размер**: 1282 байт
-- **Последнее изменение**: 1772467523.8657434
+- **Последнее изменение**: 1772680654.9238327
 
 ## Предпросмотр
 

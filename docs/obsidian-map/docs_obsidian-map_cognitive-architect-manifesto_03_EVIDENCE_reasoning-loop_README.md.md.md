@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_03_EVIDENCE_reasoning-loop_README.md.md`
 - **Тип**: .MD
 - **Размер**: 471 байт
-- **Последнее изменение**: 1772467524.0363245
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 

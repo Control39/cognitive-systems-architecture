@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_career-development-system_src_tests_test_helpers.py.md`
 - **Тип**: .MD
 - **Размер**: 858 байт
-- **Последнее изменение**: 1772467524.0223215
+- **Последнее изменение**: 1772680654.8410428
 
 ## Предпросмотр
 

@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_career-development-system_src_core_competency_tracker.py.md`
 - **Тип**: .MD
 - **Размер**: 935 байт
-- **Последнее изменение**: 1772467524.0143263
+- **Последнее изменение**: 1772680654.822011
 
 ## Предпросмотр
 

@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_03_EVIDENCE_portfolio-generator_README.md.md`
 - **Тип**: .MD
 - **Размер**: 461 байт
-- **Последнее изменение**: 1772467524.0333264
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 

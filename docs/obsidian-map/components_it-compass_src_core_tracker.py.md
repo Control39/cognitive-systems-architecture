@@ -2,35 +2,11 @@
 
 - **Путь**: `components\it-compass\src\core\tracker.py`
 - **Тип**: .PY
-- **Размер**: 12734 байт
-- **Последнее изменение**: 1771562008.9434767
+- **Размер**: 53 байт
+- **Последнее изменение**: 1773162168.147817
 
 ## Предпросмотр
 
 ```
-﻿"""
-Модуль отслеживания карьерного прогресса пользователя.
-Методология "Объективные маркеры компетенций"
-© 2025 Ekaterina Kudelya. CC BY-ND 4.0
-"""
-
-import json
-import logging
-from pathlib import Path
-from typing import Dict, List, Optional, Any
-from dataclasses import dataclass
-
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-
-
-@dataclass
-class Marker:
-    id: str
-    marker: str
-    validation: str
-    priority: str
-    resources: List[str]
-    smart_criteria: Dic
-... (файл обрезан для предпросмотра)
+from .tracker import CareerTracker, Marker, SkillData
 ```

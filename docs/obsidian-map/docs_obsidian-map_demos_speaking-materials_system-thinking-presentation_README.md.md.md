@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\demos_speaking-materials_system-thinking-presentation_README.md.md`
 - **Тип**: .MD
 - **Размер**: 1244 байт
-- **Последнее изменение**: 1772467523.8357434
+- **Последнее изменение**: 1772680654.9584506
 
 ## Предпросмотр
 

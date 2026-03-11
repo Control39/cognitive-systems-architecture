@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_thought-architecture_cases_02-system-analysis-template_README.md.md`
 - **Тип**: .MD
 - **Размер**: 1170 байт
-- **Последнее изменение**: 1772467523.8707423
+- **Последнее изменение**: 1772680654.9238327
 
 ## Предпросмотр
 

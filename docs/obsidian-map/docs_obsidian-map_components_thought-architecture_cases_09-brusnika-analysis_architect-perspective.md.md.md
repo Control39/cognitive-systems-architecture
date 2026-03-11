@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_thought-architecture_cases_09-brusnika-analysis_architect-perspective.md.md`
 - **Тип**: .MD
 - **Размер**: 1220 байт
-- **Последнее изменение**: 1772467523.889324
+- **Последнее изменение**: 1772680654.9411235
 
 ## Предпросмотр
 

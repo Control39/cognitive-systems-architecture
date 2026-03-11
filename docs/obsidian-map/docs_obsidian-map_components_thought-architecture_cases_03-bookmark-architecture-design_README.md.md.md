@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_thought-architecture_cases_03-bookmark-architecture-design_README.md.md`
 - **Тип**: .MD
 - **Размер**: 1220 байт
-- **Последнее изменение**: 1772467523.8807406
+- **Последнее изменение**: 1772680654.9238327
 
 ## Предпросмотр
 

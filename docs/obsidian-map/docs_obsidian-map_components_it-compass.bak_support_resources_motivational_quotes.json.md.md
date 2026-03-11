@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_it-compass.bak_support_resources_motivational_quotes.json.md`
 - **Тип**: .MD
 - **Размер**: 1000 байт
-- **Последнее изменение**: 1772467523.9743211
+- **Последнее изменение**: 1772680654.857226
 
 ## Предпросмотр
 

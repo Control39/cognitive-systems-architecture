@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_it-compass.bak_support_resources_crisis_contacts.json.md`
 - **Тип**: .MD
 - **Размер**: 1000 байт
-- **Последнее изменение**: 1772467523.972323
+- **Последнее изменение**: 1772680654.857226
 
 ## Предпросмотр
 

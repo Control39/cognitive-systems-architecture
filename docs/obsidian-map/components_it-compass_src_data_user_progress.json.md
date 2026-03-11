@@ -2,12 +2,14 @@
 
 - **Путь**: `components\it-compass\src\data\user_progress.json`
 - **Тип**: .JSON
-- **Размер**: 53 байт
-- **Последнее изменение**: 1771483368.386021
+- **Размер**: 65 байт
+- **Последнее изменение**: 1772680654.6223345
 
 ## Предпросмотр
 
 ```
-{"completed_markers": [], "in_progress_markers": []}
-
+{
+    "completed_markers": [],
+    "in_progress_markers": []
+}
 ```

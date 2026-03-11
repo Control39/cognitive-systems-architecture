@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_it-compass_decisions_0001-use-submodules-for-modularity.md.md`
 - **Тип**: .MD
 - **Размер**: 1218 байт
-- **Последнее изменение**: 1772467523.9873216
+- **Последнее изменение**: 1772680654.8738034
 
 ## Предпросмотр
 

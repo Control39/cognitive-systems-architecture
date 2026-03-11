@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\demos_presentations_case-studies_case-3-system-proof-thought-architecture_README.md.md`
 - **Тип**: .MD
 - **Размер**: 1213 байт
-- **Последнее изменение**: 1772467523.8417416
+- **Последнее изменение**: 1772680654.9584506
 
 ## Предпросмотр
 

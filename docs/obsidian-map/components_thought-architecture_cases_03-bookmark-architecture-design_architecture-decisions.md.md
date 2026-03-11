@@ -2,8 +2,8 @@
 
 - **Путь**: `components\thought-architecture\cases\03-bookmark-architecture-design\architecture-decisions.md`
 - **Тип**: .MD
-- **Размер**: 5505 байт
-- **Последнее изменение**: 1772442181.6938577
+- **Размер**: 5606 байт
+- **Последнее изменение**: 1772979098.4559722
 
 ## Предпросмотр
 

@@ -2,31 +2,31 @@
 
 - **Путь**: `components\it-compass\src\utils\portfolio_gen.py`
 - **Тип**: .PY
-- **Размер**: 8102 байт
-- **Последнее изменение**: 1771562019.9100618
+- **Размер**: 21845 байт
+- **Последнее изменение**: 1772680654.6223345
 
 ## Предпросмотр
 
 ```
-﻿"""
-Генератор портфолио для IT Compass.
-Методология "Объективные маркеры компетенций"
-© 2025 Ekaterina Kudelya. CC BY-ND 4.0
+"""
+Генератор портфолио для IT Compass
+Утилита для автоматической генерации профессионального портфолио
+на основе прогресса пользователя
 """
 
 import json
-import logging
-from pathlib import Path
-from typing import Dict, List, Optional
+import os
+import shutil
 from datetime import datetime
-
-logger = logging.getLogger(__name__)
+from typing import Dict, List, Optional
+from jinja2 import Environment, FileSystemLoader
 
 
 class PortfolioGenerator:
-    def __init__(
-        self,
-        markers_dir: str = "portfolio-system-architect/components/it-compass/src/data/markers",
-        progress_file: str = "portfolio-system-archit
+    """Генератор профессионального портфолио"""
+    
+    def __init__(self, template_dir: str = "templates", output_dir: str = "portfolio"):
+        """
+        Инициализация 
 ... (файл обрезан для предпросмотра)
 ```

@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_career-development-system_src_docs_api_documentation.md.md`
 - **Тип**: .MD
 - **Размер**: 1083 байт
-- **Последнее изменение**: 1772467524.0183234
+- **Последнее изменение**: 1772680654.8389416
 
 ## Предпросмотр
 

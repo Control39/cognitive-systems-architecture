@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\components_thought-architecture_cases_09-brusnika-analysis_model.md.md`
 - **Тип**: .MD
 - **Размер**: 1166 байт
-- **Последнее изменение**: 1772467523.898326
+- **Последнее изменение**: 1772680654.9411235
 
 ## Предпросмотр
 

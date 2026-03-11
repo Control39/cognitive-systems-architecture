@@ -3,7 +3,7 @@
 - **Путь**: `docs\obsidian-map\cognitive-architect-manifesto_04_ARTIFACTS_case-studies_README.md.md`
 - **Тип**: .MD
 - **Размер**: 454 байт
-- **Последнее изменение**: 1772467524.0283213
+- **Последнее изменение**: 1772680654.806386
 
 ## Предпросмотр
 
