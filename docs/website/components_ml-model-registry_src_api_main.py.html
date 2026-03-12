@@ -58,21 +58,31 @@
 <ul>
 <li><strong>Путь</strong>: <code>components\ml-model-registry\src\api\main.py</code></li>
 <li><strong>Тип</strong>: .PY</li>
-<li><strong>Размер</strong>: 266 байт</li>
-<li><strong>Последнее изменение</strong>: 1772453836.9888606</li>
+<li><strong>Размер</strong>: 571 байт</li>
+<li><strong>Последнее изменение</strong>: 1773162168.1508167</li>
 </ul>
 <h2>Предпросмотр</h2>
 <div class="codehilite"><pre><span></span><code><span class="kn">from</span><span class="w"> </span><span class="nn">fastapi</span><span class="w"> </span><span class="kn">import</span> <span class="n">FastAPI</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">portfolio_integration</span><span class="w"> </span><span class="kn">import</span> <span class="n">router</span> <span class="k">as</span> <span class="n">portfolio_router</span>
 
 <span class="n">app</span> <span class="o">=</span> <span class="n">FastAPI</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s2">&quot;ML Model Registry API&quot;</span><span class="p">,</span> <span class="n">version</span><span class="o">=</span><span class="s2">&quot;0.1.0&quot;</span><span class="p">)</span>
+
+<span class="n">app</span><span class="o">.</span><span class="n">include_router</span><span class="p">(</span><span class="n">portfolio_router</span><span class="p">)</span>
 
 <span class="nd">@app</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;/&quot;</span><span class="p">)</span>
 <span class="k">async</span> <span class="k">def</span><span class="w"> </span><span class="nf">root</span><span class="p">():</span>
     <span class="k">return</span> <span class="p">{</span><span class="s2">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;ML Model Registry API&quot;</span><span class="p">}</span>
 
+<span class="nd">@app</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;/health&quot;</span><span class="p">)</span>
+<span class="k">async</span> <span class="k">def</span><span class="w"> </span><span class="nf">health</span><span class="p">():</span>
+    <span class="k">return</span> <span class="p">{</span><span class="s2">&quot;status&quot;</span><span class="p">:</span> <span class="s2">&quot;healthy&quot;</span><span class="p">,</span> <span class="s2">&quot;service&quot;</span><span class="p">:</span> <span class="s2">&quot;ml-model-registry&quot;</span><span class="p">}</span>
+<span class="nd">@app</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;/&quot;</span><span class="p">)</span>
+<span class="k">async</span> <span class="k">def</span><span class="w"> </span><span class="nf">root</span><span class="p">():</span>
+    <span class="k">return</span> <span class="p">{</span><span class="s2">&quot;message&quot;</span><span class="p">:</span> <span class="s2">&quot;ML Model Registry API&quot;</span><span class="p">}</span>
+
 <span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
-    <span class="kn">import</span><span class="w"> </span><span class="nn">uvicorn</span>
-    <span class="n">uvicorn</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">app</span><span class="p">,</span> <span class="n">host</span><span class="o">=</span><span class="s2">&quot;0.0.0.0&quot;</span><span class="p">,</span> <span class="n">port</span><span class="o">=</span><span class="mi">8000</span><span class="p">)</span>
+    <span class="kn">import</span><span class="w"> </span><span class="nn">uvic</span>
+<span class="o">...</span> <span class="p">(</span><span class="n">файл</span> <span class="n">обрезан</span> <span class="n">для</span> <span class="n">предпросмотра</span><span class="p">)</span>
 </code></pre></div>
                 <footer class="footer">
                     <p>Сгенерировано автоматически • <code>portfolio-system-architect</code></p>
