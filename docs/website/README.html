@@ -57,107 +57,161 @@
                 <h1>Главная</h1>
 <h1>🧠 Portfolio System Architect</h1>
 <blockquote>
-<p><strong>Единая экосистема архитектора когнитивных систем</strong></p>
+<p>Система для проектирования профессионального пути архитектора когнитивных систем</p>
 </blockquote>
+<p>Этот репозиторий представляет собой <strong>методологию, инструментарий и практические доказательства</strong> новой профессиональной роли — архитектора когнитивных систем. Проект демонстрирует ценность системного мышления в эпоху ИИ через реализацию экосистемы из 8 взаимосвязанных компонентов.</p>
+<p>Проект подаётся на грант <strong>SourceCraft Open Source</strong>.</p>
 <hr />
-<h2>🎯 Цель</h2>
-<p>Создать <strong>единый, целостный, живой репозиторий <code>portfolio-system-architect</code></strong>, который:
-- Станет <strong>главным доказательством моей экспертизы</strong>
-- Покажет <strong>системное мышление как архитектурную компетенцию</strong>
-- Будет готов к подаче на <strong>грант Sourcecraft Open Source</strong>
-- Ответит на вопрос:</p>
-<blockquote>
-<p>«Кто ты?» →
-«Я — архитектор когнитивных систем. Я создаю системы, где человек управляет ИИ для проектирования сложных экосистем.»</p>
-</blockquote>
+<h2>🎯 Компоненты системы</h2>
+<table>
+<thead>
+<tr>
+<th>Компонент</th>
+<th>Описание</th>
+<th>Папка</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IT-Compass</strong></td>
+<td>Система отслеживания компетенций на основе объективных маркеров</td>
+<td><code>components/it-compass/</code></td>
+</tr>
+<tr>
+<td><strong>Arch-Compass Framework</strong></td>
+<td>Архитектурный фреймворк для проектирования систем с ИИ</td>
+<td><code>components/arch-compass-framework/</code></td>
+</tr>
+<tr>
+<td><strong>Cloud Reason (RAG)</strong></td>
+<td>RAG-система для извлечения достижений из диалогов и заметок</td>
+<td><code>components/cloud_reason/</code></td>
+</tr>
+<tr>
+<td><strong>ML Model Registry</strong></td>
+<td>Реестр ML-моделей с 11 видами тестов</td>
+<td><code>components/ml-model-registry/</code></td>
+</tr>
+<tr>
+<td><strong>Career Development System</strong></td>
+<td>Система карьерного развития с трекингом компетенций</td>
+<td><code>components/career-development-system/</code></td>
+</tr>
+<tr>
+<td><strong>Portfolio Organizer</strong></td>
+<td>Организатор портфолио</td>
+<td><code>components/portfolio-organizer/</code></td>
+</tr>
+</tbody>
+</table>
 <hr />
-<h2>🧩 Компоненты</h2>
-<div class="codehilite"><pre><span></span><code>cognitive-architect-manifesto/
-├── 01_JOURNEY/                    → Путь (доказательство эволюции)
-│   ├── 01_excel-to-methodology/   → IT-Compass: как табличка стала методологией
-│   ├── 02_chaos-to-system/       → RAG + Reasoning: как хаос стал архитектурой
-│   └── 03_projects-to-ecosystem/ → Как родились 7+ проектов
-│
-├── 02_METHODOLOGY/                → Ядро (то, что создано)
-│   ├── it-compass/               → Объективные маркеры (ядро методологии)
-│   ├── arch-compass/             → Архитектурный фреймворк
-│   ├── markers/                  → Маркеры компетенций по областям
-│   └── career-development/        → Система развития карьеры
-│
-├── 03_EVIDENCE/                  → Доказательства (что работает)
-│   ├── rag-system/                → Индексация тысяч файлов
-│   ├── reasoning-loop/          → Циклы анализа через ИИ
-│   └── portfolio-generator/      → Автоматическая генерация портфолио
-│
-├── 04_ARTIFACTS/                 → Артефакты (результаты)
-│   ├── case-studies/             → Кейсы применения (из диалогов)
-│   ├── demos/                    → Демонстрации (HTML, скрипты)
-│   └── grants/                   → Материалы для гранта
-│
-└── 05_MANIFEST/                 → Манифест (кто я теперь)
-    ├── README.md                → &quot;Я создала новую профессию&quot; (визитка)
-    ├── ARCHITECTURE.md         → Как связаны компоненты
-    └── METHODOLOGY.md          → Полное описание методологии
+<h2>📁 Структура репозитория</h2>
+<div class="codehilite"><pre><span></span><code><span class="n">portfolio</span><span class="o">-</span><span class="n">system</span><span class="o">-</span><span class="n">architect</span><span class="o">/</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">components</span><span class="o">/</span><span class="w">           </span><span class="p">#</span><span class="w"> </span><span class="err">Реализации</span><span class="w"> </span><span class="err">ключевых</span><span class="w"> </span><span class="err">компонентов</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">it</span><span class="o">-</span><span class="n">compass</span><span class="o">/</span><span class="w">       </span><span class="p">#</span><span class="w"> </span><span class="err">Система</span><span class="w"> </span><span class="err">отслеживания</span><span class="w"> </span><span class="err">компетенций</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">arch</span><span class="o">-</span><span class="n">compass</span><span class="o">-</span><span class="n">framework</span><span class="o">/</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="err">Архитектурный</span><span class="w"> </span><span class="err">фреймворк</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">cloud_reason</span><span class="o">/</span><span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">RAG</span><span class="o">-</span><span class="err">система</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">ml</span><span class="o">-</span><span class="n">model</span><span class="o">-</span><span class="n">registry</span><span class="o">/</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="err">Реестр</span><span class="w"> </span><span class="n">ML</span><span class="o">-</span><span class="err">моделей</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">career</span><span class="o">-</span><span class="n">development</span><span class="o">-</span><span class="n">system</span><span class="o">/</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="err">Карьерная</span><span class="w"> </span><span class="err">система</span>
+<span class="err">│</span><span class="w">   </span><span class="err">└──</span><span class="w"> </span><span class="n">portfolio</span><span class="o">-</span><span class="n">organizer</span><span class="o">/</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="err">Организатор</span><span class="w"> </span><span class="err">портфолио</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">cases</span><span class="o">/</span><span class="w">                </span><span class="p">#</span><span class="w"> </span><span class="err">Практические</span><span class="w"> </span><span class="err">кейсы</span><span class="w"> </span><span class="err">применения</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">evolution</span><span class="o">-</span><span class="n">cases</span><span class="o">/</span><span class="w"> </span><span class="p">#</span><span class="w"> </span><span class="err">Эволюционные</span><span class="w"> </span><span class="err">кейсы</span><span class="w"> </span><span class="p">(</span><span class="n">Uber</span><span class="w"> </span><span class="n">Freight</span><span class="p">,</span><span class="w"> </span><span class="err">Брусника</span><span class="p">)</span>
+<span class="err">│</span><span class="w">   </span><span class="err">└──</span><span class="w"> </span><span class="n">thinking</span><span class="o">-</span><span class="n">cases</span><span class="o">/</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="err">Мыслительные</span><span class="w"> </span><span class="err">кейсы</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">docs</span><span class="o">/</span><span class="w">                 </span><span class="p">#</span><span class="w"> </span><span class="err">Документация</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">architecture</span><span class="o">/</span><span class="w">    </span><span class="p">#</span><span class="w"> </span><span class="err">Архитектурная</span><span class="w"> </span><span class="err">документация</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">methodology</span><span class="o">/</span><span class="w">      </span><span class="p">#</span><span class="w"> </span><span class="err">Методологические</span><span class="w"> </span><span class="err">материалы</span>
+<span class="err">│</span><span class="w">   </span><span class="err">├──</span><span class="w"> </span><span class="n">templates</span><span class="o">/</span><span class="w">       </span><span class="p">#</span><span class="w"> </span><span class="err">Шаблоны</span><span class="w"> </span><span class="err">документации</span>
+<span class="err">│</span><span class="w">   </span><span class="err">└──</span><span class="w"> </span><span class="n">history</span><span class="o">/</span><span class="w">         </span><span class="p">#</span><span class="w"> </span><span class="err">История</span><span class="w"> </span><span class="err">развития</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">examples</span><span class="o">/</span><span class="w">            </span><span class="p">#</span><span class="w"> </span><span class="err">Примеры</span><span class="w"> </span><span class="err">использования</span><span class="w"> </span><span class="err">компонентов</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">config</span><span class="o">/</span><span class="w">              </span><span class="p">#</span><span class="w"> </span><span class="err">Конфигурационные</span><span class="w"> </span><span class="err">файлы</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">data</span><span class="o">/</span><span class="w">                </span><span class="p">#</span><span class="w"> </span><span class="err">Данные</span><span class="w"> </span><span class="err">и</span><span class="w"> </span><span class="err">ресурсы</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">scripts</span><span class="o">/</span><span class="w">             </span><span class="p">#</span><span class="w"> </span><span class="err">Скрипты</span><span class="w"> </span><span class="err">автоматизации</span>
+<span class="err">├──</span><span class="w"> </span><span class="n">tests</span><span class="o">/</span><span class="w">               </span><span class="p">#</span><span class="w"> </span><span class="err">Интеграционные</span><span class="w"> </span><span class="err">тесты</span>
+<span class="err">└──</span><span class="w"> </span><span class="p">.</span><span class="n">github</span><span class="o">/</span><span class="w">             </span><span class="p">#</span><span class="w"> </span><span class="n">GitHub</span><span class="w"> </span><span class="n">Actions</span><span class="w"> </span><span class="n">CI</span><span class="o">/</span><span class="n">CD</span>
+</code></pre></div>
+
+<h3>Назначение папок</h3>
+<ul>
+<li><code>components/</code> — исполняемые компоненты системы с полной структурой (src, tests, docs)</li>
+<li><code>cases/</code> — реальные кейсы применения компонентов для разных отраслей</li>
+<li><code>docs/</code> — централизованная документация (архитектура, методология, шаблоны)</li>
+<li><code>examples/</code> — примеры использования для разработчиков, практиков, новичков</li>
+<li><code>config/</code> — конфигурации для разных окружений</li>
+<li><code>data/</code> — данные для тестирования и демонстраций</li>
+<li><code>scripts/</code> — скрипты автоматизации (генерация сайта, карты знаний, CI/CD)</li>
+</ul>
+<hr />
+<h2>🚀 Быстрый старт</h2>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Клонировать</span>
+git<span class="w"> </span>clone<span class="w"> </span>https://github.com/leadarchitect-ai/portfolio-system-architect.git
+<span class="nb">cd</span><span class="w"> </span>portfolio-system-architect
+
+<span class="c1"># Сгенерировать карту знаний для Obsidian</span>
+python<span class="w"> </span>scripts/generate_obsidian_map.py
+
+<span class="c1"># Сгенерировать сайт-портфолио</span>
+python<span class="w"> </span>scripts/generate_website.py
+
+<span class="c1"># Запустить ежедневную автоматизацию</span>
+.<span class="se">\s</span>cripts<span class="se">\r</span>un_daily.ps1
+
+<span class="c1"># Запустить все тесты</span>
+python<span class="w"> </span>-m<span class="w"> </span>pytest<span class="w"> </span>tests/
 </code></pre></div>
 
 <hr />
-<h2>🚀 Начало работы</h2>
-<ol>
-<li>
-<p><strong>Клонирование репозитория</strong>
-   <code>bash
-   git clone https://github.com/leadarchitect-ai/portfolio-system-architect.git
-   cd portfolio-system-architect</code></p>
-</li>
-<li>
-<p><strong>Установка зависимостей</strong>
-   <code>bash
-   pip install -r requirements.txt</code></p>
-</li>
-<li>
-<p><strong>Генерация карты знаний</strong>
-   <code>bash
-   python scripts/generate_obsidian_map.py</code></p>
-</li>
-<li>
-<p><strong>Генерация веб-сайта</strong>
-   <code>bash
-   python scripts/generate_website.py</code></p>
-</li>
-<li>
-<p><strong>Ежедневная автоматизация</strong>
-   <code>powershell
-   .\scripts\run_daily.ps1</code></p>
-</li>
-</ol>
-<hr />
-<h2>📚 Документация</h2>
+<h2>📚 Примеры использования</h2>
+<h3>Для разработчиков (контрибьюторов)</h3>
 <ul>
-<li><a href="05_MANIFEST/ARCHITECTURE.md">Архитектура</a></li>
-<li><a href="05_MANIFEST/METHODOLOGY.md">Методология</a></li>
-<li><a href="02_METHODOLOGY/README.md">Компоненты</a></li>
-<li><a href="04_ARTIFACTS/case-studies/README.md">Интеграция</a></li>
+<li><strong>IT-Compass</strong>: Расширить систему новым типом маркера для оценки навыков в области ИИ</li>
+<li><strong>Arch-Compass</strong>: Добавить новый плагин для интеграции с Kubernetes</li>
+<li><strong>RAG-engine</strong>: Интегрировать новую модель YandexGPT для анализа архитектурных решений</li>
+</ul>
+<h3>Для практиков (архитекторов, аналитиков)</h3>
+<ul>
+<li><strong>IT-Compass</strong>: Оценить текущий уровень компетенций команды</li>
+<li><strong>Arch-Compass</strong>: Спроектировать архитектуру микросервисного приложения</li>
+<li><strong>RAG-engine</strong>: Проанализировать архитектурные решения конкурентов</li>
+</ul>
+<h3>Для новичков</h3>
+<ul>
+<li><strong>IT-Compass</strong>: Отслеживать прогресс в изучении Python</li>
+<li><strong>Arch-Compass</strong>: Понять принципы проектирования архитектуры</li>
+<li><strong>RAG-engine</strong>: Понять, как ИИ помогает в архитектурном анализе</li>
+</ul>
+<p>Подробные примеры см. в <code>examples/</code>.</p>
+<hr />
+<h2>🔬 Доказательство концепции</h2>
+<ul>
+<li>✅ <strong>Экосистема из 6+ компонентов</strong>, связанных в единое целое</li>
+<li>✅ <strong>Сотни уникальных файлов</strong> — ни одного дубликата (автоматическая верификация)</li>
+<li>✅ <strong>11 тестов</strong> для ML Model Registry (контракты, fuzz, безопасность)</li>
+<li>✅ <strong>7 ADR-документов</strong> с архитектурными решениями</li>
+<li>✅ <strong>Полностью автоматизированная генерация</strong> сайта и карты знаний</li>
 </ul>
 <hr />
-<h2>🏆 Грант Sourcecraft Open Source</h2>
-<blockquote>
-<p>«Этот репозиторий — результат двух лет экспериментов, ошибок и прорывов.
-Здесь я переопределяю роль архитектора в эпоху ИИ.
-Я не пишу код — я проектирую системы, где человек управляет ИИ для создания новых форм экспертизы.
-Этот проект — мой вклад в будущее профессии.»</p>
-</blockquote>
-<hr />
-<h2>📄 Лицензия</h2>
-<p>Этот проект лицензирован по лицензии MIT - см. файл <a href="LICENSE">LICENSE</a> для подробностей.</p>
+<h2>📂 Ключевые разделы документации</h2>
+<ul>
+<li><a href="docs/architecture/components.md">Архитектура</a> — как связаны компоненты</li>
+<li><a href="docs/methodology/">Методология</a> — описание объективных маркеров</li>
+<li><a href="cases/">Кейсы</a> — примеры применения</li>
+<li><a href="docs/history/evolution.md">История</a> — хронология развития</li>
+</ul>
 <hr />
 <h2>🤝 Вклад</h2>
-<p>Вклады приветствуются! См. <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> для получения дополнительной информации.</p>
+<p>Ваш вклад приветствуется! Пожалуйста, ознакомьтесь с <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
+<hr />
+<h2>📄 Лицензия</h2>
+<ul>
+<li><strong>Код:</strong> MIT</li>
+<li><strong>Методология:</strong> CC BY-ND 4.0</li>
+</ul>
 <hr />
 <h2>📧 Контакты</h2>
 <ul>
-<li><strong>Автор</strong>: Екатерина Куделя</li>
-<li><strong>Email</strong>: leadarchitect.ai@gmail.com</li>
-<li><strong>GitHub</strong>: <a href="https://github.com/leadarchitect-ai">leadarchitect-ai</a></li>
+<li><strong>Автор:</strong> Екатерина Куделя</li>
+<li><strong>Email:</strong> leadarchitect@yandex.ru</li>
+<li><strong>GitHub:</strong> github.com/leadarchitect-ai</li>
 </ul>
                 <footer class="footer">
                     <p>Сгенерировано автоматически • <code>portfolio-system-architect</code></p>
