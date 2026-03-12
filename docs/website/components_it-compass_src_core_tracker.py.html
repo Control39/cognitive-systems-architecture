@@ -58,35 +58,11 @@
 <ul>
 <li><strong>Путь</strong>: <code>components\it-compass\src\core\tracker.py</code></li>
 <li><strong>Тип</strong>: .PY</li>
-<li><strong>Размер</strong>: 12734 байт</li>
-<li><strong>Последнее изменение</strong>: 1771562008.9434767</li>
+<li><strong>Размер</strong>: 53 байт</li>
+<li><strong>Последнее изменение</strong>: 1773162168.147817</li>
 </ul>
 <h2>Предпросмотр</h2>
-<div class="codehilite"><pre><span></span><code><span class="sd">&quot;&quot;&quot;</span>
-<span class="sd">Модуль отслеживания карьерного прогресса пользователя.</span>
-<span class="sd">Методология &quot;Объективные маркеры компетенций&quot;</span>
-<span class="sd">© 2025 Ekaterina Kudelya. CC BY-ND 4.0</span>
-<span class="sd">&quot;&quot;&quot;</span>
-
-<span class="kn">import</span><span class="w"> </span><span class="nn">json</span>
-<span class="kn">import</span><span class="w"> </span><span class="nn">logging</span>
-<span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
-<span class="kn">from</span><span class="w"> </span><span class="nn">typing</span><span class="w"> </span><span class="kn">import</span> <span class="n">Dict</span><span class="p">,</span> <span class="n">List</span><span class="p">,</span> <span class="n">Optional</span><span class="p">,</span> <span class="n">Any</span>
-<span class="kn">from</span><span class="w"> </span><span class="nn">dataclasses</span><span class="w"> </span><span class="kn">import</span> <span class="n">dataclass</span>
-
-<span class="n">logging</span><span class="o">.</span><span class="n">basicConfig</span><span class="p">(</span><span class="n">level</span><span class="o">=</span><span class="n">logging</span><span class="o">.</span><span class="n">INFO</span><span class="p">)</span>
-<span class="n">logger</span> <span class="o">=</span> <span class="n">logging</span><span class="o">.</span><span class="n">getLogger</span><span class="p">(</span><span class="vm">__name__</span><span class="p">)</span>
-
-
-<span class="nd">@dataclass</span>
-<span class="k">class</span><span class="w"> </span><span class="nc">Marker</span><span class="p">:</span>
-    <span class="nb">id</span><span class="p">:</span> <span class="nb">str</span>
-    <span class="n">marker</span><span class="p">:</span> <span class="nb">str</span>
-    <span class="n">validation</span><span class="p">:</span> <span class="nb">str</span>
-    <span class="n">priority</span><span class="p">:</span> <span class="nb">str</span>
-    <span class="n">resources</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span>
-    <span class="n">smart_criteria</span><span class="p">:</span> <span class="n">Dic</span>
-<span class="o">...</span> <span class="p">(</span><span class="n">файл</span> <span class="n">обрезан</span> <span class="n">для</span> <span class="n">предпросмотра</span><span class="p">)</span>
+<div class="codehilite"><pre><span></span><code><span class="kn">from</span><span class="w"> </span><span class="nn">.tracker</span><span class="w"> </span><span class="kn">import</span> <span class="n">CareerTracker</span><span class="p">,</span> <span class="n">Marker</span><span class="p">,</span> <span class="n">SkillData</span>
 </code></pre></div>
                 <footer class="footer">
                     <p>Сгенерировано автоматически • <code>portfolio-system-architect</code></p>
