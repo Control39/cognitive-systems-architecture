@@ -1,0 +1,1 @@
+Flask==2.3.2\nflask-wtf>=1.2.0

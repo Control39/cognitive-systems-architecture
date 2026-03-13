@@ -4,10 +4,16 @@
 """
 
 from flask import Flask
+from flask_wtf.csrf import CSRFProtect
 from api.reasoning_api import app as reasoning_app
 from api.ml_model_registry_integration import bp as ml_model_registry_bp
 
 app = Flask(__name__)
+
+app.secret_key = os.environ.get('SECRET_KEY')
+if not app.secret_key:
+    raise ValueError('SECRET_KEY environment variable not set!')
+csrf = CSRFProtect(app)
 
 # Регистрируем blueprint для интеграции с ML Model Registry
 app.register_blueprint(ml_model_registry_bp)
@@ -39,4 +45,4 @@ def health():
     return {'status': 'healthy'}
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5001, debug=True)
+    app.run(host='0.0.0.0', port=5001, debug=os.environ.get('FLASK_DEBUG', 'False').lower() == 'true')
