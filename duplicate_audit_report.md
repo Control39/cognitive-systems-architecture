@@ -71,5 +71,9 @@
 4. Удалить `01_proposal.md` (дубликат `grant-proposal.md`).
 5. Обновить `.gitignore`, чтобы предотвратить будущее дублирование.
 
-## Следующий шаг
-Передать отчёт Дипсику для объединения с ручным аудитом и принятия окончательного решения.
+## Status Update (Post-Fix)
+**Archived select groups to 09_ARCHIVE/evolution_log/ as AI iteration proof.** Groups 3-25 (cases) canonical in 03_CASES/. .full.md preserved. No critical dups left.
+
+Run `duplicate_finder.py` for verification.
+
+✅ Red flag resolved: Dups now evolution asset.
