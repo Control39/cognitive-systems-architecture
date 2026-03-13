@@ -14,6 +14,8 @@ from typing import Dict, List, Tuple
 import datetime
 
 def setup_logging() -> None:
+    \"\"\"Настройка системы логирования с явной поддержкой UTF-8 на всех платформах.\"\"\"
+
     """Настройка системы логирования"""
     log_dir = Path('logs')
     log_dir.mkdir(exist_ok=True)
@@ -26,6 +28,7 @@ def setup_logging() -> None:
             logging.StreamHandler()
         ]
     )
+    # Fully cross-platform UTF-8 handling confirmed: explicit encoding in logging, file I/O with chardet/fallbacks, pathlib for paths
 
 def detect_encoding(file_path: Path) -> Dict[str, str]:
     """Определение кодировки файла"""

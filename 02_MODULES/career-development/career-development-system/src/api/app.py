@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, request, session
 from flask_sqlalchemy import SQLAlchemy
+from flask_wtf.csrf import CSRFProtect
 import os
 import hashlib
 import secrets
@@ -9,6 +10,8 @@ app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
     "DATABASE_URL", "sqlite:///career_dev.db"
 )
 db = SQLAlchemy(app)
+
+csrf = CSRFProtect(app)
 
 
 # Модель пользователя
@@ -453,7 +456,9 @@ def get_users():
 
 if __name__ == "__main__":
     # Для сессий необходимо установить секретный ключ
-    app.secret_key = os.environ.get("SECRET_KEY", "your-secret-key-here")
+app.secret_key = os.environ.get("SECRET_KEY")
+if not app.secret_key:
+    raise ValueError("SECRET_KEY environment variable not set!")
     with app.app_context():
         db.create_all()
-    app.run(debug=True)
+    app.run(debug=os.environ.get('FLASK_DEBUG', 'False').lower() == 'true')

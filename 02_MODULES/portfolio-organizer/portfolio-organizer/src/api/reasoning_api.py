@@ -3,11 +3,17 @@ API для анализа и рекомендаций по проектам по
 """
 
 from flask import Flask, jsonify, request
+from flask_wtf.csrf import CSRFProtect
 from typing import Dict, List, Any
 import json
 import os
 
 app = Flask(__name__)
+
+app.secret_key = os.environ.get('SECRET_KEY')
+if not app.secret_key:
+    raise ValueError('SECRET_KEY environment variable not set!')
+csrf = CSRFProtect(app)
 
 # Демонстрационные данные проектов
 SAMPLE_PROJECTS = [
@@ -169,4 +175,4 @@ def health_check():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=os.environ.get('FLASK_DEBUG', 'False').lower() == 'true')
