@@ -33,5 +33,5 @@ Project ready for submission:
 - Evidence: [Metrics](08_EVIDENCE/metrics/), Coverage badges above
 - Architecture: [Ecosystem](diagrams/ecosystems.mmd)
 
-License: MIT | Author: Екатерина Куделя
+\n\n## 📚 Документация и анализ\n\nПолный анализ экосистемы проекта доступен в:\n- [**PROJECT_ANALYSIS.md**](05_DOCUMENTATION/docs/PROJECT_ANALYSIS.md) - детальный разбор архитектуры, модулей и рекомендаций\n- [**05_DOCUMENTATION/docs/**](05_DOCUMENTATION/docs/) - вся техническая документация\n\n**Статус:** ✅ Все критические замечания нейроревью исправлены, PR #123 готов к слиянию.\n\nLicense: MIT | Author: Екатерина Куделя\n
 
