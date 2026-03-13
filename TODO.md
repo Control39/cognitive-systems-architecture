@@ -6,7 +6,7 @@ Status: Stage 1 - Cleanup
 
 ### Stage 1: Cleanup
 - [x] Created TODO.md  
-- [ ] Update TODO-neuroreview.md: Mark all [x]
+- [x] Update TODO-neuroreview.md: Mark all [x]
 - [x] git add .
 - [x] git commit -m \"chore: final neuroreview fixes and cleanup\"
 - [x] git push origin migration/structure-2026
