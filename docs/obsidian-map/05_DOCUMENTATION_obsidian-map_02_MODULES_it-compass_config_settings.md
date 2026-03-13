@@ -1,0 +1,34 @@
+# 02 Modules It Compass Config Settings
+
+- **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_config_settings.md`
+- **Тип**: .MD
+- **Размер**: 845 байт
+- **Последнее изменение**: 2026-03-13 20:21:35
+
+## Превью
+
+```
+# Settings
+
+- **Путь**: `02_MODULES\it-compass\config\settings.json`
+- **Тип**: .JSON
+- **Размер**: 2,632 байт
+- **Последнее изменение**: 2026-03-06 14:43:00
+
+## Превью
+
+```
+{
+  "app": {
+    "name": "IT Compass",
+    "version": "1.0.0",
+    "description": "Система отслеживания IT навыков и поддержки ментального здоровья",
+    "author": "IT Compass Team",
+    "license": "MIT"
+  },
+  "tracking": {
+    "default_markers_file": "data/markers.json",
+    "user_progress_file": "data/user_progress.json",
+... (файл продолжается)
+```
+

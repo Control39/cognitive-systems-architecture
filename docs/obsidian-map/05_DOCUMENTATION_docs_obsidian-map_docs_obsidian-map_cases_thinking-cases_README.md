@@ -1,0 +1,38 @@
+# Docs Obsidian Map Cases Thinking Cases Readme
+
+- **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_cases_thinking-cases_README.md`
+- **Тип**: .MD
+- **Размер**: 1,116 байт
+- **Последнее изменение**: 2026-03-13 20:23:21
+
+## Превью
+
+```
+# Cases Thinking Cases Readme
+
+- **Путь**: `docs\obsidian-map\cases_thinking-cases_README.md`
+- **Тип**: .MD
+- **Размер**: 1,087 байт
+- **Последнее изменение**: 2026-03-12 10:52:56
+
+## Превью
+
+```
+# Readme
+
+- **Путь**: `cases\thinking-cases\README.md`
+- **Тип**: .MD
+- **Размер**: 3,151 байт
+- **Последнее изменение**: 2026-03-12 06:56:05
+
+## Превью
+
+```
+# Thinking Cases
+
+Архитектурные и аналитические кейсы, демонстрирующие навыки системного мышления, анализа проблем и проектирования решений.
+
+## 
+... (файл продолжается)
+```
+

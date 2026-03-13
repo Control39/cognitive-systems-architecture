@@ -1,0 +1,26 @@
+# Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 04 Documentation Automation Problem
+
+- **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_04-documentation-automation_problem.md`
+- **Тип**: .MD
+- **Размер**: 1,006 байт
+- **Последнее изменение**: 2026-03-13 21:04:54
+
+## Превью
+
+```
+# Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 04 Documentation Automation Problem
+
+- **Путь**: `docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_04-documentation-automation_problem.md`
+- **Тип**: .MD
+- **Размер**: 1,038 байт
+- **Последнее изменение**: 2026-03-12 11:24:57
+
+## Превью
+
+```
+# Docs Obsidian Map 03 Cases Thinking Cases 04 Documentation Automation Problem
+
+- **Путь**: `docs\obsidian-map\docs_obsidian-map_03_CASES_thinking-cases_04-documentat
+... (файл продолжается)
+```
+

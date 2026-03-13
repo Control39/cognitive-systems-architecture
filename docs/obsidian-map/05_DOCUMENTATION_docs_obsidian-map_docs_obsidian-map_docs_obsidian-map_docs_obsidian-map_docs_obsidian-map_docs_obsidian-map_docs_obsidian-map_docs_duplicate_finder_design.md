@@ -1,0 +1,26 @@
+# Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Duplicate Finder Design
+
+- **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_duplicate_finder_design.md`
+- **Тип**: .MD
+- **Размер**: 1,035 байт
+- **Последнее изменение**: 2026-03-13 20:22:33
+
+## Превью
+
+```
+# Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Duplicate Finder Design
+
+- **Путь**: `docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_duplicate_finder_design.md`
+- **Тип**: .MD
+- **Размер**: 1,010 байт
+- **Последнее изменение**: 2026-03-12 11:25:10
+
+## Превью
+
+```
+# Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Duplicate Finder Design
+
+- **Путь**: `docs
+... (файл продолжается)
+```
+
