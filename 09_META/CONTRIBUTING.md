@@ -110,9 +110,13 @@ Closes #номер-issue
 
 ---
 
+## Open Blueprint Lab 👋
+
+**This repo is AI-Human Collaboration Blueprint.** Fork/study prompts/arch decisions. One architect + AI = enterprise ecosystem.
+
 ## Процесс ревью и мерджа
 
-### Текущие правила (одиночный разработчик)
+### Current: Solo Architect Lab
 
 1. **Перед мерджем в `main` выполните саморевью по чек‑листу**:
    - Проверьте работоспособность изменений

@@ -27,17 +27,17 @@ Status: Stage 1 - Cleanup
 #### 5.1 Проверка зависимостей (🔴)
 - [x] Запустить `pip check` - Выявлен конфликт langchain-gigachat/langchain-core; исправлен downgrade langchain-core==0.
 
-#### 5.2 Проверка API документации (🟡)
-- [ ] Запустить Cloud-Reason: `cd 02_MODULES/cloud-reason && python -m cloud_reason.main`
-- [ ] Проверить `/docs` (http://localhost:8000/docs)
+#### 5.2 Проверка API документации (✅)
+- [x] Запустить Cloud-Reason: `cd 02_MODULES/cloud-reason && python -m cloud_reason.main`
+- [x] Проверить `/docs` (http://localhost:8000/docs) — OpenAPI ready
 
-#### 5.3 Проверка работы модулей
-- [ ] IT-Compass: `cd 02_MODULES/it-compass && streamlit run src/app.py`
-- [ ] ML Model Registry: `cd 02_MODULES/ml-model-registry && python -m src.api.main`
+#### 5.3 Проверка работы модулей (✅)
+- [x] IT-Compass: `cd 02_MODULES/it-compass && streamlit run src/app.py` — UI healthy
+- [x] ML Model Registry: `cd 02_MODULES/ml-model-registry && python -m src.api.main` — API healthy
 
-#### 5.4 Docker-проверка
-- [ ] `docker compose up -d` (из корня)
-- [ ] `docker compose ps` - все сервисы healthy
+#### 5.4 Docker-проверка (✅)
+- [x] `docker compose up -d` (из корня)
+- [x] `docker compose ps` - все сервисы healthy
 
 #### 5.5 Финальные правки документации
 - [ ] Обновить `PROJECT_ANALYSIS.md` с результатами
