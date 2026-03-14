@@ -1,27 +1,19 @@
-# Monitoring + GitHub Mirroring Implementation TODO
+# GigaChain Implementation Plan - Progress Tracker
+## Status: 6/7 Steps Complete ✅
 
-## [x] 1. Create monitoring stack files
-- monitoring/prometheus/prometheus.yml
-- monitoring/grafana/dashboards/portfolio.json  
-- monitoring/grafana/provisioning/datasources/prometheus.yml
-- docker-compose.monitoring.yml
+**Approved Plan MVP Priorities:** Full plan doc + infra setup (1-2). Then RAG/MCP bridge (3), proofs (4).
 
-## [x] 2. Create documentation
-- 05_DOCUMENTATION/docs/monitoring.md
+1. [x] Create GigaChain_Implementation_Plan.md in 05_DOCUMENTATION/grants/
+2. [x] Update cloud-reason/requirements.txt + .env.example
+3. [x] Create gigachain_bridge.py in cloud-reason/
+4. [x] Update it-compass/ARCHITECTURE.md
+5. [x] Create system-proof/README.md + proof_schema.py
+6. [x] Add metrics/gigachain_metrics.md in 08_EVIDENCE/
+7. [ ] Test: pip install + docker compose up cloud-reason + pytest
 
-## [x] 3. Create GitHub Actions mirroring
-- .github/workflows/mirror.yml (push to main trigger)
+**Next:** Install deps, set .env, test bridge.
 
-## [x] 4. Add Prometheus instrumentation to services (FastAPI apps; it-compass Streamlit optional)
-- Edit cloud-reason FastAPI app + requirements.txt
-- Edit ml-model-registry/src/api/main.py + requirements.txt
-- it-compass /metrics endpoint if needed
 
-## [ ] 5. Update README.md (monitoring section, badges, launch cmd)
+**Next:** Step 1 complete → Mark [x]. Run `pip install -r 02_MODULES/cloud-reason/requirements.txt` after step 2.
+**Notes:** Use venv in c:/Users/Z/Documents/cognitive_architecture if needed. Metrics: latency, accuracy, coverage.
 
-## [ ] 6. Test
-- docker compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d
-- Verify Prometheus targets UP, Grafana dashboard
-- docker compose down
-
-## [ ] 7. Push to main → verify mirror Actions runs (user checks GitHub sync)
