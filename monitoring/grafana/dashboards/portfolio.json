@@ -1,0 +1,57 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Portfolio System Architect",
+    "tags": [],
+    "style": "dark",
+    "timezone": "browser",
+    "panels": [
+      {
+        "id": 1,
+        "title": "CPU – Cloud-Reason",
+        "type": "timeseries",
+        "targets": [
+          {
+            "expr": "process_cpu_seconds_total{job=\"cloud_reason\"}",
+            "legendFormat": "{{instance}}"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 0}
+      },
+      {
+        "id": 2,
+        "title": "HTTP latency – ML-Model-Registry",
+        "type": "timeseries",
+        "targets": [
+          {
+            "expr": "histogram_quantile(0.95, sum(rate(http_request_duration_seconds_bucket{job=\"ml_model_registry\"}[5m])) by (le))",
+            "legendFormat": "p95"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 0}
+      },
+      {
+        "id": 3,
+        "title": "Requests per second – IT-Compass",
+        "type": "timeseries",
+        "targets": [
+          {
+            "expr": "rate(http_requests_total{job=\"it_compass\"}[1m])",
+            "legendFormat": "RPS"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 24, "x": 0, "y": 8}
+      }
+    ],
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    },
+    "timepicker": {},
+    "timezone": "browser",
+    "refresh": "15s",
+    "schemaVersion": 38,
+    "version": 1
+  },
+  "overwrite": true
+}
