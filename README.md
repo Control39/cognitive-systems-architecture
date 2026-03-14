@@ -21,6 +21,34 @@ open index.html
 ```
 **[🎥 90s Video TBA](https://youtube.com/example)**
 
+## 🤖 О роли автора в проекте
+
+> **Важно:** Этот проект создан методом **AI-оркестрации**. 
+> 
+> | Аспект | Реализация |
+> |--------|------------|
+> | **Архитектура** | Спроектирована автором (системный архитектор) |
+> | **Код** | Написан AI-агентами под моим контролем |
+> | **Тесты** | AI-генерация + ручная валидация |
+> | **Документация** | AI-ассистированная с ручной вычиткой |
+> | **Ответственность** | Полностью на авторе за все решения |
+
+Это не «no-code» решение — это **промышленная оркестрация AI** для создания сложных систем.
+
+## 🤖 Author's Role in the Project
+
+> **Important:** This project was created using **AI-orchestration** method.
+>
+> | Aspect | Implementation |
+> |--------|----------------|
+> | **Architecture** | Designed by the author (system architect) |
+> | **Code** | Written by AI-agents under my control |
+> | **Tests** | AI-generation + manual validation |
+> | **Documentation** | AI-assisted with manual proofreading |
+> | **Responsibility** | Fully on the author for all decisions |
+
+This is not a «no-code» solution — this is **industrial AI orchestration** for creating complex systems.
+
 ## 🤔 For Skeptics (3 Key Doubts Answered)
 1. **You just clicked AI?** → [Human Decisions](08_EVIDENCE/human-decisions.md): 6+ rejections logged.
 2. **Toy code?** → [Metrics](08_EVIDENCE/metrics/impact.md): 92% cov, 150ms latency.
