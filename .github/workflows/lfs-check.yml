@@ -1,0 +1,31 @@
+name: LFS Integrity Check
+
+on:
+  push:
+    paths:
+      - '**/*.[png,jpg,jpeg,gif,pdf,zip,bin,tar]'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check-lfs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 0
+
+      - name: Install Git LFS
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git-lfs
+          git lfs install
+
+      - name: Run LFS checks
+        run: |
+          chmod +x scripts/check-lfs.sh
+          ./scripts/check-lfs.sh all
+
+      - name: LFS prune dry-run
+        run: git lfs prune --dry-run

@@ -31,7 +31,14 @@ services:
       retries: 3
 
   ml-model-registry:
-    build: ./02_MODULES/ml-model-registry
+    build:
+      context: ./02_MODULES/ml-model-registry
+      args:
+        - BUILDPLATFORM=linux/amd64
+    deploy:
+      resources:
+        limits:
+          memory: 2G
     ports:
       - "8001:8001"
     volumes:
