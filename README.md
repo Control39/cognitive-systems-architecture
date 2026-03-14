@@ -4,9 +4,7 @@
 [![Coverage](coverage_html/index.html)](coverage_html/index.html)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)](docker-compose.yml)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
-[![PowerShell 7](https://img.shields-blue.svg)](https://powershell.org/)
 
-Единая экосистема архитектора когнитивных систем с CI/CD, Docker, 100% test coverage.
 
 ## 🚀 Elevator Pitch (30 сек)
 
