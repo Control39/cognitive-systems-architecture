@@ -51,14 +51,30 @@ git checkout -b feature/название-функции
 - Создайте кейс в `cases/`
 - Добавьте пример использования в `examples/`
 
-### 5. Закоммитьте
+### 5. Sign-off & Commit (DCO)
+
+**Developer Certificate of Origin (DCO)**: Certify your work is original.
+
+Use `git commit -s` (auto-adds Signed-off-by):
 
 ```bash
-git add .
-git commit -m "feat: краткое описание изменения"
+git commit -s -m "feat: brief change description
+
+Detailed body...
+
+Signed-off-by: Your Name <email@example.com>"
 ```
 
-### 6. Отправьте и создайте PR
+**DCO Template**:
+```
+feat/module: description
+
+Body...
+
+Signed-off-by: Name <email>
+```
+
+### 6. Push & Create PR
 
 ```bash
 git push origin feature/название-функции
