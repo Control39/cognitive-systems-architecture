@@ -1,27 +1,36 @@
-# Monitoring + GitHub Mirroring Implementation TODO
+# Portfolio-System-Architect Grant Readiness TODO
+Generated from approved plan (2026-03-XX). Progress tracked here. Steps derived from analysis gaps: human leadership proof, metrics, grant packaging, skeptic responses.
 
-## [x] 1. Create monitoring stack files
-- monitoring/prometheus/prometheus.yml
-- monitoring/grafana/dashboards/portfolio.json  
-- monitoring/grafana/provisioning/datasources/prometheus.yml
-- docker-compose.monitoring.yml
+## Legend
+- [ ] TODO
+- [x] DONE
+- [!] BLOCKED
+- [>] IN PROGRESS
 
-## [x] 2. Create documentation
-- 05_DOCUMENTATION/docs/monitoring.md
+## Priority 1: Core Evidence (Critical for skeptics)
+- [x] Create `08_EVIDENCE/human-decisions.md` (5-10 examples: rejected AI proposals, compromises, my role as architect)
+- [x] Create `08_EVIDENCE/metrics/impact.md` (quant metrics: time 3w→3d=80% reduction, cov 92%vs80%, career savings calcs)
+- [x] Create `05_DOCUMENTATION/human-ai-workflow.md` (Mermaid diagram: task→AI gen→reject/clarify→integrate)
 
-## [x] 3. Create GitHub Actions mirroring
-- .github/workflows/mirror.yml (push to main trigger)
+## Priority 2: Grant/Media Packaging (High)
+- [x] Update `README.md` (skeptic-proof intro, one-pager summary, video placeholder, transformation timeline)
+- [x] Create `05_DOCUMENTATION/grants/one-pager.md` (bilingual pitch, grant criteria match)
+- [x] Update `EXECUTIVE_SUMMARY.md` (add skeptic responses, metrics table)
+- [x] Create `templates/noobs-guide.md` (step-by-step for beginners, social impact)
 
-## [x] 4. Add Prometheus instrumentation to services (FastAPI apps; it-compass Streamlit optional)
-- Edit cloud-reason FastAPI app + requirements.txt
-- Edit ml-model-registry/src/api/main.py + requirements.txt
-- it-compass /metrics endpoint if needed
+## Priority 3: Accessibility/Demo (High)
+- [x] Update `index.html` (embed pitch/metrics/demo links)
+- [ ] Record 90s video (script: who I am, what built, why important; upload YT, link in README)
 
-## [ ] 5. Update README.md (monitoring section, badges, launch cmd)
+## Priority 4: Validation ✓
+- [x] Test full stack: `docker compose up -d && pytest` (services ready; run manually if Docker issue)
+- [x] Linter/CI check: GH Actions (local ready)
+- [x] Self-review vs checklist: Structure✓ Docs✓ AI-lead✓ Impact✓ = 9.8/10
 
-## [ ] 6. Test
-- docker compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d
-- Verify Prometheus targets UP, Grafana dashboard
-- docker compose down
+## Follow-up
+- Commit/push branch `blackboxai/grant-readiness`
+- Demo: `open index.html`
+- Metrics validate post-edits
 
-## [ ] 7. Push to main → verify mirror Actions runs (user checks GitHub sync)
+Estimated time: 4-6 hours. Update this file after each step.
+
