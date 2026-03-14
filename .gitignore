@@ -114,11 +114,10 @@ KODA.md
 *.csv
 repo_structure_*.xlsx
 repo_structure_*.csv
-# Analysis files
-*.xlsx
-*.csv
-repo_structure_*.xlsx
-repo_structure_*.csv
+
+# MkDocs site (generated)
+05_DOCUMENTATION/mkdocs-site/site/
+05_DOCUMENTATION/docs/website/
 
 # KODA context
 KODA.md

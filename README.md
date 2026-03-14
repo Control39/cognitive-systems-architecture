@@ -60,8 +60,8 @@ open index.html
 - Observability, k6 load, self-healing, external RAG.
 
 ## 📚 Dive Deeper
-- [Full Docs](05_DOCUMENTATION/)
-- [Analysis](05_DOCUMENTATION/docs/PROJECT_ANALYSIS.md)
+- [MkDocs Site (local)](http://127.0.0.1:8000/portfolio-system-architect/) | [Live](https://leadarchitect-ai.github.io/portfolio-system-architect/)
+- [Analysis](05_DOCUMENTATION/mkdocs-site/docs/project-analysis.md)
 
 **Status: ✅ SourceCraft-Ready. MIT | Екатерина Куделя**
 
