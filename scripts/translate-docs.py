@@ -56,21 +56,25 @@ def process_file(file_path: Path, api_key: str):
     print(f"Translating {file_path}...")
     translated = translate_text(content, api_key)
     
-    en_dir = Path("05_DOCUMENTATION/mkdocs-site/docs/en")
-    en_dir.mkdir(parents=True, exist_ok=True)
-    en_path = en_dir / file_path.relative_to("05_DOCUMENTATION/mkdocs-site/docs").with_suffix('.en.md')
+    en_path = Path("05_DOCUMENTATION/mkdocs-site/docs/en") / file_path.relative_to("05_DOCUMENTATION/mkdocs-site/docs").with_suffix('.en.md')
+    en_path.parent.mkdir(parents=True, exist_ok=True)
     
     en_path.write_text(translated, encoding='utf-8')
-    print(f"Translated to {en_path}")
+    print(f"✓ Translated: {en_path}")
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--api-key", required=True, help="GigaChat API key")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--exclude-website", action="store_true", help="Exclude website folder")
     args = parser.parse_args()
     
     docs_dir = Path("05_DOCUMENTATION/mkdocs-site/docs")
-    md_files = list(docs_dir.rglob("*.md"))
+    md_files = []
+    for md in docs_dir.rglob("*.md"):
+        if args.exclude_website and 'website' in md.parts:
+            continue
+        md_files.append(md)
     
     if args.dry_run:
         print(f"Found {len(md_files)} .md files")
