@@ -69,12 +69,15 @@ def main():
     parser.add_argument("--exclude-website", action="store_true", help="Exclude website folder")
     args = parser.parse_args()
     
-    docs_dir = Path("05_DOCUMENTATION/mkdocs-site/docs")
+    docs_dir = Path("05_DOCUMENTATION/docs")
+    mkdocs_en_dir = Path("05_DOCUMENTATION/mkdocs-site/docs/en")
     md_files = []
     for md in docs_dir.rglob("*.md"):
-        if args.exclude_website and 'website' in md.parts:
+        if args.exclude_website and 'website' in str(md):
+            print(f"Skipping website file: {md}")
             continue
         md_files.append(md)
+    print(f"Found {len(md_files)} files to potentially translate")
     
     if args.dry_run:
         print(f"Found {len(md_files)} .md files")

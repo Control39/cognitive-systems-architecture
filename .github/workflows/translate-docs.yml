@@ -1,9 +1,9 @@
-name: AI Translate Docs (RU→EN)
+name: AI Translate Docs (RU→EN) - Exclude website
 
 on:
   schedule:
     - cron: '0 2 * * 1'  # Weekly Monday 2AM UTC
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
   pull_request:
     paths:
       - '05_DOCUMENTATION/mkdocs-site/docs/**'
@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # For git history
+        fetch-depth: 0
 
     - name: Setup Python
       uses: actions/setup-python@v5
@@ -28,12 +28,12 @@ jobs:
       run: |
         pip install requests GitPython
 
-    - name: Run translation
+    - name: Run translation from 05_DOCUMENTATION/docs to mkdocs-site/docs/en (exclude website)
       env:
         GIGACHAT_API_KEY: ${{ secrets.GIGACHAT_API_KEY }}
       run: |
         cd scripts
-        python translate-docs.py --api-key "$GIGACHAT_API_KEY"
+        python translate-docs.py --api-key "$GIGACHAT_API_KEY" --exclude-website
 
     - name: Check for changes
       id: changes
@@ -59,15 +59,11 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "🤖 AI Translate: RU→EN docs update"
-        title: "🤖 AI Translation: Updated English documentation"
+        title: "🤖 AI Translation: Updated English documentation (excl website)"
         body: |
-          Automated translation of Russian docs to English using GigaChat AI.
+          Automated translation using GigaChat AI.
           
-          Changes:
-          - Detected RU content in docs/
-          - Translated to en/ subdir
-          
+          Excluded: website/ folder
           leadarchitect@yandex.ru
         branch: ai-translate-docs-${{ github.run_number }}
         base: main
-
