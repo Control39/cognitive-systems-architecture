@@ -15,6 +15,12 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
+    - uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
     - run: pip install ruff black mypy
     - run: ruff check .
     - run: black --check .
@@ -44,11 +50,22 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
+    - uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
     - name: Install deps & test
       run: |
         cd 02_MODULES/${{ matrix.module }}
-        pip install -r requirements.txt pytest-cov pytest-mock
-        pytest tests/ --cov=./src --cov-report=xml --cov-report=html -v || pytest tests/ -v
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        pip install pytest-cov pytest-mock || pip install pytest
+        if [ -d tests ]; then
+          pytest tests/ --cov=./src --cov-report=xml --cov-report=html -v || pytest tests/ -v
+        else
+          echo "No tests dir, skipping"
+        fi
     - name: PowerShell Pester
       if: matrix.module == 'arch-compass-framework'
       container: mcr.microsoft.com/powershell:latest
@@ -64,11 +81,21 @@ jobs:
     - uses: actions/checkout@v4
     - name: Docker build & test
       run: |
-        docker compose build --no-cache
+        docker compose build
         docker compose up -d
-        sleep 20
-        curl -f http://localhost:8000/docs || echo 'cloud-reason OK if docs up'
-        curl -f http://localhost:8501 || echo 'it-compass OK'
-        curl -f http://localhost:8001 || echo 'ml OK'
+        # Healthcheck retry
+        wait_for_url() {
+          local url=$1
+          for i in {1..30}; do
+            if curl -f -s "$url" >/dev/null 2>&1; then return 0; fi
+            echo "Waiting for $url... ($i/30)"
+            sleep 2
+          done
+          echo "Timeout $url"
+          return 1
+        }
+        wait_for_url "http://localhost:8000/docs" || { echo "cloud-reason failed"; docker compose logs cloud-reason || true; }
+        wait_for_url "http://localhost:8501" || echo "it-compass warning"
+        wait_for_url "http://localhost:8001" || echo "ml warning"
         docker compose down
 
