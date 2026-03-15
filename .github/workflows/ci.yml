@@ -48,7 +48,7 @@ jobs:
       run: |
         cd 02_MODULES/${{ matrix.module }}
         pip install -r requirements.txt pytest-cov pytest-mock
-        pytest tests/ --cov=./src --cov-report=xml --cov-report=html -v || pytest tests/ -v  # even if cov fail first
+        pytest tests/ --cov=./src --cov-report=xml --cov-report=html -v || pytest tests/ -v
     - name: PowerShell Pester
       if: matrix.module == 'arch-compass-framework'
       uses: docker://mcr.microsoft.com/powershell:latest
