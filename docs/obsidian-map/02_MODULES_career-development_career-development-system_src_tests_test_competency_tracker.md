@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\career-development\career-development-system\src\tests\test_competency_tracker.py`
 - **Тип**: .PY
 - **Размер**: 5,808 байт
-- **Последнее изменение**: 2026-03-13 20:23:53
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -27,4 +27,3 @@ class TestCompetencyTracker(unittest.TestCase):
       
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_integration_examples_arch-compass-portfolio-organizer.md`
 - **Тип**: .MD
 - **Размер**: 1,042 байт
-- **Последнее изменение**: 2026-03-13 20:22:34
+- **Последнее изменение**: 2026-03-12 11:25:16
 
 ## Превью
 
@@ -31,4 +31,3 @@
 # Пример интеграции arch-compass-framewor
 ... (файл продолжается)
 ```
-

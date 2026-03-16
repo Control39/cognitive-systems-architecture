@@ -3,7 +3,7 @@
 - **Путь**: `07_TOOLS\scripts\scripts\python scripts\run_tests.sh`
 - **Тип**: .SH
 - **Размер**: 334 байт
-- **Последнее изменение**: 2026-03-13 21:05:04
+- **Последнее изменение**: 2026-03-10 19:02:48
 
 ## Превью
 
@@ -16,4 +16,3 @@ echo "Запуск тестов в: $TEST_DIR"
 pytest $TEST_DIR -v --cov=components/cloud-reason --cov-report=html
 
 ```
-

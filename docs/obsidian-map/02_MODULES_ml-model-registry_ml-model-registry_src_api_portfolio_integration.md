@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\src\api\portfolio_integration.py`
 - **Тип**: .PY
 - **Размер**: 14,004 байт
-- **Последнее изменение**: 2026-03-13 20:23:59
+- **Последнее изменение**: 2026-03-10 19:02:48
 
 ## Превью
 
@@ -28,4 +28,3 @@ logger = logging.getLogger(__name__)
 router = APIRouter(prefix="/portf
 ... (файл продолжается)
 ```
-

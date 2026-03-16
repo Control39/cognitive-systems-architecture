@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_python scripts_run_tests.md`
 - **Тип**: .MD
 - **Размер**: 556 байт
-- **Последнее изменение**: 2026-03-13 20:23:20
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -28,4 +28,3 @@ pytest $TEST_DIR -v --cov=components/cloud-reason --cov-report=html
 ```
 
 ```
-

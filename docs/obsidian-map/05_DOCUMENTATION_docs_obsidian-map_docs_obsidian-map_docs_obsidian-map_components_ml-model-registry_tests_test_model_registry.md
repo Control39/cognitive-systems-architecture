@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_components_ml-model-registry_tests_test_model_registry.md`
 - **Тип**: .MD
 - **Размер**: 987 байт
-- **Последнее изменение**: 2026-03-13 20:22:44
+- **Последнее изменение**: 2026-03-12 11:24:59
 
 ## Превью
 
@@ -26,4 +26,3 @@
 - **Последнее изменение**: 20
 ... (файл продолжается)
 ```
-

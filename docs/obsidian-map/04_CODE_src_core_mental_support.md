@@ -29,4 +29,3 @@ class PsychologicalSupport:
    
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_scripts_validate_yaml.md`
 - **Тип**: .MD
 - **Размер**: 1,011 байт
-- **Последнее изменение**: 2026-03-13 20:22:43
+- **Последнее изменение**: 2026-03-12 11:25:16
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_scripts_v
 ... (файл продолжается)
 ```
-

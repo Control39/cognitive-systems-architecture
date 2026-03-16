@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_09-brusnika-analysis_architect-perspective.md`
 - **Тип**: .MD
 - **Размер**: 1,039 байт
-- **Последнее изменение**: 2026-03-13 20:22:49
+- **Последнее изменение**: 2026-03-12 11:25:04
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**:
 ... (файл продолжается)
 ```
-

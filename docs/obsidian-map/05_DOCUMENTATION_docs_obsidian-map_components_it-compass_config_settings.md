@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_it-compass_config_settings.md`
 - **Тип**: .MD
 - **Размер**: 845 байт
-- **Последнее изменение**: 2026-03-13 20:22:45
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -31,4 +31,3 @@
     "user_progress_file": "data/user_progress.json",
 ... (файл продолжается)
 ```
-

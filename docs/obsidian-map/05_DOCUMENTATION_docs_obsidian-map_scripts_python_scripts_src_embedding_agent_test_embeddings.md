@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_python_scripts_src_embedding_agent_test_embeddings.md`
 - **Тип**: .MD
 - **Размер**: 904 байт
-- **Последнее изменение**: 2026-03-13 20:22:33
+- **Последнее изменение**: 2026-03-12 10:08:02
 
 ## Превью
 
@@ -32,4 +32,3 @@ def test_embedder():
         ("def hello(): print('world')", "про
 ... (файл продолжается)
 ```
-

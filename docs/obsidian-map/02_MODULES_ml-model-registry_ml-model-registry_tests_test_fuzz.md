@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_fuzz.py`
 - **Тип**: .PY
 - **Размер**: 4,358 байт
-- **Последнее изменение**: 2026-03-13 20:23:59
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -24,4 +24,3 @@ class TestModelRegistryFuzz(unittest.TestCase):
         result 
 ... (файл продолжается)
 ```
-

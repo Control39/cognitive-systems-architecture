@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_sync_case_markers.md`
 - **Тип**: .MD
 - **Размер**: 874 байт
-- **Последнее изменение**: 2026-03-13 20:22:45
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -38,4 +38,3 @@ logger = logging.getLogger(__name__)
 class ITCompass
 ... (файл продолжается)
 ```
-

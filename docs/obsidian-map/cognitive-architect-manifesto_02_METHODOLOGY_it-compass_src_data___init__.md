@@ -17,4 +17,3 @@ from .user_progress import load_progress, save_progress
 
 __all__ = ['load_markers', 'load_progress', 'save_progress']
 ```
-

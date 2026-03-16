@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_evolution-cases_01_knowledge_management_03_architecture.md`
 - **Тип**: .MD
 - **Размер**: 1,035 байт
-- **Последнее изменение**: 2026-03-13 20:22:41
+- **Последнее изменение**: 2026-03-12 11:25:04
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**: `docs
 ... (файл продолжается)
 ```
-

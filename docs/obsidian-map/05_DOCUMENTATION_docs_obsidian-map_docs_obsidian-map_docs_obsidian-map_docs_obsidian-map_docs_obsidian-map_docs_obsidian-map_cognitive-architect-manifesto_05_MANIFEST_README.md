@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cognitive-architect-manifesto_05_MANIFEST_README.md`
 - **Тип**: .MD
 - **Размер**: 1,039 байт
-- **Последнее изменение**: 2026-03-13 20:22:40
+- **Последнее изменение**: 2026-03-12 11:25:08
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**:
 ... (файл продолжается)
 ```
-

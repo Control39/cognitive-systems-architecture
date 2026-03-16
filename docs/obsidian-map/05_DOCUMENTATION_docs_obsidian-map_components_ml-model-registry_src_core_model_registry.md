@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_src_core_model_registry.md`
 - **Тип**: .MD
 - **Размер**: 894 байт
-- **Последнее изменение**: 2026-03-13 20:23:22
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -30,4 +30,3 @@ class ModelRegistry:
         return {"status": "success", "
 ... (файл продолжается)
 ```
-

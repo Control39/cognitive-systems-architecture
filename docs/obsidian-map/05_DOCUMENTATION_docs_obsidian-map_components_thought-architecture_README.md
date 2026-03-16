@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_thought-architecture_README.md`
 - **Тип**: .MD
 - **Размер**: 1,024 байт
-- **Последнее изменение**: 2026-03-13 20:22:49
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -32,4 +32,3 @@ Thought Architecture представляет собой коллекцию ко
 - **AI Communication Breakthrough** - Прорыв в коммуникац
 ... (файл продолжается)
 ```
-

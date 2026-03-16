@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\career-development\career-development-system\src\docs\api_documentation.md`
 - **Тип**: .MD
 - **Размер**: 3,323 байт
-- **Последнее изменение**: 2026-03-13 21:04:54
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -39,4 +39,3 @@ GET /users
     "email": "maria@
 ... (файл продолжается)
 ```
-

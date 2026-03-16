@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_cloud_reason_api_endpoints.md`
 - **Тип**: .MD
 - **Размер**: 785 байт
-- **Последнее изменение**: 2026-03-13 20:22:39
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -29,4 +29,3 @@ app = FastAPI(
     version=COMPONENT_CONFIG["compon
 ... (файл продолжается)
 ```
-

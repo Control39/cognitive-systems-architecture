@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_career-development-system_src_api_app.md`
 - **Тип**: .MD
 - **Размер**: 811 байт
-- **Последнее изменение**: 2026-03-13 20:23:20
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -35,4 +35,3 @@ db = SQLAlchemy(app)
 class User(db.Model)
 ... (файл продолжается)
 ```
-

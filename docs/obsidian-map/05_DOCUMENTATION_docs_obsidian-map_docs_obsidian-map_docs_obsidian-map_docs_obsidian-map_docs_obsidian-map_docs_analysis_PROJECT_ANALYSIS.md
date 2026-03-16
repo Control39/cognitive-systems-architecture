@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_analysis_PROJECT_ANALYSIS.md`
 - **Тип**: .MD
 - **Размер**: 1,001 байт
-- **Последнее изменение**: 2026-03-13 20:22:37
+- **Последнее изменение**: 2026-03-12 11:25:06
 
 ## Превью
 
@@ -25,4 +25,3 @@
 - **
 ... (файл продолжается)
 ```
-

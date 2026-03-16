@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\system-proof\system-proof\RAG\auto_upload_cycle.ps1`
 - **Тип**: .PS1
 - **Размер**: 2,532 байт
-- **Последнее изменение**: 2026-03-13 21:04:54
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -29,4 +29,3 @@ if (!(Test-Path $WatchFolder)) {
     New-Item -ItemType Directory -Path $WatchFolder
 ... (файл продолжается)
 ```
-

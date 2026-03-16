@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\src\utils\helpers.py`
 - **Тип**: .PY
 - **Размер**: 678 байт
-- **Последнее изменение**: 2026-03-13 20:23:59
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -24,4 +24,3 @@ def format_model_info(model_data):
         "version": model_data.get("version"),
 ... (файл продолжается)
 ```
-

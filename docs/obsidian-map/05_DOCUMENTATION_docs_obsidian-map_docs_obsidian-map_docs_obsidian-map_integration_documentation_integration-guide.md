@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_integration_documentation_integration-guide.md`
 - **Тип**: .MD
 - **Размер**: 1,043 байт
-- **Последнее изменение**: 2026-03-13 20:23:24
+- **Последнее изменение**: 2026-03-12 11:25:16
 
 ## Превью
 
@@ -31,4 +31,3 @@
 # Inte
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_scripts_generate_obsidian_map.md`
 - **Тип**: .MD
 - **Размер**: 907 байт
-- **Последнее изменение**: 2026-03-13 20:23:21
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -36,4 +36,3 @@ from datetime import datetime
 f
 ... (файл продолжается)
 ```
-

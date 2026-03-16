@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_adr_ADR-002-component-integration.md`
 - **Тип**: .MD
 - **Размер**: 1,055 байт
-- **Последнее изменение**: 2026-03-13 20:22:48
+- **Последнее изменение**: 2026-03-12 11:25:14
 
 ## Превью
 
@@ -21,4 +21,3 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Adr Adr 002 Component 
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_security.py`
 - **Тип**: .PY
 - **Размер**: 3,767 байт
-- **Последнее изменение**: 2026-03-13 20:23:59
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -25,4 +25,3 @@ class TestModelRegistrySecurity(unittest.TestCase):
         result = self.registry.re
 ... (файл продолжается)
 ```
-

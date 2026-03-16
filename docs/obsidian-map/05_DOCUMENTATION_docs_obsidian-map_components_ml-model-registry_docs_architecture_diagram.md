@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_docs_architecture_diagram.md`
 - **Тип**: .MD
 - **Размер**: 909 байт
-- **Последнее изменение**: 2026-03-13 20:22:37
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -34,4 +34,3 @@ graph TD
     D --> G[Model Ver
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_tests_test_resilience.md`
 - **Тип**: .MD
 - **Размер**: 862 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -32,4 +32,3 @@ class TestModelRegistryResilience(unittest.TestCase):
     def test_register_m
 ... (файл продолжается)
 ```
-

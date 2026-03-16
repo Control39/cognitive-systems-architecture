@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_components_career-development-system_README.md`
 - **Тип**: .MD
 - **Размер**: 1,050 байт
-- **Последнее изменение**: 2026-03-13 20:22:48
+- **Последнее изменение**: 2026-03-12 11:24:58
 
 ## Превью
 
@@ -31,4 +31,3 @@
 # Read
 ... (файл продолжается)
 ```
-

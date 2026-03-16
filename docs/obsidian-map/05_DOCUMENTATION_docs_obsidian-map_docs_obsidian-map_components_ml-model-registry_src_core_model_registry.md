@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_ml-model-registry_src_core_model_registry.md`
 - **Тип**: .MD
 - **Размер**: 967 байт
-- **Последнее изменение**: 2026-03-13 20:22:48
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -32,4 +32,3 @@ class ModelRegistry:
     """Основной класс для управления реестр
 ... (файл продолжается)
 ```
-

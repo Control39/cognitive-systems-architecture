@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_evidence_reasoning-loop_README.md`
 - **Тип**: .MD
 - **Размер**: 992 байт
-- **Последнее изменение**: 2026-03-13 20:23:22
+- **Последнее изменение**: 2026-03-12 11:25:03
 
 ## Превью
 
@@ -26,4 +26,3 @@
 - **Последнее изменение**: 2026
 ... (файл продолжается)
 ```
-

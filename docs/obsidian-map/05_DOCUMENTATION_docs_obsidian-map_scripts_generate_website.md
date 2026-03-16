@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_generate_website.md`
 - **Тип**: .MD
 - **Размер**: 864 байт
-- **Последнее изменение**: 2026-03-13 20:22:47
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -33,4 +33,3 @@ OUTPUT_DIR: Path = REPO_ROOT / "docs" / "website"
 LOGO_PATH: str = REPO_ROOT / "
 ... (файл продолжается)
 ```
-

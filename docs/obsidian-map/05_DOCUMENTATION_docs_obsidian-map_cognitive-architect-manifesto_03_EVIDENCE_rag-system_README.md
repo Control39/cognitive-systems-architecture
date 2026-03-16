@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\cognitive-architect-manifesto_03_EVIDENCE_rag-system_README.md`
 - **Тип**: .MD
 - **Размер**: 433 байт
-- **Последнее изменение**: 2026-03-13 20:22:46
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -24,4 +24,3 @@
 ```
 
 ```
-

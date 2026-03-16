@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\examples_arch-compass_developer-example.md`
 - **Тип**: .MD
 - **Размер**: 941 байт
-- **Последнее изменение**: 2026-03-13 20:22:44
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -31,4 +31,3 @@
        def generate_manifests(
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_career-development-system_src_core_competency_tracker.md`
 - **Тип**: .MD
 - **Размер**: 1,006 байт
-- **Последнее изменение**: 2026-03-13 20:22:54
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -31,4 +31,3 @@
 class CompetencyTracker:
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_components_it-compass_src_core_tracker.md`
 - **Тип**: .MD
 - **Размер**: 864 байт
-- **Последнее изменение**: 2026-03-13 20:22:30
+- **Последнее изменение**: 2026-03-12 11:24:59
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `compon
 ... (файл продолжается)
 ```
-

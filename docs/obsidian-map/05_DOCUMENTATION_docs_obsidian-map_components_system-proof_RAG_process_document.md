@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_system-proof_RAG_process_document.md`
 - **Тип**: .MD
 - **Размер**: 921 байт
-- **Последнее изменение**: 2026-03-13 20:22:49
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -34,4 +34,3 @@ function Write-Log {
     Write-H
 ... (файл продолжается)
 ```
-

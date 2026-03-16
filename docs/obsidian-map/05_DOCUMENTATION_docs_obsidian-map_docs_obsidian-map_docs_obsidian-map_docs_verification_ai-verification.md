@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_verification_ai-verification.md`
 - **Тип**: .MD
 - **Размер**: 1,000 байт
-- **Последнее изменение**: 2026-03-13 20:23:20
+- **Последнее изменение**: 2026-03-12 11:25:16
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `docs\verificat
 ... (файл продолжается)
 ```
-

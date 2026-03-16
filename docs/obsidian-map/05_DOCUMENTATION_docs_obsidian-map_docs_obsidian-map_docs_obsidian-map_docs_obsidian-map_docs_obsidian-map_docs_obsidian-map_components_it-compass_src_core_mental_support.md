@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_src_core_mental_support.md`
 - **Тип**: .MD
 - **Размер**: 1,033 байт
-- **Последнее изменение**: 2026-03-13 20:22:44
+- **Последнее изменение**: 2026-03-12 11:25:09
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**: `docs\ob
 ... (файл продолжается)
 ```
-

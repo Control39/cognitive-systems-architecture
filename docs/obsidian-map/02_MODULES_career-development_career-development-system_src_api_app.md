@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\career-development\career-development-system\src\api\app.py`
 - **Тип**: .PY
 - **Размер**: 16,224 байт
-- **Последнее изменение**: 2026-03-13 20:23:54
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -28,4 +28,3 @@ class User(db.Model):
     email = db.Column(db.String(120), unique=True, nullab
 ... (файл продолжается)
 ```
-

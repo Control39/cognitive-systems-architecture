@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_it-compass_tests_test_tracker.md`
 - **Тип**: .MD
 - **Размер**: 894 байт
-- **Последнее изменение**: 2026-03-13 20:22:51
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -36,4 +36,3 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
 from src.core.tracker
 ... (файл продолжается)
 ```
-

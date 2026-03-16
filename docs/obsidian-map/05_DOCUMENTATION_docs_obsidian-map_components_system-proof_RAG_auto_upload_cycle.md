@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_system-proof_RAG_auto_upload_cycle.md`
 - **Тип**: .MD
 - **Размер**: 885 байт
-- **Последнее изменение**: 2026-03-13 20:23:19
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -33,4 +33,3 @@ function Write-Log {
     $Timestamp = Get-D
 ... (файл продолжается)
 ```
-

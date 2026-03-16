@@ -23,4 +23,3 @@ cognitive-architect-manifesto/
 │   └── 03_pr
 ... (файл продолжается)
 ```
-

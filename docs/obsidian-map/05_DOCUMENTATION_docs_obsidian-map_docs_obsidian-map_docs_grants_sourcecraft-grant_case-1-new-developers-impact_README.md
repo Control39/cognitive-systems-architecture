@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_grants_sourcecraft-grant_case-1-new-developers-impact_README.md`
 - **Тип**: .MD
 - **Размер**: 1,154 байт
-- **Последнее изменение**: 2026-03-13 20:22:51
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -31,4 +31,3 @@
 # Кейс 1: Ускорение адаптации н
 ... (файл продолжается)
 ```
-

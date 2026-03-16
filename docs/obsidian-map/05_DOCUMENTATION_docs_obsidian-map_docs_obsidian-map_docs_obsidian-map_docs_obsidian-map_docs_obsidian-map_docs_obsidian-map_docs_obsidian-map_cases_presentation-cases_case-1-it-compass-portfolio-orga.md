@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cases_presentation-cases_case-1-it-compass-portfolio-organizer_README.md`
 - **Тип**: .MD
 - **Размер**: 1,111 байт
-- **Последнее изменение**: 2026-03-13 20:22:31
+- **Последнее изменение**: 2026-03-12 11:25:12
 
 ## Превью
 
@@ -21,4 +21,3 @@
 # Docs Obsidian Map Docs Obsidian Map D
 ... (файл продолжается)
 ```
-

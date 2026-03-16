@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_career-development-system_src_tests_test_helpers.md`
 - **Тип**: .MD
 - **Размер**: 824 байт
-- **Последнее изменение**: 2026-03-13 20:22:43
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -32,4 +32,3 @@ class TestHelpers(unittest.TestCase):
         self.assertTrue(validate_email("user.name@domain.co
 ... (файл продолжается)
 ```
-

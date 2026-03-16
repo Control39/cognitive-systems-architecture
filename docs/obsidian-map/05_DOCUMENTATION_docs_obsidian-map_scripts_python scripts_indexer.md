@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_python scripts_indexer.md`
 - **Тип**: .MD
 - **Размер**: 808 байт
-- **Последнее изменение**: 2026-03-13 20:22:53
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -33,4 +33,3 @@ class CodeIndexer:
     def chunk_python_file
 ... (файл продолжается)
 ```
-

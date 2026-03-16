@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_python scripts_src_embedding_agent_search_demo.md`
 - **Тип**: .MD
 - **Размер**: 946 байт
-- **Последнее изменение**: 2026-03-13 20:22:47
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -34,4 +34,3 @@ def load_full_index(index_file: str):
    
 ... (файл продолжается)
 ```
-

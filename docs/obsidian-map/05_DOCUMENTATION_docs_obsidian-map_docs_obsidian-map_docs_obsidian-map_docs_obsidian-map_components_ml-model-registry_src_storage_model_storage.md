@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_ml-model-registry_src_storage_model_storage.md`
 - **Тип**: .MD
 - **Размер**: 1,013 байт
-- **Последнее изменение**: 2026-03-13 20:22:52
+- **Последнее изменение**: 2026-03-12 11:25:02
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_components_ml-model-registry_src_storage_model_stora
 ... (файл продолжается)
 ```
-

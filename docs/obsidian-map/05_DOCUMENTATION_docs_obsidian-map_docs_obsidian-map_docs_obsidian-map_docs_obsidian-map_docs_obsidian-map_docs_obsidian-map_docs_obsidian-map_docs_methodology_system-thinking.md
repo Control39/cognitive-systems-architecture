@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_methodology_system-thinking.md`
 - **Тип**: .MD
 - **Размер**: 1,043 байт
-- **Последнее изменение**: 2026-03-13 20:22:52
+- **Последнее изменение**: 2026-03-12 11:25:15
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **П
 ... (файл продолжается)
 ```
-

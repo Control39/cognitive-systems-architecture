@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_components_cloud_reason_configs_loader.md`
 - **Тип**: .MD
 - **Размер**: 959 байт
-- **Последнее изменение**: 2026-03-13 20:22:54
+- **Последнее изменение**: 2026-03-12 11:24:58
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `compone
 ... (файл продолжается)
 ```
-

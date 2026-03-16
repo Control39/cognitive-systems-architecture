@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_grants_sourcecraft-grant_case-3-measurable-professional-impact_README.md`
 - **Тип**: .MD
 - **Размер**: 1,177 байт
-- **Последнее изменение**: 2026-03-13 20:22:31
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -28,4 +28,3 @@
 2. **Структурир
 ... (файл продолжается)
 ```
-

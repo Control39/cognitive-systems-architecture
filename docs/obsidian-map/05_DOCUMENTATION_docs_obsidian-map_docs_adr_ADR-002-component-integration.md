@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_adr_ADR-002-component-integration.md`
 - **Тип**: .MD
 - **Размер**: 1,113 байт
-- **Последнее изменение**: 2026-03-13 20:23:24
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -27,4 +27,3 @@
 Необходимо интегрировать несколько самостоятельных компонентов (Arch Compass Framework, IT Compass, Portfolio Organizer, Thought Architecture, Career Development System) в единую согласованную экосистему. Каждый компонент 
 ... (файл продолжается)
 ```
-

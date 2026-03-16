@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_arch-compass-framework_src_infrastructure_monitoring_logger.md`
 - **Тип**: .MD
 - **Размер**: 1,002 байт
-- **Последнее изменение**: 2026-03-13 20:22:41
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -33,4 +33,3 @@ import structlog
 lo
 ... (файл продолжается)
 ```
-

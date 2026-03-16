@@ -2,14 +2,12 @@
 
 - **Путь**: `07_TOOLS\scripts\scripts\generate_website.py`
 - **Тип**: .PY
-- **Размер**: 8,309 байт
-- **Последнее изменение**: 2026-03-13 20:24:03
+- **Размер**: 7,687 байт
+- **Последнее изменение**: 2026-03-12 09:09:22
 
 ## Превью
 
 ```
-# Исправление #123: нормализация путей для предотвращения дубликатов
-
 """
 Генерирует профессиональный сайт-портфолио с поддержкой Mermaid и Git-статуса.
 """
@@ -25,7 +23,7 @@ OUTPUT_DIR: Path = REPO_ROOT / "docs" / "website"
 LOGO_PATH: str = REPO_ROOT / "assets" / "logo.svg"
 
 # Игнорируемые директории
-IGNORED_DIRS = {".git", "__pycache__", "node_mo
+IGNORED_DIRS = {".git", "__pycache__", "node_modules", "venv", "env", 
+                ".vscode", ".idea", "docs/webs
 ... (файл продолжается)
 ```
-

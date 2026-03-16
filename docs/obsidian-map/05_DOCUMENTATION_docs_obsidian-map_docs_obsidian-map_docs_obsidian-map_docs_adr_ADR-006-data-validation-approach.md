@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_adr_ADR-006-data-validation-approach.md`
 - **Тип**: .MD
 - **Размер**: 1,019 байт
-- **Последнее изменение**: 2026-03-13 20:22:45
+- **Последнее изменение**: 2026-03-12 11:25:00
 
 ## Превью
 
@@ -31,4 +31,3 @@
 # Adr 006 Data
 ... (файл продолжается)
 ```
-

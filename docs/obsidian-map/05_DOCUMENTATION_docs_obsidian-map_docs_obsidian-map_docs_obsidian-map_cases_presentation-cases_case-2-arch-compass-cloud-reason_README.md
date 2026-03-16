@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_cases_presentation-cases_case-2-arch-compass-cloud-reason_README.md`
 - **Тип**: .MD
 - **Размер**: 1,022 байт
-- **Последнее изменение**: 2026-03-13 20:23:14
+- **Последнее изменение**: 2026-03-12 11:24:58
 
 ## Превью
 
@@ -25,4 +25,3 @@
 - **Размер
 ... (файл продолжается)
 ```
-

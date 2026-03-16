@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\examples_ml-model-registry_practitioner-example.md`
 - **Тип**: .MD
 - **Размер**: 950 байт
-- **Последнее изменение**: 2026-03-13 20:22:43
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -31,4 +31,3 @@
    python src/api/m
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_python_scripts_search_code.md`
 - **Тип**: .MD
 - **Размер**: 804 байт
-- **Последнее изменение**: 2026-03-13 20:22:51
+- **Последнее изменение**: 2026-03-12 10:08:02
 
 ## Превью
 
@@ -34,4 +34,3 @@ def get_embedding(text):
     return response.json
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `07_TOOLS\scripts\scripts\python scripts\src\embedding_agent\test_embeddings.py`
 - **Тип**: .PY
 - **Размер**: 1,035 байт
-- **Последнее изменение**: 2026-03-13 20:24:03
+- **Последнее изменение**: 2026-03-10 19:02:48
 
 ## Превью
 
@@ -28,4 +28,3 @@ def test_embedder():
     for code, description in test
 ... (файл продолжается)
 ```
-

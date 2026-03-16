@@ -16,4 +16,3 @@ from .portfolio_gen import PortfolioGenerator
 
 __all__ = ['PortfolioGenerator']
 ```
-

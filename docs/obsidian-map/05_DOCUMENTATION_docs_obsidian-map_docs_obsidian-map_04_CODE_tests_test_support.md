@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_04_CODE_tests_test_support.md`
 - **Тип**: .MD
 - **Размер**: 902 байт
-- **Последнее изменение**: 2026-03-13 20:23:20
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -36,4 +36,3 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file_
 ... (файл продолжается)
 ```
-

@@ -20,4 +20,3 @@
 - ✅ **Кейсы системного мышления** — частично интегрированы в `components/thought-architecture/cases/`, но отсутствуют evolution‑cases (knowledge_manage
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_cases_evolution-cases_01_knowledge_management_05_itcompass_link.md`
 - **Тип**: .MD
 - **Размер**: 1,019 байт
-- **Последнее изменение**: 2026-03-13 20:23:18
+- **Последнее изменение**: 2026-03-12 11:24:58
 
 ## Превью
 
@@ -25,4 +25,3 @@
 - **Размер**: 
 ... (файл продолжается)
 ```
-

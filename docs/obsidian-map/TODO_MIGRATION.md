@@ -24,4 +24,3 @@ Migration from narrative structure to modular structure has been successfully co
   - docs/tem
 ... (файл продолжается)
 ```
-

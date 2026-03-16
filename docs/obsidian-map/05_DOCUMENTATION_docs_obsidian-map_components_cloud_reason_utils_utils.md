@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_cloud_reason_utils_utils.md`
 - **Тип**: .MD
 - **Размер**: 856 байт
-- **Последнее изменение**: 2026-03-13 20:22:36
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -29,4 +29,3 @@ def get_module_path(module_name):
     raise ValueError(f"Модуль {module_name} не на
 ... (файл продолжается)
 ```
-

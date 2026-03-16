@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\arch-compass-framework\src\infrastructure\monitoring\logger.py`
 - **Тип**: .PY
 - **Размер**: 618 байт
-- **Последнее изменение**: 2026-03-13 20:23:56
+- **Последнее изменение**: 2026-03-05 05:17:34
 
 ## Превью
 
@@ -26,4 +26,3 @@ async def update_marker(marker_id: str, status: str):
         logger.error("marker_update_failed", marker_id=marker_id, er
 ... (файл продолжается)
 ```
-

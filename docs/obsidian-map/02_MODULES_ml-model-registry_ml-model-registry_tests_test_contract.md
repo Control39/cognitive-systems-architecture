@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_contract.py`
 - **Тип**: .PY
 - **Размер**: 8,142 байт
-- **Последнее изменение**: 2026-03-13 20:23:59
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -26,4 +26,3 @@ class TestModelRegistryContract(unittest.TestCase):
    
 ... (файл продолжается)
 ```
-

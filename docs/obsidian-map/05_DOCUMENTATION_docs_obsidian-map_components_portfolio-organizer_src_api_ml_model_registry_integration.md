@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_portfolio-organizer_src_api_ml_model_registry_integration.md`
 - **Тип**: .MD
 - **Размер**: 945 байт
-- **Последнее изменение**: 2026-03-13 20:23:18
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -30,4 +30,3 @@ import os
 bp = Blueprint('ml_model_registry', __name__, url_prefix='/api/ml-model-regis
 ... (файл продолжается)
 ```
-

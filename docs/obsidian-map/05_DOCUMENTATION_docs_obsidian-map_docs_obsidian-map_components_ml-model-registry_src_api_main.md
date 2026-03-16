@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_ml-model-registry_src_api_main.md`
 - **Тип**: .MD
 - **Размер**: 886 байт
-- **Последнее изменение**: 2026-03-13 20:22:50
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -34,4 +34,3 @@ from portfolio_integration import router as portfolio_router
 app = FastAPI(title
 ... (файл продолжается)
 ```
-

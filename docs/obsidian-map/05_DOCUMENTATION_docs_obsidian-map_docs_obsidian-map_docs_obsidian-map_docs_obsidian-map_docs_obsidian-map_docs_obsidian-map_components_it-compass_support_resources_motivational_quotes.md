@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_support_resources_motivational_quotes.md`
 - **Тип**: .MD
 - **Размер**: 1,061 байт
-- **Последнее изменение**: 2026-03-13 20:22:54
+- **Последнее изменение**: 2026-03-12 11:25:09
 
 ## Превью
 
@@ -21,4 +21,3 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Support Resources
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `07_TOOLS\scripts\scripts\sync_case_markers.py`
 - **Тип**: .PY
 - **Размер**: 9,352 байт
-- **Последнее изменение**: 2026-03-13 20:24:03
+- **Последнее изменение**: 2026-03-05 05:17:36
 
 ## Превью
 
@@ -33,4 +33,3 @@ class ITCompassSync:
         portfolio_path: str = "components/portfol
 ... (файл продолжается)
 ```
-

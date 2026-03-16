@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_scripts_check_dependencies.md`
 - **Тип**: .MD
 - **Размер**: 978 байт
-- **Последнее изменение**: 2026-03-13 20:23:16
+- **Последнее изменение**: 2026-03-12 11:25:16
 
 ## Превью
 
@@ -31,4 +31,3 @@
 # Sc
 ... (файл продолжается)
 ```
-

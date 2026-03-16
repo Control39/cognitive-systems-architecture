@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_cases_presentation-cases_case-technical_README.md`
 - **Тип**: .MD
 - **Размер**: 1,050 байт
-- **Последнее изменение**: 2026-03-13 20:22:42
+- **Последнее изменение**: 2026-03-12 11:24:58
 
 ## Превью
 
@@ -28,4 +28,3 @@
 ## Превью
 ... (файл продолжается)
 ```
-

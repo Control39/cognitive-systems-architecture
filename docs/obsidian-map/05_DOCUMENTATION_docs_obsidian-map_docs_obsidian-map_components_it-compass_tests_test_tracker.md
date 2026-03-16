@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_it-compass_tests_test_tracker.md`
 - **Тип**: .MD
 - **Размер**: 933 байт
-- **Последнее изменение**: 2026-03-13 20:22:49
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -38,4 +38,3 @@ import os
 import tempfi
 ... (файл продолжается)
 ```
-

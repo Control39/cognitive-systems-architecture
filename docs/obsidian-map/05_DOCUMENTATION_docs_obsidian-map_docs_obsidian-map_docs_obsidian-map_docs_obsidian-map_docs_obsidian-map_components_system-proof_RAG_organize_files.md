@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_system-proof_RAG_organize_files.md`
 - **Тип**: .MD
 - **Размер**: 1,006 байт
-- **Последнее изменение**: 2026-03-13 20:22:39
+- **Последнее изменение**: 2026-03-12 11:25:06
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_components_system-
 ... (файл продолжается)
 ```
-

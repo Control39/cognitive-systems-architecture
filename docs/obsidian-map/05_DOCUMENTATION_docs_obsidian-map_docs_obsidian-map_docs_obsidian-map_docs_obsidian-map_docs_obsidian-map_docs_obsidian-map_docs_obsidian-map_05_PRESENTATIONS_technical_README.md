@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_05_PRESENTATIONS_technical_README.md`
 - **Тип**: .MD
 - **Размер**: 1,045 байт
-- **Последнее изменение**: 2026-03-13 20:23:16
+- **Последнее изменение**: 2026-03-12 11:25:12
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - 
 ... (файл продолжается)
 ```
-

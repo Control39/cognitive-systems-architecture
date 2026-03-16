@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\examples_cloud-reason_practitioner-example.md`
 - **Тип**: .MD
 - **Размер**: 1,014 байт
-- **Последнее изменение**: 2026-03-13 20:23:26
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -32,4 +32,3 @@
    python scripts/analyze_al
 ... (файл продолжается)
 ```
-

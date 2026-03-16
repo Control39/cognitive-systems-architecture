@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_01-ai-communication-breakthrough_dialogue_analysis.md`
 - **Тип**: .MD
 - **Размер**: 1,085 байт
-- **Последнее изменение**: 2026-03-13 20:23:21
+- **Последнее изменение**: 2026-03-12 11:25:07
 
 ## Превью
 
@@ -21,4 +21,3 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases 
 ... (файл продолжается)
 ```
-

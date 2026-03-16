@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_components_system-proof_README.md`
 - **Тип**: .MD
 - **Размер**: 1,023 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:24:59
 
 ## Превью
 
@@ -34,4 +34,3 @@
 
 ... (файл продолжается)
 ```
-

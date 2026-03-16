@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_career-development-system_src_tests_test_competency_tracker.md`
 - **Тип**: .MD
 - **Размер**: 945 байт
-- **Последнее изменение**: 2026-03-13 20:23:14
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -32,4 +32,3 @@ class TestCompetencyTracker(unittest.TestCase):
         # Доба
 ... (файл продолжается)
 ```
-

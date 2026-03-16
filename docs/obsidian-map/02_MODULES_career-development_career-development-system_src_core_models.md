@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\career-development\career-development-system\src\core\models.py`
 - **Тип**: .PY
 - **Размер**: 2,351 байт
-- **Последнее изменение**: 2026-03-13 20:23:54
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -27,4 +27,3 @@ class User(Base):
     progress_records 
 ... (файл продолжается)
 ```
-

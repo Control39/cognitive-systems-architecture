@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\portfolio-organizer\portfolio-organizer\src\api\reasoning_api.py`
 - **Тип**: .PY
 - **Размер**: 6,629 байт
-- **Последнее изменение**: 2026-03-13 20:23:59
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -31,4 +31,3 @@ SAMPLE_PROJECTS = [
         "technologies": ["
 ... (файл продолжается)
 ```
-

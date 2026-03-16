@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_ARCHITECTURE.md`
 - **Тип**: .MD
 - **Размер**: 980 байт
-- **Последнее изменение**: 2026-03-13 20:22:50
+- **Последнее изменение**: 2026-03-12 11:25:04
 
 ## Превью
 
@@ -28,4 +28,3 @@
 ## 
 ... (файл продолжается)
 ```
-

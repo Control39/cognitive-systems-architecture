@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_cloud_reason_docs_INSTRUCTIONS.md`
 - **Тип**: .MD
 - **Размер**: 1,061 байт
-- **Последнее изменение**: 2026-03-13 20:23:26
+- **Последнее изменение**: 2026-03-12 11:25:13
 
 ## Превью
 
@@ -21,4 +21,3 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components Cloud Reas
 ... (файл продолжается)
 ```
-

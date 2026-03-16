@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_docs_api_documentation.md`
 - **Тип**: .MD
 - **Размер**: 1,076 байт
-- **Последнее изменение**: 2026-03-13 20:23:20
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -38,4 +38,3 @@ http://localhost:8000/api/v1
 POST /m
 ... (файл продолжается)
 ```
-

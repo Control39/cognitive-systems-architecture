@@ -3,7 +3,7 @@
 - **Путь**: `07_TOOLS\scripts\scripts\python scripts\src\embedding_agent\embedder.py`
 - **Тип**: .PY
 - **Размер**: 1,958 байт
-- **Последнее изменение**: 2026-03-13 20:24:03
+- **Последнее изменение**: 2026-03-10 19:02:48
 
 ## Превью
 
@@ -26,4 +26,3 @@ class CodeEmbedder:
                 f"{self.base_url}/api/embed
 ... (файл продолжается)
 ```
-

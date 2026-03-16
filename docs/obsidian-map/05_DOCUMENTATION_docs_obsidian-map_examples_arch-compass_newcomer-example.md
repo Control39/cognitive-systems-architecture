@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\examples_arch-compass_newcomer-example.md`
 - **Тип**: .MD
 - **Размер**: 1,006 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -31,4 +31,3 @@
    python src/cli.py tutorial web-ap
 ... (файл продолжается)
 ```
-

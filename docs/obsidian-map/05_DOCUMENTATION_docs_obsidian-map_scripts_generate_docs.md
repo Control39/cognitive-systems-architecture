@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_generate_docs.md`
 - **Тип**: .MD
 - **Размер**: 827 байт
-- **Последнее изменение**: 2026-03-13 20:22:33
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -29,4 +29,3 @@ def generate_api_docs():
     for endpoint in COMPONENT_CONFIG["endp
 ... (файл продолжается)
 ```
-

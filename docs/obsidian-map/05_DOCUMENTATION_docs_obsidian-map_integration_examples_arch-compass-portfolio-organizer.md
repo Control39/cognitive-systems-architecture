@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\integration_examples_arch-compass-portfolio-organizer.md`
 - **Тип**: .MD
 - **Размер**: 972 байт
-- **Последнее изменение**: 2026-03-13 20:22:43
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -27,4 +27,3 @@ function Initialize-ArchProject {
         [Parameter(Mandato
 ... (файл продолжается)
 ```
-

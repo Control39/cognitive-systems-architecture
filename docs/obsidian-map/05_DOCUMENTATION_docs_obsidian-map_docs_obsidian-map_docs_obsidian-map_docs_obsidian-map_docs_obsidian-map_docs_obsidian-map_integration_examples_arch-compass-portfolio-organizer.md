@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_integration_examples_arch-compass-portfolio-organizer.md`
 - **Тип**: .MD
 - **Размер**: 1,049 байт
-- **Последнее изменение**: 2026-03-13 20:23:22
+- **Последнее изменение**: 2026-03-12 11:25:15
 
 ## Превью
 
@@ -21,4 +21,3 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Integration Examples Arch Compass Portfolio Organiz
 ... (файл продолжается)
 ```
-

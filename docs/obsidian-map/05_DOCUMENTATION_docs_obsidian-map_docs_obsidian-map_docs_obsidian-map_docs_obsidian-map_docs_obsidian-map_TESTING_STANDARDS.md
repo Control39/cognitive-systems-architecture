@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_TESTING_STANDARDS.md`
 - **Тип**: .MD
 - **Размер**: 990 байт
-- **Последнее изменение**: 2026-03-13 20:22:47
+- **Последнее изменение**: 2026-03-12 11:25:16
 
 ## Превью
 
@@ -26,4 +26,3 @@
 - **Последнее изменение**: 2026
 ... (файл продолжается)
 ```
-

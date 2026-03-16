@@ -3,7 +3,7 @@
 - **Путь**: `03_INTEGRATION\examples\it-compass-cloud-reason.py`
 - **Тип**: .PY
 - **Размер**: 7,050 байт
-- **Последнее изменение**: 2026-03-13 20:23:39
+- **Последнее изменение**: 2026-03-05 05:17:36
 
 ## Превью
 
@@ -28,4 +28,3 @@ class ITCompassCloudReasonIntegration:
     def load_user_profile(self, profile_data: Dict[str
 ... (файл продолжается)
 ```
-

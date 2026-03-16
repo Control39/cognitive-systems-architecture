@@ -3,7 +3,7 @@
 - **Путь**: `04_DEVELOPMENT\examples\ml-model-registry\practitioner-example.md`
 - **Тип**: .MD
 - **Размер**: 936 байт
-- **Последнее изменение**: 2026-03-13 21:04:54
+- **Последнее изменение**: 2026-03-11 18:54:55
 
 ## Превью
 
@@ -25,4 +25,3 @@
    python src/api/main.py benchmark --models bert-base,roberta-base -
 ... (файл продолжается)
 ```
-

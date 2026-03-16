@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_04-documentation-automation_problem.md`
 - **Тип**: .MD
 - **Размер**: 1,025 байт
-- **Последнее изменение**: 2026-03-13 21:04:54
+- **Последнее изменение**: 2026-03-12 11:25:04
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**: `docs\obsidian-map\d
 ... (файл продолжается)
 ```
-

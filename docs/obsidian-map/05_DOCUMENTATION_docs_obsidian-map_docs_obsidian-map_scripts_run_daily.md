@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_scripts_run_daily.md`
 - **Тип**: .MD
 - **Размер**: 996 байт
-- **Последнее изменение**: 2026-03-13 20:22:39
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -34,4 +34,3 @@
 Write-Host "[*] Начало ежедневной автоматизации portfolio-system-architect" -ForegroundColor G
 ... (файл продолжается)
 ```
-

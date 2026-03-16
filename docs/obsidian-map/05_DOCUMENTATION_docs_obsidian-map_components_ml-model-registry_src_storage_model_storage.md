@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_src_storage_model_storage.md`
 - **Тип**: .MD
 - **Размер**: 910 байт
-- **Последнее изменение**: 2026-03-13 20:23:18
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -30,4 +30,3 @@ class ModelStorage:
         return {"status": "success", "message": f"Model {mo
 ... (файл продолжается)
 ```
-

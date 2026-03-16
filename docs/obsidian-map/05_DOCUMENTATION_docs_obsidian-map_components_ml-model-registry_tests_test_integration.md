@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_tests_test_integration.md`
 - **Тип**: .MD
 - **Размер**: 846 байт
-- **Последнее изменение**: 2026-03-13 20:22:32
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -32,4 +32,3 @@ class TestModelRegistryIntegration(unittest.TestCase):
         self.storage = ModelSto
 ... (файл продолжается)
 ```
-

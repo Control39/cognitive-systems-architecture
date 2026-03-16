@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_career-development-system_src_utils_helpers.md`
 - **Тип**: .MD
 - **Размер**: 878 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -33,4 +33,3 @@ def load_json_file(filepath):
         ret
 ... (файл продолжается)
 ```
-

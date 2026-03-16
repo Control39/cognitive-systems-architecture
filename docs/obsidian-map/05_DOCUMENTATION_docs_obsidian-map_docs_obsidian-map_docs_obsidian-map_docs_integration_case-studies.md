@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_integration_case-studies.md`
 - **Тип**: .MD
 - **Размер**: 1,052 байт
-- **Последнее изменение**: 2026-03-13 20:22:51
+- **Последнее изменение**: 2026-03-12 11:25:00
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `docs\integration\case-studies.md`
 ... (файл продолжается)
 ```
-

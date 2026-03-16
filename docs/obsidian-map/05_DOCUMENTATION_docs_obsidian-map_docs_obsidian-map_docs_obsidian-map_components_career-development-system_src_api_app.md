@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_components_career-development-system_src_api_app.md`
 - **Тип**: .MD
 - **Размер**: 975 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:24:58
 
 ## Превью
 
@@ -28,4 +28,3 @@
 ## Пр
 ... (файл продолжается)
 ```
-

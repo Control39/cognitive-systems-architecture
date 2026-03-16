@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\04_CODE_src_core_mental_support.md`
 - **Тип**: .MD
 - **Размер**: 966 байт
-- **Последнее изменение**: 2026-03-13 20:22:44
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -35,4 +35,3 @@ logger = logging.getLogger(__name__)
 class Psycho
 ... (файл продолжается)
 ```
-

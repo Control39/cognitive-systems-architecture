@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_src_data_user_progress.md`
 - **Тип**: .MD
 - **Размер**: 1,002 байт
-- **Последнее изменение**: 2026-03-13 20:22:34
+- **Последнее изменение**: 2026-03-12 11:25:02
 
 ## Превью
 
@@ -25,4 +25,3 @@
 - **Размер**: 593 ба
 ... (файл продолжается)
 ```
-

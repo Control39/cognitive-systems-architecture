@@ -27,4 +27,3 @@ try:
 except ImportError as e:
 ... (файл продолжается)
 ```
-

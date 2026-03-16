@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_portfolio-organizer_README.md`
 - **Тип**: .MD
 - **Размер**: 1,143 байт
-- **Последнее изменение**: 2026-03-13 20:23:08
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -27,4 +27,3 @@ Portfolio Organizer - это система, созданная архитект
 Portfolio Organiz
 ... (файл продолжается)
 ```
-

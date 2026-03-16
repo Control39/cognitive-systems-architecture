@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cognitive-architect-manifesto_04_ARTIFACTS_case-studies_README.md`
 - **Тип**: .MD
 - **Размер**: 1,031 байт
-- **Последнее изменение**: 2026-03-13 20:23:18
+- **Последнее изменение**: 2026-03-12 11:25:05
 
 ## Превью
 
@@ -23,4 +23,3 @@
 - **Путь**: `docs\obsid
 ... (файл продолжается)
 ```
-

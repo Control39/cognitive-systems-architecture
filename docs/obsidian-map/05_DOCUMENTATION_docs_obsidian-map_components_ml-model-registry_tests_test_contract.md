@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_tests_test_contract.md`
 - **Тип**: .MD
 - **Размер**: 877 байт
-- **Последнее изменение**: 2026-03-13 20:22:50
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -31,4 +31,3 @@ class TestModelRegistryContract(unittest.TestCase):
         """Пр
 ... (файл продолжается)
 ```
-

@@ -25,4 +25,3 @@
 1. [case-1-it-compass-portfolio-organizer](case-studies/case-1-i
 ... (файл продолжается)
 ```
-

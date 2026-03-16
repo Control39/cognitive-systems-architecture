@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_methodology_visualization.md`
 - **Тип**: .MD
 - **Размер**: 1,055 байт
-- **Последнее изменение**: 2026-03-13 20:22:31
+- **Последнее изменение**: 2026-03-12 11:25:00
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `docs\methodology\visualizati
 ... (файл продолжается)
 ```
-

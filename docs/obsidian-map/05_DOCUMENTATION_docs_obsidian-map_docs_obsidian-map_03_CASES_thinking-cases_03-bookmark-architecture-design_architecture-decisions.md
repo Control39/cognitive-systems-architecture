@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_03_CASES_thinking-cases_03-bookmark-architecture-design_architecture-decisions.md`
 - **Тип**: .MD
 - **Размер**: 1,171 байт
-- **Последнее изменение**: 2026-03-13 20:22:32
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -26,4 +26,3 @@
 - **Последнее изменение**: 2026-03-10 1
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_cloud_reason_api_endpoints.md`
 - **Тип**: .MD
 - **Размер**: 873 байт
-- **Последнее изменение**: 2026-03-13 20:22:42
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -33,4 +33,3 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseMod
 ... (файл продолжается)
 ```
-

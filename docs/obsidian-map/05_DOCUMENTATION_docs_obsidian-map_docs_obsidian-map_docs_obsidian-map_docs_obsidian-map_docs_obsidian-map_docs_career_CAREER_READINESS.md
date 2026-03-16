@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_career_CAREER_READINESS.md`
 - **Тип**: .MD
 - **Размер**: 1,005 байт
-- **Последнее изменение**: 2026-03-13 20:22:46
+- **Последнее изменение**: 2026-03-12 11:25:07
 
 ## Превью
 
@@ -25,4 +25,3 @@
 - **Размер**
 ... (файл продолжается)
 ```
-

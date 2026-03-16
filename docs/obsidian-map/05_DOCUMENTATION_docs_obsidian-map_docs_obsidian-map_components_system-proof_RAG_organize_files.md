@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_system-proof_RAG_organize_files.md`
 - **Тип**: .MD
 - **Размер**: 933 байт
-- **Последнее изменение**: 2026-03-13 20:23:10
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -35,4 +35,3 @@ param(
     [Parameter(Mandatory=$true)]
 ... (файл продолжается)
 ```
-

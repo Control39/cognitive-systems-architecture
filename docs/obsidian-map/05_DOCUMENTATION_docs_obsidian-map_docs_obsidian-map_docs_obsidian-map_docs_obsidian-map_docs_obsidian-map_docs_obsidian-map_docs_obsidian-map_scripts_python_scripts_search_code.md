@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_scripts_python_scripts_search_code.md`
 - **Тип**: .MD
 - **Размер**: 1,047 байт
-- **Последнее изменение**: 2026-03-13 20:22:42
+- **Последнее изменение**: 2026-03-12 11:25:15
 
 ## Превью
 
@@ -22,4 +22,3 @@
 
 ... (файл продолжается)
 ```
-

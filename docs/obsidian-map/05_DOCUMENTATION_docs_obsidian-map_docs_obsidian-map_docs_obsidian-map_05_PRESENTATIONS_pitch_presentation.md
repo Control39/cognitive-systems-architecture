@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_05_PRESENTATIONS_pitch_presentation.md`
 - **Тип**: .MD
 - **Размер**: 1,048 байт
-- **Последнее изменение**: 2026-03-13 20:23:26
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `05_PRESEN
 ... (файл продолжается)
 ```
-

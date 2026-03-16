@@ -28,4 +28,3 @@ git branch --merged main
 * `vscode-settings-c
 ... (файл продолжается)
 ```
-

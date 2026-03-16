@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\scripts_compare-it-compass-versions.md`
 - **Тип**: .MD
 - **Размер**: 826 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -27,4 +27,3 @@ $versions = @(
     @{Path = "additional/leadarchi
 ... (файл продолжается)
 ```
-

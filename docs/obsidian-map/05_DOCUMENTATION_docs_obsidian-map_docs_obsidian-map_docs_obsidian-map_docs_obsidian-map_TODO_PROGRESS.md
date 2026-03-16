@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_TODO_PROGRESS.md`
 - **Тип**: .MD
 - **Размер**: 980 байт
-- **Последнее изменение**: 2026-03-13 20:23:22
+- **Последнее изменение**: 2026-03-12 11:25:16
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `docs\obsidian-map\TODO_PROGR
 ... (файл продолжается)
 ```
-

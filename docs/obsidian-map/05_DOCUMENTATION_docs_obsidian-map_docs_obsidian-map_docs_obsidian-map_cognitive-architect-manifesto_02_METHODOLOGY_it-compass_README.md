@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_cognitive-architect-manifesto_02_METHODOLOGY_it-compass_README.md`
 - **Тип**: .MD
 - **Размер**: 1,028 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:24:58
 
 ## Превью
 
@@ -25,4 +25,3 @@
 - **Размер**: 1,19
 ... (файл продолжается)
 ```
-

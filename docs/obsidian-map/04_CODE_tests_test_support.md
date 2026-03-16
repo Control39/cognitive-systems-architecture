@@ -27,4 +27,3 @@ def test_psychological_support_initialization():
     assert hasa
 ... (файл продолжается)
 ```
-

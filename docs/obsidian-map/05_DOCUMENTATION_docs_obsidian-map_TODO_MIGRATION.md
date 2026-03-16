@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\TODO_MIGRATION.md`
 - **Тип**: .MD
 - **Размер**: 773 байт
-- **Последнее изменение**: 2026-03-13 20:22:41
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -31,4 +31,3 @@ Migration from narrative structure to modular structure has been successfully co
 - [x] ✅ Migrated u
 ... (файл продолжается)
 ```
-

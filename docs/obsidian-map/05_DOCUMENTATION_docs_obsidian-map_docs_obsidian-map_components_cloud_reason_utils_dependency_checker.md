@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_cloud_reason_utils_dependency_checker.md`
 - **Тип**: .MD
 - **Размер**: 957 байт
-- **Последнее изменение**: 2026-03-13 20:23:15
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -32,4 +32,3 @@
 import pkg_resourc
 ... (файл продолжается)
 ```
-

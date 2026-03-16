@@ -3,7 +3,7 @@
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_model_registry.py`
 - **Тип**: .PY
 - **Размер**: 4,627 байт
-- **Последнее изменение**: 2026-03-13 20:23:59
+- **Последнее изменение**: 2026-03-08 16:11:38
 
 ## Превью
 
@@ -25,4 +25,3 @@ class TestModelRegistry(unittest.TestCase):
         result = self.registry.get_
 ... (файл продолжается)
 ```
-

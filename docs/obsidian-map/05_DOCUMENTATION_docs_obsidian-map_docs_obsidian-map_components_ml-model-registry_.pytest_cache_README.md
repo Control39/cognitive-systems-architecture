@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_components_ml-model-registry_.pytest_cache_README.md`
 - **Тип**: .MD
 - **Размер**: 843 байт
-- **Последнее изменение**: 2026-03-13 20:23:16
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -33,4 +33,3 @@
 This directory contains data from the pytest's cache pl
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_04-documentation-automation_next-steps.md`
 - **Тип**: .MD
 - **Размер**: 1,031 байт
-- **Последнее изменение**: 2026-03-13 21:04:54
+- **Последнее изменение**: 2026-03-12 11:24:57
 
 ## Превью
 
@@ -25,4 +25,3 @@
 - **Размер**: 1,10
 ... (файл продолжается)
 ```
-

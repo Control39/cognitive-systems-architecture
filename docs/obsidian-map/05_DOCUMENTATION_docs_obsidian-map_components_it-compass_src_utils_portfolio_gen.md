@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_it-compass_src_utils_portfolio_gen.md`
 - **Тип**: .MD
 - **Размер**: 959 байт
-- **Последнее изменение**: 2026-03-13 20:22:51
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -35,4 +35,3 @@ from jinja2 import Environment, FileSystemLoader
 class PortfolioGe
 ... (файл продолжается)
 ```
-

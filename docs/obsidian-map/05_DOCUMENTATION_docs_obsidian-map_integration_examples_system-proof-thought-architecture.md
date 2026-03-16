@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\integration_examples_system-proof-thought-architecture.md`
 - **Тип**: .MD
 - **Размер**: 991 байт
-- **Последнее изменение**: 2026-03-13 20:22:34
+- **Последнее изменение**: 2026-03-12 11:24:56
 
 ## Превью
 
@@ -27,4 +27,3 @@ function Process-DocumentWithSystemProof {
         [Parameter(M
 ... (файл продолжается)
 ```
-

@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_tests_test_model_storage.md`
 - **Тип**: .MD
 - **Размер**: 870 байт
-- **Последнее изменение**: 2026-03-13 20:23:25
+- **Последнее изменение**: 2026-03-12 11:25:17
 
 ## Превью
 
@@ -32,4 +32,3 @@ class TestModelStorage(unittest.TestCase):
         self.test_dir = tempfile.mkdtemp
 ... (файл продолжается)
 ```
-

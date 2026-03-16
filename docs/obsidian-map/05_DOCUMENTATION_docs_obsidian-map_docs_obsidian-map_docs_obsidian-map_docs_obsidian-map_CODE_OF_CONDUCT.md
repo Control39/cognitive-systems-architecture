@@ -3,7 +3,7 @@
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_CODE_OF_CONDUCT.md`
 - **Тип**: .MD
 - **Размер**: 986 байт
-- **Последнее изменение**: 2026-03-13 20:22:33
+- **Последнее изменение**: 2026-03-12 11:25:01
 
 ## Превью
 
@@ -33,4 +33,3 @@
 - **Путь**: `docs\obsidian-
 ... (файл продолжается)
 ```
-
