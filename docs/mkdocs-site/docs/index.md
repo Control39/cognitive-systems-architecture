@@ -1,6 +1,6 @@
 # Portfolio System Architect 🧠
 
-[![CI](https://github.com/leadarchitect-ai/portfolio-system-architect/workflows/CI/badge.svg)](https://github.com/leadarchitect-ai/portfolio-system-architect/actions)
+[![CI](https://github.com/Control39/cognitive-systems-architecture/workflows/CI/badge.svg)](https://github.com/Control39/cognitive-systems-architecture/actions)
 
 **Lead Architect: Екатерина Куделя**
 
