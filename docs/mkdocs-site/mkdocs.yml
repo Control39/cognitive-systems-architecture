@@ -4,6 +4,10 @@ site_url: https://control39.github.io/cognitive-systems-architecture/
 site_dir: site
 docs_dir: docs
 
+repo_url: https://github.com/Control39/cognitive-systems-architecture
+repo_name: Control39/cognitive-systems-architecture
+edit_uri: edit/main/docs/mkdocs-site/docs/
+
 nav:
   - Home: index.md
   - Architecture: architecture.md
