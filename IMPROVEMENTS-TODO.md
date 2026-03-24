@@ -9,16 +9,16 @@
 - [ ] Этап 2: README improvements.
 
 ### Этап 2: Улучшения README.md
-- [ ] Добавить badges в начало (CI, Coverage, License, Python/PowerShell).
-- [ ] Вставить Mermaid diagram из `diagrams/ecosystems.mmd` после intro.
-- [ ] Поднять раздел \"Relevance for Russian Corporate Sector\" после таблицы projects.
-- [ ] В Getting Started добавить `cp .env.example .env && edit .env`.
-- [ ] Преобразовать docs links в таблицу:
+- [x] Добавить badges в начало (CI, Coverage, License, Python/PowerShell).
+- [x] Вставить Mermaid diagram из `diagrams/ecosystems.mmd` после intro.
+- [x] Поднять раздел \"Relevance for Russian Corporate Sector\" после таблицы projects.
+- [x] В Getting Started добавить `cp .env.example .env && edit .env`.
+- [x] Преобразовать docs links в таблицу:
   | Doc | Path |
   |-----|------|
   | Scaling Plan | docs/scaling-plan.md |
   | ... | ... |
-- [ ] Проверка: Markdown lint, preview.
+- [x] Проверка: Markdown lint, preview.
 
 ### Этап 3: Проверки после изменений
 - [ ] Запустить `python -m tools.repo_audit.audit --level professional,enterprise` — fix issues.

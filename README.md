@@ -1,5 +1,14 @@
 # Portfolio System Architect
 
+[![CI](https://github.com/Control39/cognitive-systems-architecture/workflows/CI/badge.svg)](https://github.com/Control39/cognitive-systems-architecture/actions/workflows/ci.yml)
+[![Coverage](https://codecov.io/gh/Control39/cognitive-systems-architecture/branch/main/graph/badge.svg)](https://codecov.io/gh/Control39/cognitive-systems-architecture)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Control39/cognitive-systems-architecture/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11-green.svg)](https://www.python.org/downloads/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-7-blue.svg)](https://learn.microsoft.com/powershell/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://github.com/Control39/cognitive-systems-architecture/pkgs/container/portfolio-system-architect)
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+
 This repository contains a comprehensive portfolio system for a Lead AI Systems Architect, demonstrating advanced capabilities in AI-driven career development, cloud reasoning, and system architecture.
 
 ## Project Structure
@@ -12,6 +21,38 @@ This repository contains a comprehensive portfolio system for a Lead AI Systems 
 - `diagrams/` - Architecture diagrams
 - `scripts/` - Utility scripts
 - `tools/` - Development tools
+
+```mermaid
+graph TD
+    subgraph \"Core Ecosystems\"
+        IT[IT-Compass<br/>Competency Tracking]
+        ARCH[Arch-Compass<br/>PS Framework]
+        CR[Cloud-Reason<br/>FastAPI/RAG]
+    end
+    
+    subgraph \"Modules\"
+        PO[Portfolio-Organizer]
+        CDS[Career-Development]
+        MLR[ML Model Registry]
+        SP[System-Proof]
+    end
+    
+    subgraph \"Tools\"
+        AICG[AI Config Manager<br/>Electron/Mobile]
+        SCRIPTS[Automation Scripts]
+    end
+    
+    IT --> PO
+    ARCH --> CR
+    CR --> SP
+    AICG --> ARCH
+    AICG --> CR
+    SCRIPTS -->|generate| PO
+    IT --> CDS[Career-Development]
+    CDS --> CR
+    CDS --> PO
+    CDS --> SP
+```
 
 ## Projects
 
@@ -34,7 +75,7 @@ For a detailed matrix of projects, see [Projects Matrix](docs/PROJECTS-MATRIX.md
 
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements-dev.txt`
-3. Set up environment variables
+3. Set up environment variables: `cp .env.example .env` (create if missing) && edit .env
 4. Run the application: `docker compose up -d`
 
 ## Docker
@@ -105,8 +146,8 @@ For full documentation, see [Repo Audit Guide](docs/repo-audit-guide.md).
 
 This portfolio is designed to meet the specific needs of **Yandex**, **Russian banks (Sberbank, Tinkoff, VTB)**, and **IT integrators (Krok, IBS, Lanit)**:
 
-- **Yandex Cloud** – uses Kubernetes, Docker, cloud‑native patterns directly applicable to Yandex Cloud’s container services.
-- **Yandex GPT** – integration with Yandex’s LLM for AI skills (see `.sourcecraft/skills/`).
+- **Yandex Cloud** – uses Kubernetes, Docker, cloud‑native patterns directly applicable to Yandex Cloud's container services.
+- **Yandex GPT** – integration with Yandex's LLM for AI skills (see `.sourcecraft/skills/`).
 - **Security & compliance** – network policies, PodSecurityPolicies, secrets management, SAST/DAST that meet strict financial sector standards.
 - **Legacy modernization** – shows how to incrementally migrate monolithic systems to microservices with AI‑assisted refactoring.
 
@@ -116,14 +157,14 @@ The **systemic thinking** and **AI orchestration** demonstrated here are exactly
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-See: https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions
-
 **Documentation:**
-- API Docs: https://Control39.github.io/cognitive-systems-architecture/
-- Scaling Plan: [docs/scaling-plan.md](docs/scaling-plan.md)
-- GitOps Guide: [docs/DEVOPS_GITOPS_GUIDE.md](docs/DEVOPS_GITOPS_GUIDE.md)
-- Security: [docs/security/SECRETS-MANAGEMENT.md](docs/security/SECRETS-MANAGEMENT.md)
-- Repo Audit: [docs/repo-audit-guide.md](docs/repo-audit-guide.md)
+| Doc | Path |
+|-----|------|
+| API Docs | https://Control39.github.io/cognitive-systems-architecture/ |
+| Scaling Plan | [docs/scaling-plan.md](docs/scaling-plan.md) |
+| GitOps Guide | [docs/DEVOPS_GITOPS_GUIDE.md](docs/DEVOPS_GITOPS_GUIDE.md) |
+| Security | [docs/security/SECRETS-MANAGEMENT.md](docs/security/SECRETS-MANAGEMENT.md) |
+| Repo Audit | [docs/repo-audit-guide.md](docs/repo-audit-guide.md) |
 
 **Monitoring (Grafana/Prometheus):**
 ```
