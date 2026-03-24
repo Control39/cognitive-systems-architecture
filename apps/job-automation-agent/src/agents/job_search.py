@@ -24,9 +24,7 @@ async def search_hh_ru(query: str, area: str = \"1\") -> List[Dict]:
     except Exception as e:
         return [{\"error\": str(e)}]
 
-# Stub для LangChain tool
-def job_search_tool(query: str) -> str:
-    result = asyncio.run(search_hh_ru(query))
+
     return str(result)
 
 if __name__ == \"__main__\": 

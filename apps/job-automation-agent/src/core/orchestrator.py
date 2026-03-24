@@ -2,13 +2,7 @@ import asyncio
 from typing import Dict, Any
 from langchain.agents import AgentExecutor, create_react_agent
 from langchain.tools import Tool
-from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
 
-# Настройка LLM (замените YOUR_API_KEY)
-llm = ChatOpenAI(
-    model="gpt-4o-mini",
-    api_key="YOUR_OPENAI_API_KEY",  # Установите env OPENAI_API_KEY
     temperature=0.1
 )
 

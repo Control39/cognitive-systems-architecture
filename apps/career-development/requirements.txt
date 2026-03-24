@@ -3,4 +3,12 @@ uvicorn[standard]
 pydantic>=2.0
 pytest
 pytest-httpx
+langchain-community
+celery[redis]
+requests
+beautifulsoup4
+jinja2
+openai  # для LLM (замените на ваш API)
+alembic  # миграции DB
+
 

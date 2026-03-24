@@ -21,9 +21,7 @@ async def analyze_career_progress(user_id: str) -> Dict:
     }
     return trends
 
-def analysis_tool(jobs: str, applications: int) -> str:
-    \"\"\"LangChain tool.\"\"\" 
-    df = pd.read_json(jobs) if jobs else pd.DataFrame()
+
     return f\"Trends: {len(df)} jobs, {applications} apps. {str(await analyze_career_progress('user1'))}\"
 
 if __name__ == \"__main__\": 
