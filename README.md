@@ -1,53 +1,56 @@
-# Portfolio System Architect
+# Cognitive Systems Architecture
 
-This repository contains a comprehensive portfolio system for a Lead AI Systems Architect, demonstrating advanced capabilities in AI-driven career development, cloud reasoning, and system architecture.
+## О проекте
+Экосистема для когнитивного управления ИИ в разработке. Создан архитектором, который не пишет код руками, а проектирует системы мышления и автоматизации. Проект — proof-of-concept новой роли "AI-Driven Architect".
 
-## Project Structure
+### История создания
+Два года назад я была "нулем в IT". Начала с Excel-таблички навыков, чтобы понять себя. Через диалоги с ИИ создала IT-Compass — методологию для новичков. Столкнулась с хаосом заметок и потерянными диалогами, что привело к RAG и Reasoning. Теперь — полная экосистема микросервисов.
 
-- `apps/` - Main application modules
-- `src/` - Shared source code
-- `tests/` - Test suites
-- `docs/` - Documentation
-- `deployment/` - Deployment configurations
-- `diagrams/` - Architecture diagrams
-- `scripts/` - Utility scripts
-- `tools/` - Development tools
+### Архитектура
+- **Микросервисы**: Auth, Cloud-Reason, Portfolio-Organizer и др.
+- **Инструменты**: IT-Compass (навигация по навыкам), Portfolio-Organizer (авто-генерация резюме).
+- **Технологии**: FastAPI, Docker, PostgreSQL, GitHub Actions.
 
-## Projects
+## Структура проекта
+- `apps/` - Микросервисы
+- `src/` - Общий код (health-check, async_helpers)
+- `docs/` - Документация и история
+- `scripts/` - Сборщик наработок (collector.py)
+- `tools/` - Инструменты (portfolio-organizer, it-compass)
+- `tests/` - Тесты
+- `deployment/` - Конфиги для K8s/Docker
+- `archive/` - Старые версии и отчеты
 
-This portfolio includes several projects, each demonstrating a unique aspect of system architecture and AI engineering:
+## Проекты
+| Проект | Описание | Статус |
+|--------|----------|--------|
+| **Arch-Compass-Framework** | Фреймворк для автоматизации архитектурных решений | Внутренний |
+| **Cloud-Reason** | API для системного мышления с YandexGPT | Внутренний |
+| **IT-Compass** | Система отслеживания навыков и предотвращения выгорания | Внутренний |
+| **Career-Development** | AI-управляемое планирование карьеры | Внутренний |
+| **ML-Model-Registry** | Реестр моделей с API и UI | Внутренний |
+| **Portfolio-Organizer** | Автоматизированная организация портфолио | Внутренний |
+| **System-Proof** | Формальная верификация архитектурных решений | Внутренний |
+| **Thought-Architecture** | Коллекция когнитивных паттернов | Внутренний |
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Arch-Compass-Framework** | PowerShell framework for architectural decision automation | Internal |
-| **Cloud-Reason** | Reasoning API for systematic thinking with YandexGPT | Internal |
-| **IT-Compass** | Skills tracking and burnout prevention system | Internal |
-| **Career-Development** | AI‑driven career planning and roadmap generator | Internal |
-| **ML-Model-Registry** | Versioned model registry with API and UI | Internal |
-| **Portfolio-Organizer** | Automated portfolio organization and presentation | Internal |
-| **System-Proof** | Formal verification of system architecture decisions | Internal |
-| **Thought-Architecture** | Collection of cognitive architectural patterns | Internal |
+Подробная матрица: [Projects Matrix](docs/PROJECTS-MATRIX.md).
 
-For a detailed matrix of projects, see [Projects Matrix](docs/PROJECTS-MATRIX.md).
-
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements-dev.txt`
-3. Set up environment variables
-4. Run the application: `docker compose up -d`
-
-## Docker
-
-A `.dockerignore` file is included to optimize build performance by excluding unnecessary files:
-
+## Запуск
+```bash
+docker-compose up
 ```
-__pycache__/
-*.pyc
-.git/
-.venv/
-node_modules/
-*.log
+
+## Сбор наработок
+Используйте collector для интеграции локальных файлов и SourceCraft репо:
+```bash
+python scripts/collector.py --local-paths /path/to/notes --sourcecraft-repo https://github.com/user/repo
+```
+
+## Как внести вклад
+Проект открыт для идей по когнитивной архитектуре. Issues welcome!
+
+## Автор
+[Ваше имя] — AI Systems Architect. Контакт: leadarchitect@yandex.ru
 .env
 .coverage
 htmlcov/
