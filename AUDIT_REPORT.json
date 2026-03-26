@@ -1,0 +1,148 @@
+{
+  "total_apps": 14,
+  "complete": 5,
+  "incomplete": 9,
+  "versioned": 2,
+  "apps": [
+    {
+      "name": "arch-compass-framework",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\arch-compass-framework",
+      "has_src": true,
+      "has_dockerfile": true,
+      "has_readme": true,
+      "has_requirements": false,
+      "readme_content": "# Arch-Compass-Framework 🧭\n\n## Профессиональный PowerShell фреймворк\n\n**Создан архитектором когнитивных систем Екатериной Куделей**\n\nЭтот фреймворк — не просто набор скриптов, а воплощение моего архитектурного мышления. Я не пишу код ради кода, я проектирую системы, где PowerShell используется как язык оркестрации сложных процессов. Arch-Compass — это инструмент, который позволяет мне, как архитектору, управлять ИИ и инфраструктурой, создавая безопасные и масштабируемые решения.\n\n### Быстрый старт:\n```powershell",
+      "nested_version": null
+    },
+    {
+      "name": "auth-service",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\auth-service",
+      "has_src": false,
+      "has_dockerfile": true,
+      "has_readme": false,
+      "has_requirements": true,
+      "readme_content": null,
+      "nested_version": null
+    },
+    {
+      "name": "career-development",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\career-development",
+      "has_src": true,
+      "has_dockerfile": false,
+      "has_readme": true,
+      "has_requirements": true,
+      "readme_content": "# Career Development System Module\n\nAdapted from provided structure under career-development-system/.\n\n## Quick Start\n1. pip install -r requirements.txt\n2. cd career-development-system/src/api\n3. uvicorn app:app --reload\n4. Open http://localhost:8000/docs",
+      "nested_version": null
+    },
+    {
+      "name": "cloud-reason",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\cloud-reason",
+      "has_src": true,
+      "has_dockerfile": true,
+      "has_readme": true,
+      "has_requirements": true,
+      "readme_content": "# Cloud-Reason: Reasoning API для системного мышления\n\n**Облачный reasoning-сервис для архитекторов и инженеров. Интеграция YandexGPT с файловым контекстом через serverless-архитектуру.**\n\n## 🧠 Концепция\n\n**Проблема:** Архитекторы работают с десятками файлов, версий и проектов. Нужен инструмент для ведения \"архитектурного диалога\" с AI, который понимает контекст, а не просто отвечает на вопросы.\n\n**Решение:** Многоуровневая облачная система, где каждый компонент Yandex Cloud решает конкретную задачу, а вместе они создают полноценный reasoning-ассистент.",
+      "nested_version": null
+    },
+    {
+      "name": "cloud-reason-integrated",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\cloud-reason-integrated",
+      "has_src": false,
+      "has_dockerfile": false,
+      "has_readme": false,
+      "has_requirements": false,
+      "readme_content": null,
+      "nested_version": null
+    },
+    {
+      "name": "it-compass",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\it-compass",
+      "has_src": true,
+      "has_dockerfile": true,
+      "has_readme": true,
+      "has_requirements": true,
+      "readme_content": "# IT-Compass\n\nОбъединённая версия методологии и приложения IT-Compass.\n\n## Назначение\n\nIT-Compass — это интегрированная система для:\n- Отслеживания прогресса в изучении IT-направлений\n- Интеграции с внешними API\n- Психологической поддержки разработчиков",
+      "nested_version": null
+    },
+    {
+      "name": "it-compass-hybrid",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\it-compass-hybrid",
+      "has_src": false,
+      "has_dockerfile": false,
+      "has_readme": false,
+      "has_requirements": false,
+      "readme_content": null,
+      "nested_version": null
+    },
+    {
+      "name": "job-automation-agent",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\job-automation-agent",
+      "has_src": true,
+      "has_dockerfile": false,
+      "has_readme": true,
+      "has_requirements": false,
+      "readme_content": "# Job Automation Agent - AI Карьерный Копилот\n\n**Максимальная автоматизация поиска работы**: Core Agent оркестрирует JobSearch (hh.ru), Resume (Jinja2+LLM), Analysis (pandas+DB).\n\n## 🚀 Quickstart\n1. `cd apps/job-automation-agent`\n2. `pip install -r ../career-development/requirements.txt`\n3. `export OPENAI_API_KEY=sk-...` (or .env)\n4. `cd src/api && uvicorn main:app --reload` → http://localhost:8001/docs",
+      "nested_version": null
+    },
+    {
+      "name": "ml-model-registry",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\ml-model-registry",
+      "has_src": true,
+      "has_dockerfile": true,
+      "has_readme": true,
+      "has_requirements": true,
+      "readme_content": "# ML Model Registry\n\nFastAPI API for ML model versioning/storage.\n\n## Quickstart\n```bash\ncd 02_MODULES/ml-model-registry\npython -m src.api.main\n```",
+      "nested_version": null
+    },
+    {
+      "name": "personal-ai-orchestrator",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\personal-ai-orchestrator",
+      "has_src": false,
+      "has_dockerfile": true,
+      "has_readme": true,
+      "has_requirements": true,
+      "readme_content": "# Personal AI Orchestrator\n\nПерсональный ассистент-оркестрант на базе **Ollama + LangChain + FastAPI**.\n\n## 🚀 Быстрый старт\n\n```bash\n# Локально\ndocker compose up -d",
+      "nested_version": null
+    },
+    {
+      "name": "portfolio-organizer",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\portfolio-organizer",
+      "has_src": true,
+      "has_dockerfile": true,
+      "has_readme": true,
+      "has_requirements": true,
+      "readme_content": "# Portfolio Organizer\n\n**Интеллектуальная система для организации и демонстрации компетенций**\n\n## Quick Start\npip install -r requirements.txt\npython src/app.py\n\nIntegrates IT-Compass, Cloud-Reason for auto resume/pitch generation.",
+      "nested_version": "# Portfolio Organizer\n\nPortfolio Organizer - это система, созданная архитектором когнитивных систем Екатериной Куделей. Этот проект демонстрирует, как можно автоматизировать процесс создания и представления портфолио, превращая хаос данных в структурированную, живую систему доказательств экспертизы.\n\n## Описание\n\nPortfolio Organizer предоставляет инструменты для структурирования, анализа и представления портфолио проектов, включая функции для веб-интерфейса, API и интеграции с различными источниками данных.\n\n## Основные компоненты"
+    },
+    {
+      "name": "rag-system",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\rag-system",
+      "has_src": false,
+      "has_dockerfile": false,
+      "has_readme": false,
+      "has_requirements": false,
+      "readme_content": null,
+      "nested_version": null
+    },
+    {
+      "name": "system-proof",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\system-proof",
+      "has_src": false,
+      "has_dockerfile": true,
+      "has_readme": true,
+      "has_requirements": false,
+      "readme_content": "# System-Proof Module\nProof storage for GigaChain traces/CoT. Verification + Metadata Tagging.\n\n## Setup\n```bash\ncd 02_MODULES/system-proof\npip install chromadb pydantic\n```\n\n## Usage",
+      "nested_version": "# System Proof\n\nSystem Proof - это система для исследования и подтверждения системной архитектуры.\n\n## Описание\n\nSystem Proof предоставляет инструменты для анализа, верификации и документирования системной архитектуры, включая функции для работы с ИИ, автоматизацию и исследование архитектурных решений.\n\n## Основные компоненты"
+    },
+    {
+      "name": "thought-architecture",
+      "path": "C:\\Users\\Z\\DeveloperEnvironment\\projects\\portfolio-system-architect\\apps\\thought-architecture",
+      "has_src": false,
+      "has_dockerfile": false,
+      "has_readme": true,
+      "has_requirements": false,
+      "readme_content": "# Thought Architecture\n\nThought Architecture - это портфолио когнитектурных решений.\n\n## Описание\n\nThought Architecture представляет собой коллекцию когнитектурных решений и исследований в области системного мышления и архитектуры.\n\n## Основные компоненты",
+      "nested_version": null
+    }
+  ]
+}

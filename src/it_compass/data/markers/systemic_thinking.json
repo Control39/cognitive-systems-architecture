@@ -1,0 +1,56 @@
+{
+  "skill_name": "Systemic Thinking",
+  "description": "Маркеры системного мышления по авторской методологии Ekaterina Kudelya",
+  "levels": {
+    "1": [
+      {
+        "id": "systemic_thinking_1_1",
+        "marker": "Создал петлю самореференции: диалоги с ИИ → RAG → Reasoning → новые диалоги с ИИ",
+        "validation": "Архитектурная схема, примеры обработки диалогов",
+        "priority": "high",
+        "resources": ["https://github.com/Control39/it-compass"],
+        "smart_criteria": {
+          "specific": "Создание замкнутого цикла обработки информации",
+          "measurable": "Наличие схемы и рабочего примера",
+          "achievable": "Средний уровень сложности",
+          "relevant": "Критически важно для демонстрации системного мышления",
+          "time_bound": "1 неделя"
+        },
+        "methodology_author": "Ekaterina Kudelya",
+        "methodology_license": "CC BY-ND 4.0"
+      },
+      {
+        "id": "systemic_thinking_1_2",
+        "marker": "Разработал методологию преобразования неструктурированных диалогов с ИИ в измеримые компетенции",
+        "validation": "Система IT Compass, где действия из диалогов сопоставляются с маркерами",
+        "priority": "high",
+        "resources": ["https://github.com/Control39/it-compass"],
+        "smart_criteria": {
+          "specific": "Создание системы преобразования диалогов в компетенции",
+          "measurable": "Рабочая система с документацией",
+          "achievable": "Высокий уровень сложности",
+          "relevant": "Фундаментальное значение для карьеры",
+          "time_bound": "2 недели"
+        },
+        "methodology_author": "Ekaterina Kudelya",
+        "methodology_license": "CC BY-ND 4.0"
+      },
+      {
+        "id": "systemic_thinking_1_3",
+        "marker": "Реализовал интеграцию IT-Compass с Cloud-Reason для автоматической генерации портфолио",
+        "validation": "Рабочая интеграция, примеры сгенерированных материалов",
+        "priority": "medium",
+        "resources": ["https://github.com/Control39/it-compass", "https://github.com/Control39/cloud-reason"],
+        "smart_criteria": {
+          "specific": "Создание системы автоматической генерации портфолио",
+          "measurable": "Наличие API и примеров использования",
+          "achievable": "Сложный уровень реализации",
+          "relevant": "Важно для демонстрации системного подхода",
+          "time_bound": "3 недели"
+        },
+        "methodology_author": "Ekaterina Kudelya",
+        "methodology_license": "CC BY-ND 4.0"
+      }
+    ]
+  }
+}

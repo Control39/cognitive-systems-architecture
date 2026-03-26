@@ -1,0 +1,39 @@
+# 05 Documentation Docs Obsidian Map Docs Obsidian Map Cleanup Plan
+
+- **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_cleanup_plan.md`
+- **Тип**: .MD
+- **Размер**: 1,017 байт
+- **Последнее изменение**: 2026-03-13 21:05:01
+
+## Превью
+
+```
+# Docs Obsidian Map Cleanup Plan
+
+- **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_cleanup_plan.md`
+- **Тип**: .MD
+- **Размер**: 985 байт
+- **Последнее изменение**: 2026-03-12 11:24:56
+
+## Превью
+
+```
+# Cleanup Plan
+
+- **Путь**: `docs\obsidian-map\cleanup_plan.md`
+- **Тип**: .MD
+- **Размер**: 990 байт
+- **Последнее изменение**: 2026-03-12 11:24:56
+
+## Превью
+
+```
+# Cleanup Plan
+
+- **Путь**: `cleanup_plan.md`
+- **Тип**: .MD
+- **Размер**: 2,939 байт
+- **Последнее изменение**: 2026
+... (файл продолжается)
+```
+
