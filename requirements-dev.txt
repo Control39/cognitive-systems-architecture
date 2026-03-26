@@ -1,0 +1,43 @@
+#     portfolio-system-architect
+# : pip install -r requirements-dev.txt
+
+#   
+#ruff>=0.1.0  # Python 3.13 compat pending
+black==26.3.1
+isort>=5.12.0
+
+#  
+mypy>=1.0.0
+
+# 
+bandit>=1.7.0
+safety>=2.0.0
+
+detect-secrets>=1.5.0
+# 
+pydocstyle>=6.3.0
+docformatter>=1.7.0
+
+#  ( )
+pytest-xdist>=3.0.0
+pytest-html>=3.2.0
+pytest-mock>=3.10.0
+coverage>=7.0.0
+pytest-playwright
+pytest-cov
+requests
+langchain==0.3.1
+langchain-community==0.3.27
+pydantic-settings==2.5.2
+
+#    
+streamlit>=1.32.0
+fastapi[all]>=0.68.0
+
+#     
+pandas[performance]>=1.3.2
+openpyxl>=3.0.0
+
+#  
+pre-commit>=3.0.0
+commitizen>=2.0.0
