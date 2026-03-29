@@ -1,10 +1,12 @@
 site_name: Portfolio System Architect
 site_description: 'Архитектура когнитивных систем'
-site_url: https://leadarchitect-ai.github.io/portfolio-system-architect/
+# site_url будет переопределен в CI/CD через переменную окружения
+# По умолчанию для SourceCraft
+site_url: https://sourcecraft.dev/leadarchitect-ai/portfolio-system-architect/
 site_dir: site
 docs_dir: docs
 
-repo_url: https://github.com/leadarchitect-ai/portfolio-system-architect
+repo_url: https://git.sourcecraft.dev/leadarchitect-ai/portfolio-system-architect
 repo_name: leadarchitect-ai/portfolio-system-architect
 edit_uri: edit/main/docs/mkdocs-site/docs/
 
