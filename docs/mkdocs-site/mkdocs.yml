@@ -1,8 +1,7 @@
 site_name: Portfolio System Architect
 site_description: 'Архитектура когнитивных систем'
-# site_url будет переопределен в CI/CD через переменную окружения
-# По умолчанию для SourceCraft
-site_url: https://sourcecraft.dev/leadarchitect-ai/portfolio-system-architect/
+# Правильный URL для SourceCraft хостинга
+site_url: https://leadarchitect-ai.sourcecraft.site/portfolio-system-architect/
 site_dir: site
 docs_dir: docs
 
