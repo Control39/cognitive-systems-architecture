@@ -271,7 +271,7 @@ async def gateway_middleware(request: Request, call_next):
         try:
             token = auth_header.split(" ")[1]
             # Декодируем токен для получения user_id
-            SECRET_KEY = "development-secret-key-change-in-production"
+            SECRET_KEY = get_jwt_secret()
             payload = jwt.decode(token, SECRET_KEY, algorithms=["HS256"], options={"verify_signature": False})
             user_id = payload.get("sub", "unknown")
             
