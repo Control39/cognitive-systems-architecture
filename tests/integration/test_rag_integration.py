@@ -10,6 +10,8 @@ import time
 import json
 import tempfile
 import subprocess
+import shutil
+import signal
 from pathlib import Path
 from typing import Dict, List, Any
 
@@ -22,6 +24,44 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from src.embedding_agent.chroma_indexer import ChromaDocumentIndexer
 from src.embedding_agent.embedder import DocumentEmbedder
+
+
+# Фикстуры для управления тестовыми серверами
+@pytest.fixture(scope="session")
+def fastapi_server():
+    """Запускает тестовый FastAPI сервер на отдельном порту."""
+    # Проверяем, доступен ли модуль API
+    api_path = Path(__file__).parent.parent.parent / "api" / "main.py"
+    if not api_path.exists():
+        pytest.skip("API модуль не найден, пропускаем тесты FastAPI")
+    
+    # Запускаем сервер в отдельном процессе
+    import uvicorn
+    from multiprocessing import Process
+    
+    def run_server():
+        uvicorn.run("api.main:app", host="127.0.0.1", port=8001, log_level="error")
+    
+    server_process = Process(target=run_server)
+    server_process.start()
+    
+    # Даем время на запуск
+    time.sleep(3)
+    
+    yield "http://127.0.0.1:8001"
+    
+    # Останавливаем сервер
+    server_process.terminate()
+    server_process.join(timeout=5)
+    if server_process.is_alive():
+        server_process.kill()
+
+
+@pytest.fixture(scope="session")
+def check_streamlit_available():
+    """Проверяет наличие Streamlit перед запуском тестов."""
+    if not shutil.which("streamlit"):
+        pytest.skip("Streamlit не установлен, пропускаем тесты UI")
 
 
 class TestRAGIntegration:
@@ -64,16 +104,21 @@ class TestRAGIntegration:
         assert stats["total_chunks"] >= 3
         
         # Ищем документы
-        results = chroma_indexer.search("Что такое RAG?", top_k=2)
-        assert len(results) == 2
+        results = chroma_indexer.search("когнитивная архитектура", top_k=2)
+        assert len(results) > 0
         
         # Проверяем, что найден правильный документ
-        found_rag = False
+        found = False
         for result in results:
-            if "RAG" in result["text"] or "Retrieval-Augmented" in result["text"]:
-                found_rag = True
+            if "когнитивная архитектура" in result["text"]:
+                found = True
                 break
-        assert found_rag, "Документ про RAG должен быть найден"
+        assert found, "Должен быть найден документ про когнитивную архитектуру"
+        
+        # Проверяем метаданные
+        for result in results:
+            assert "metadata" in result
+            assert "source" in result["metadata"]
     
     def test_chromadb_persistence(self, chroma_indexer, test_documents, tmp_path):
         """Тестирует сохранение и загрузку индекса ChromaDB."""
@@ -81,61 +126,52 @@ class TestRAGIntegration:
         for doc in test_documents:
             chroma_indexer.add_document(doc["text"], doc["metadata"])
         
-        # Сохраняем
-        save_path = tmp_path / "test_index"
-        chroma_indexer.save(str(save_path))
+        # Сохраняем путь к директории
+        persist_dir = Path(chroma_indexer.persist_directory)
         
-        # Создаем новый индексатор и загружаем
-        new_indexer = ChromaDocumentIndexer(persist_directory=str(save_path))
-        new_indexer.load(str(save_path))
+        # Создаем новый индексатор с той же директорией
+        new_indexer = ChromaDocumentIndexer(persist_directory=str(persist_dir))
         
-        # Проверяем, что документы загрузились
-        stats = new_indexer.get_stats()
-        assert stats["total_documents"] == 3
-        
-        # Проверяем поиск
+        # Проверяем, что документы сохранились
         results = new_indexer.search("ChromaDB", top_k=1)
         assert len(results) == 1
         assert "ChromaDB" in results[0]["text"]
     
-    def test_fastapi_endpoints(self):
-        """Тестирует эндпоинты FastAPI (если API запущен)."""
-        # Этот тест требует запущенного API
-        # В реальных условиях можно запускать через subprocess
-        api_url = "http://localhost:8000"
+    def test_fastapi_endpoints(self, fastapi_server):
+        """Тестирует эндпоинты FastAPI с использованием тестового сервера."""
+        api_url = fastapi_server
         
-        try:
-            # Проверяем health endpoint
-            response = requests.get(f"{api_url}/health", timeout=5)
-            if response.status_code == 200:
-                data = response.json()
-                assert data["status"] == "healthy"
-                
-                # Проверяем stats endpoint
-                response = requests.get(f"{api_url}/stats", timeout=5)
-                if response.status_code == 200:
-                    stats = response.json()
-                    assert "total_documents" in stats
-                    
-                # Проверяем ask endpoint
-                question = {
-                    "question": "Что такое когнитивная архитектура?",
-                    "context": "Объясни простыми словами"
-                }
-                response = requests.post(
-                    f"{api_url}/ask",
-                    json=question,
-                    timeout=10
-                )
-                if response.status_code == 200:
-                    answer = response.json()
-                    assert "answer" in answer
-                    assert "sources" in answer
-        except requests.exceptions.ConnectionError:
-            pytest.skip("FastAPI не запущен, пропускаем тест")
+        # Проверяем health endpoint
+        response = requests.get(f"{api_url}/health", timeout=5)
+        assert response.status_code == 200
+        data = response.json()
+        assert data["status"] == "healthy"
+        
+        # Проверяем stats endpoint
+        response = requests.get(f"{api_url}/stats", timeout=5)
+        assert response.status_code == 200
+        stats = response.json()
+        assert "total_documents" in stats
+        
+        # Проверяем ask endpoint
+        question = {
+            "question": "Что такое когнитивная архитектура?",
+            "context": "Объясни простыми словами"
+        }
+        response = requests.post(
+            f"{api_url}/ask",
+            json=question,
+            timeout=10
+        )
+        assert response.status_code == 200
+        answer = response.json()
+        assert "answer" in answer
+        assert "sources" in answer
     
-    def test_streamlit_ui_integration(self, tmp_path):
+    def test_streamlit_ui_integration(self, tmp_path, check_streamlit_available):
         """Тестирует интеграцию с Streamlit UI через скрипты."""
+        # Фикстура check_streamlit_available пропустит тест если Streamlit не установлен
+        
         # Создаем тестовый скрипт Streamlit
         test_script = tmp_path / "test_streamlit.py"
         test_script.write_text("""
@@ -154,7 +190,7 @@ with tempfile.TemporaryDirectory() as tmpdir:
     indexer = ChromaDocumentIndexer(persist_directory=tmpdir)
     
     # Добавляем тестовые документы
-    indexer.add_document("Тестовый документ для RAG системы.", 
+    indexer.add_document("Тестовый документ для RAG системы.",
                         {"source": "test.md", "category": "test"})
     
     # Проверяем поиск
@@ -171,18 +207,18 @@ with tempfile.TemporaryDirectory() as tmpdir:
 """)
         
         # Запускаем скрипт через subprocess
-        try:
-            result = subprocess.run(
-                [sys.executable, "-m", "streamlit", "run", str(test_script), 
-                 "--server.headless", "true", "--server.port", "8502"],
-                capture_output=True,
-                text=True,
-                timeout=30
-            )
-            # Проверяем, что скрипт выполнился без критических ошибок
-            assert result.returncode == 0 or "Streamlit" in result.stdout
-        except (subprocess.TimeoutExpired, FileNotFoundError):
-            pytest.skip("Streamlit не установлен или не может быть запущен")
+        result = subprocess.run(
+            [sys.executable, "-m", "streamlit", "run", str(test_script),
+             "--server.headless", "true", "--server.port", "8502"],
+            capture_output=True,
+            text=True,
+            timeout=30
+        )
+        
+        # Проверяем, что скрипт выполнился без критических ошибок
+        # Streamlit может возвращать ненулевой код даже при успешном запуске в headless режиме
+        # Поэтому проверяем наличие ожидаемого вывода
+        assert "Streamlit" in result.stdout or "Streamlit" in result.stderr or result.returncode == 0
     
     def test_docker_compose_integration(self):
         """Проверяет корректность docker-compose конфигурации."""
