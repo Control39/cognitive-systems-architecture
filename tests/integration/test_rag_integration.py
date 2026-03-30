@@ -63,14 +63,15 @@ class TestRAGIntegration:
         assert stats["total_documents"] == 3
         assert stats["total_chunks"] >= 3
         
-        # Ищем документы
-        results = chroma_indexer.search("когнитивная архитектура", top_k=2)
+        # Ищем документы - используем запрос, который точно есть в тестовых данных
+        # "Когнитивная архитектура" присутствует в первом документе
+        results = chroma_indexer.search("Когнитивная архитектура", top_k=2)
         assert len(results) > 0
         
-        # Проверяем, что найден правильный документ
+        # Проверяем, что найден правильный документ (нечувствительно к регистру)
         found = False
         for result in results:
-            if "когнитивная архитектура" in result["text"]:
+            if "когнитивная архитектура" in result["text"].lower():
                 found = True
                 break
         assert found, "Должен быть найден документ про когнитивную архитектуру"
