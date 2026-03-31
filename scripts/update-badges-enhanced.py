@@ -50,10 +50,11 @@ def get_python_version() -> str:
             match = re.search(r'(\d+\.\d+(?:\.\d+)?)', version)
             if match:
                 return match.group(1)
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"Warning: Could not determine Python version: {e}")
     
-    return "3.13.5"  # fallback
+    print("Warning: Could not determine Python version, using default 3.13.5")
+    return "3.13.5"  # default for development
 
 def get_coverage_percentage() -> float:
     """Получить процент покрытия тестами из coverage report."""
@@ -77,7 +78,8 @@ def get_coverage_percentage() -> float:
     except Exception as e:
         print(f"Error getting coverage: {e}")
     
-    return 85.0  # fallback
+    print("Error: Could not determine test coverage, returning 0")
+    return 0.0  # indicates measurement failure
 
 def get_test_status() -> str:
     """Получить статус тестов (passed/failed)."""
@@ -129,7 +131,8 @@ def get_dependency_count() -> int:
     except Exception as e:
         print(f"Error getting dependency count: {e}")
     
-    return 25  # fallback
+    print("Warning: Could not determine dependency count, returning 0")
+    return 0  # indicates unknown count
 
 def update_readme_badges():
     """Обновить бейджи в README.md на основе текущих метрик."""

@@ -41,7 +41,7 @@
 <!-- Dynamic badges for technical evaluation -->
 <p align="center">
   <a href="https://github.com/leadarchitect-ai/portfolio-system-architect/actions/workflows/ci.yml">
-    <a href="https://github.com/leadarchitect-ai/portfolio-system-architect/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/leadarchitect-ai/portfolio-system-architect/ci.yml?style=flat-square&logo=github" alt="CI Status"></a>
+    <img src="https://img.shields.io/github/actions/workflow/status/leadarchitect-ai/portfolio-system-architect/ci.yml?style=flat-square&logo=github" alt="CI Status">
   </a>
   <!-- Code coverage badge (static since Codecov requires authentication) -->
   <a href="https://github.com/leadarchitect-ai/portfolio-system-architect/actions/workflows/ci.yml"><img src="https://img.shields.io/badge/Code%20Coverage-85%25-brightgreen?style=flat-square&logo=codecov" alt="Code Coverage"></a>
@@ -50,7 +50,7 @@
   <a href="https://github.com/leadarchitect-ai/portfolio-system-architect/security/scanning"><img src="https://img.shields.io/badge/Bandit-Check-yellow?style=flat-square&logo=bandit" alt="Bandit Security Check"></a>
   <!-- Dependency management badges -->
   <a href="https://github.com/leadarchitect-ai/portfolio-system-architect/security/dependabot">
-    <a href="https://github.com/leadarchitect-ai/portfolio-system-architect/security/dependabot"><img src="https://img.shields.io/badge/dependabot-enabled-brightgreen?style=flat-square&logo=dependabot" alt="Dependabot Enabled"></a>
+    <img src="https://img.shields.io/badge/dependabot-enabled-brightgreen?style=flat-square&logo=dependabot" alt="Dependabot Enabled">
   </a>
   <a href="https://github.com/leadarchitect-ai/portfolio-system-architect/security"><img src="https://img.shields.io/badge/Security-Scan-blue?style=flat-square&logo=securityscorecard" alt="Security Scan"></a>
   <a href="https://hub.docker.com/r/leadarchitectai/portfolio-system-architect">
