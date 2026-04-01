@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Presentation Cases Case 2 Arch Compass Cloud Reason Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Presentation Cases Case 2 Arch Compass Cloud Reason Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cases_presentation-cases_case-2-arch-compass-cloud-reason_README.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 
 ... (файл продолжается)
 ```
+
 

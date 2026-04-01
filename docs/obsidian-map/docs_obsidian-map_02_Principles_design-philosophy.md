@@ -1,4 +1,4 @@
-# Design Philosophy
+﻿# Design Philosophy
 
 - **Путь**: `docs\obsidian-map\02_Principles\design-philosophy.md`
 - **Тип**: .MD
@@ -16,3 +16,4 @@
 
 
 ```
+

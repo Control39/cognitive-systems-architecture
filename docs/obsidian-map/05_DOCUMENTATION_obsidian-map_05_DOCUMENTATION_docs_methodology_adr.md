@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Adr
+﻿# 05 Documentation Docs Methodology Adr
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_adr.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Подход к документированию архитектурных решений (ADR - Architectural Decision Records) представляет собой структурированный метод фиксации важных архитектурных решений, принятых в процессе разработки системы. Этот подход обеспечивает прозрачность принятия решений,
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 03 Cases Cases Presentation Cases Case Technical Readme
+﻿# 03 Cases Cases Presentation Cases Case Technical Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_presentation-cases_case-technical_README.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 2. Поместите 
 ... (файл продолжается)
 ```
+
 

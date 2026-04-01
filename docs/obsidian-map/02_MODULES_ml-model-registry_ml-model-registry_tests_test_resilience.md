@@ -1,4 +1,4 @@
-# Test Resilience
+﻿# Test Resilience
 
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_resilience.py`
 - **Тип**: .PY
@@ -26,3 +26,4 @@ class TestModelRegistryResilience(unittest.TestCase):
      
 ... (файл продолжается)
 ```
+

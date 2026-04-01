@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Api Endpoints
+﻿# 02 Modules Cloud Reason Cloud Reason Api Endpoints
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_api_endpoints.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ app = FastAPI(
     version=COMPONENT_C
 ... (файл продолжается)
 ```
+
 

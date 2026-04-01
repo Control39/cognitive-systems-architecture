@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Diagrams Interactive Architecture Principles
+﻿# 05 Documentation Docs Obsidian Map Diagrams Interactive Architecture Principles
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_diagrams_interactive_architecture-principles.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ graph TD
   
 ... (файл продолжается)
 ```
+
 

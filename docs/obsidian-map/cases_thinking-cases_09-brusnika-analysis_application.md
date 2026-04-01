@@ -1,4 +1,4 @@
-# Application
+﻿# Application
 
 - **Путь**: `03_CASES\thinking-cases\09-brusnika-analysis\application.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - анализ бизнес‑
 ... (файл продолжается)
 ```
+
 

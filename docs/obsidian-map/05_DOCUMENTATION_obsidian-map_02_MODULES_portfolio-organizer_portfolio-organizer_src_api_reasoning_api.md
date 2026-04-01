@@ -1,4 +1,4 @@
-# 02 Modules Portfolio Organizer Portfolio Organizer Src Api Reasoning Api
+﻿# 02 Modules Portfolio Organizer Portfolio Organizer Src Api Reasoning Api
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_portfolio-organizer_portfolio-organizer_src_api_reasoning_api.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@ SAMPLE_PROJECTS = [
         "name": "E-commerce
 ... (файл продолжается)
 ```
+
 

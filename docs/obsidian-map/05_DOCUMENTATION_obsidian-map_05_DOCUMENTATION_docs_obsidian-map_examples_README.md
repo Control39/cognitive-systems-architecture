@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Examples Readme
+﻿# 05 Documentation Docs Obsidian Map Examples Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_examples_README.md`
 - **Тип**: .MD
@@ -37,4 +37,5 @@
 Для каждого компонента представлены примеры д
 ... (файл продолжается)
 ```
+
 

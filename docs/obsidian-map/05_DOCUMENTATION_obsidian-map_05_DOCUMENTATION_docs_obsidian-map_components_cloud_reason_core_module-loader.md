@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Cloud Reason Core Module Loader
+﻿# 05 Documentation Docs Obsidian Map Components Cloud Reason Core Module Loader
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_cloud_reason_core_module-loader.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ from pathlib import Path
 from ..config.loader import COMPO
 ... (файл продолжается)
 ```
+
 

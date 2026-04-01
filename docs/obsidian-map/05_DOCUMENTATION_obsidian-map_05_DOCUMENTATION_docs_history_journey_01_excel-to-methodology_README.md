@@ -1,4 +1,4 @@
-# 05 Documentation Docs History Journey 01 Excel To Methodology Readme
+﻿# 05 Documentation Docs History Journey 01 Excel To Methodology Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_history_journey_01_excel-to-methodology_README.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 Этот раздел- первая глава моего документального фильма о рождении новой профессии. Здесь рассказывается, как в 2022 году, не имея опыта в IT, я создала Excel-таблицу для самоопределения, которая позже эволюционировала в полноценную методологию IT-Compass
 ... (файл продолжается)
 ```
+
 

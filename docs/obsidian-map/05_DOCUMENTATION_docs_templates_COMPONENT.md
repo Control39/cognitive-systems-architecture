@@ -1,4 +1,4 @@
-# Component
+﻿# Component
 
 - **Путь**: `05_DOCUMENTATION\docs\templates\COMPONENT.md`
 - **Тип**: .MD
@@ -44,3 +44,4 @@ pip install component-name
 ## Примеры
 ... (файл продолжается)
 ```
+

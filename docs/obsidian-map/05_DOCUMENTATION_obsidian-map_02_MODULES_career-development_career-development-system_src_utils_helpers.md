@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Src Utils Helpers
+﻿# 02 Modules Career Development Career Development System Src Utils Helpers
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_src_utils_helpers.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ def load_json_file(filepath):
         print(f"Файл {filepath} не н
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 03 Cases Cases Thinking Cases 04 Documentation Automation Readme
+﻿# 03 Cases Cases Thinking Cases 04 Documentation Automation Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_thinking-cases_04-documentation-automation_README.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 - С
 ... (файл продолжается)
 ```
+
 

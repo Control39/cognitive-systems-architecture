@@ -1,4 +1,4 @@
-# Find Cjk Characters
+﻿# Find Cjk Characters
 
 - **Путь**: `07_TOOLS\scripts\scripts\find_cjk_characters.py`
 - **Тип**: .PY
@@ -28,3 +28,4 @@ from typing import List, Dict, Any
 # - Хир
 ... (файл продолжается)
 ```
+

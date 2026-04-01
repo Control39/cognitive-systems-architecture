@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Cloud Computing
+﻿# 05 Documentation Docs Methodology Markers Cloud Computing
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_cloud_computing.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
         "validation": "Документация или артефакт на GitHub
 ... (файл продолжается)
 ```
+
 

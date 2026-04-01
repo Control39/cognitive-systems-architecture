@@ -1,4 +1,4 @@
-# 09 Meta Contributing
+﻿# 09 Meta Contributing
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\09_META_CONTRIBUTING.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 4. **Докуме
 ... (файл продолжается)
 ```
+
 

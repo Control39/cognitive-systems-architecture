@@ -1,4 +1,4 @@
-# Next Steps
+﻿# Next Steps
 
 - **Путь**: `03_CASES\thinking-cases\03-bookmark-architecture-design\next-steps.md`
 - **Тип**: .MD
@@ -26,3 +26,4 @@
 ### 2. Разработк
 ... (файл продолжается)
 ```
+

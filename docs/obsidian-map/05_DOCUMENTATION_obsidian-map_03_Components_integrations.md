@@ -1,4 +1,4 @@
-# Integrations
+﻿# Integrations
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_Components\integrations.md`
 - **Тип**: .MD
@@ -18,4 +18,5 @@
 
 
 ```
+
 

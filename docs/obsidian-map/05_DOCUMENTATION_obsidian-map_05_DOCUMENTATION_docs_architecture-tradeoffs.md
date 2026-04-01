@@ -1,4 +1,4 @@
-# 05 Documentation Docs Architecture Tradeoffs
+﻿# 05 Documentation Docs Architecture Tradeoffs
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_architecture-tradeoffs.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 Мар
 ... (файл продолжается)
 ```
+
 

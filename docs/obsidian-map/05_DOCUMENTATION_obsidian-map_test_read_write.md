@@ -1,4 +1,4 @@
-# Test Read Write
+﻿# Test Read Write
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\test_read_write.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 ```
 
 ```
+
 

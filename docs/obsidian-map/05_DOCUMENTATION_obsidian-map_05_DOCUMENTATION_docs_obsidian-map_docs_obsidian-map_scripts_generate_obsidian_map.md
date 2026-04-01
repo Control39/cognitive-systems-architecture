@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Scripts Generate Obsidian Map
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Scripts Generate Obsidian Map
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_scripts_generate_obsidian_map.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 - **Путь**: `scripts\gen
 ... (файл продолжается)
 ```
+
 

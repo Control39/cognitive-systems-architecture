@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Src Api Main
+﻿# 02 Modules Ml Model Registry Ml Model Registry Src Api Main
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_src_api_main.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@ async def health():
   
 ... (файл продолжается)
 ```
+
 

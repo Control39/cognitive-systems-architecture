@@ -1,4 +1,4 @@
-# 02 Modules Portfolio Organizer Portfolio Organizer Src App
+﻿# 02 Modules Portfolio Organizer Portfolio Organizer Src App
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_portfolio-organizer_portfolio-organizer_src_app.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ app = Flask(__name__)
 app.r
 ... (файл продолжается)
 ```
+
 

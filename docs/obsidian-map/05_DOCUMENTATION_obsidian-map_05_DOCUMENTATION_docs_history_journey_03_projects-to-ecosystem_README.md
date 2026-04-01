@@ -1,4 +1,4 @@
-# 05 Documentation Docs History Journey 03 Projects To Ecosystem Readme
+﻿# 05 Documentation Docs History Journey 03 Projects To Ecosystem Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_history_journey_03_projects-to-ecosystem_README.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Я не просто создавала проекты, я архитектурировала их и
 ... (файл продолжается)
 ```
+
 

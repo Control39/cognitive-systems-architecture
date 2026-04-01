@@ -1,4 +1,4 @@
-# Docs Obsidian Map 04 Decisions Adr 001
+﻿# Docs Obsidian Map 04 Decisions Adr 001
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_04_Decisions_ADR-001.md`
 - **Тип**: .MD
@@ -39,4 +39,5 @@
 ```
 
 ```
+
 

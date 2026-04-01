@@ -1,4 +1,4 @@
-# Systems Thinking
+﻿# Systems Thinking
 
 - **Путь**: `05_DOCUMENTATION\docs\methodology\systems-thinking.md`
 - **Тип**: .MD
@@ -21,3 +21,4 @@
 - Взаимос
 ... (файл продолжается)
 ```
+

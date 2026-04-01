@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Docker
+﻿# 05 Documentation Docs Methodology Markers Docker
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_docker.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
         "priority": "h
 ... (файл продолжается)
 ```
+
 

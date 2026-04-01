@@ -1,4 +1,4 @@
-site_name: Portfolio System Architect
+﻿site_name: Portfolio System Architect
 site_description: 'Архитектура когнитивных систем'
 # Правильный URL для SourceCraft хостинга
 site_url: https://leadarchitect-ai.sourcecraft.site/portfolio-system-architect/
@@ -73,4 +73,5 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.arithmatex:
       generic: true
+
 

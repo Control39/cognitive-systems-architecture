@@ -1,4 +1,4 @@
-# 05 Documentation Docs Templates Case Template
+﻿# 05 Documentation Docs Templates Case Template
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_templates_case-template.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@
 * [ИИ-модель/сервис]
 ... (файл продолжается)
 ```
+
 

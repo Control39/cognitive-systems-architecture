@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `03_CASES\cases\presentation-cases\case-technical\README.md`
 - **Тип**: .MD
@@ -24,4 +24,5 @@
 - Система reasoning в Cl
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Check Dependencies
+﻿# 07 Tools Scripts Scripts Check Dependencies
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_check_dependencies.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ class DependencyChecker:
     def _
 ... (файл продолжается)
 ```
+
 

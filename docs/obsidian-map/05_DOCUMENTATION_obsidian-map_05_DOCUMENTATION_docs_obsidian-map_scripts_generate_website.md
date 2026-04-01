@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Scripts Generate Website
+﻿# 05 Documentation Docs Obsidian Map Scripts Generate Website
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_scripts_generate_website.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@ import subprocess
 from pathlib import Pat
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Support Guide
+﻿# Support Guide
 
 - **Путь**: `05_DOCUMENTATION\docs\guide\SUPPORT_GUIDE.md`
 - **Тип**: .MD
@@ -22,3 +22,4 @@ src/main.py --mental-support
 * 🧘 **Режим 'низкой энерги
 ... (файл продолжается)
 ```
+

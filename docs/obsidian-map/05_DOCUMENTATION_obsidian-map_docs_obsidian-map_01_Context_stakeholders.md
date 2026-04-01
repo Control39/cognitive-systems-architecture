@@ -1,4 +1,4 @@
-# Docs Obsidian Map 01 Context Stakeholders
+﻿# Docs Obsidian Map 01 Context Stakeholders
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_01_Context_stakeholders.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 ```
 
 ```
+
 

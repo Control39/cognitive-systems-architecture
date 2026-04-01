@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Src Core Competency Tracker
+﻿# 02 Modules Career Development Career Development System Src Core Competency Tracker
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_src_core_competency_tracker.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ class CompetencyTracker:
         """Добавить пользователя в систему"""
 ... (файл продолжается)
 ```
+
 

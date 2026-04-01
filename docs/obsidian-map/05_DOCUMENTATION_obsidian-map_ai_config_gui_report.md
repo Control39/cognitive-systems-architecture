@@ -1,4 +1,4 @@
-# Ai Config Gui Report
+﻿# Ai Config Gui Report
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\ai_config_gui_report.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 ```
 
 ```
+
 

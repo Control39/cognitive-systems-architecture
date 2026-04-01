@@ -1,4 +1,4 @@
-# 05 Documentation Docs Adr Adr 001 System Thinking Methodology
+﻿# 05 Documentation Docs Adr Adr 001 System Thinking Methodology
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_adr_ADR-001-system-thinking-methodology.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 Для создания эффективной архитектуры портфолио системы архитектора необходимо выбрать подходящую методологию, которая позволит структурировать мышление и подход к решению архитектурных задач. Необхо
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Readme
+﻿# 02 Modules Ml Model Registry Ml Model Registry Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_README.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 ![License](https://img.shields.io/ba
 ... (файл продолжается)
 ```
+
 

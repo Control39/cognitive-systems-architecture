@@ -1,4 +1,4 @@
-# 09 Meta Testing Standards
+﻿# 09 Meta Testing Standards
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\09_META_TESTING_STANDARDS.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 - **Унифицированная структура тестов**: все тесты должны следовать един
 ... (файл продолжается)
 ```
+
 

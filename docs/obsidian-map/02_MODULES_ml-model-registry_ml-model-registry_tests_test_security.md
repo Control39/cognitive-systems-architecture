@@ -1,4 +1,4 @@
-# Test Security
+﻿# Test Security
 
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_security.py`
 - **Тип**: .PY
@@ -25,3 +25,4 @@ class TestModelRegistrySecurity(unittest.TestCase):
         result = self.registry.re
 ... (файл продолжается)
 ```
+

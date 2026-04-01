@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Docs Architecture
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Docs Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_docs_ARCHITECTURE.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - **Размер**: 1,123 б
 ... (файл продолжается)
 ```
+
 

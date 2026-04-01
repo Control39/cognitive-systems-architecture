@@ -1,4 +1,4 @@
-# 04 Development Examples It Compass Newcomer Example
+﻿# 04 Development Examples It Compass Newcomer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_it-compass_newcomer-example.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
    python src/main.py track --skill python --level beginn
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Integration Documentation Integration Guide
+﻿# 05 Documentation Docs Obsidian Map Integration Documentation Integration Guide
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_integration_documentation_integration-guide.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 Руководство по интеграции кл
 ... (файл продолжается)
 ```
+
 

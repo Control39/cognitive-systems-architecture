@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Core Api Integration
+﻿# 02 Modules It Compass Src Core Api Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_core_api_integration.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@ from .api_integration import GitHubIntegration, StackOverflowIntegration, Career
 ```
 
 ```
+
 

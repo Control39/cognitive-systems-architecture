@@ -1,4 +1,4 @@
-# 03 Cases Cases Presentation Cases Case Pitch Presentation
+﻿# 03 Cases Cases Presentation Cases Case Pitch Presentation
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_presentation-cases_case-pitch_presentation.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 > "Я не пишу код. Я проектирую системы, в которых ИИ пишет код под моим руководством
 ... (файл продолжается)
 ```
+
 

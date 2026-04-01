@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Scripts Compare Itcompass Versions
+﻿# 05 Documentation Docs Obsidian Map Scripts Compare Itcompass Versions
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_scripts_compare_itcompass_versions.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 $path
 ... (файл продолжается)
 ```
+
 

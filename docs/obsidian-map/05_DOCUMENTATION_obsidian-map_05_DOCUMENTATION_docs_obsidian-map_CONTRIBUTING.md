@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Contributing
+﻿# 05 Documentation Docs Obsidian Map Contributing
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_CONTRIBUTING.md`
 - **Тип**: .MD
@@ -39,4 +39,5 @@
 1. **Системность** — все компоненты должны быт
 ... (файл продолжается)
 ```
+
 

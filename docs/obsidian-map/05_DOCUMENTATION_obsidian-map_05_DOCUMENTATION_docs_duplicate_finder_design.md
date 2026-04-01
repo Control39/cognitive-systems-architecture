@@ -1,4 +1,4 @@
-# 05 Documentation Docs Duplicate Finder Design
+﻿# 05 Documentation Docs Duplicate Finder Design
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_duplicate_finder_design.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 - Игнорировать системные директории
 ... (файл продолжается)
 ```
+
 

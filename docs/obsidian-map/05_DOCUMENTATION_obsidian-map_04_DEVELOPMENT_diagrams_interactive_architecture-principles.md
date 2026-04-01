@@ -1,4 +1,4 @@
-# 04 Development Diagrams Interactive Architecture Principles
+﻿# 04 Development Diagrams Interactive Architecture Principles
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_diagrams_interactive_architecture-principles.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ graph TD
     C --> C1[Горизонтальное масштабирова
 ... (файл продолжается)
 ```
+
 

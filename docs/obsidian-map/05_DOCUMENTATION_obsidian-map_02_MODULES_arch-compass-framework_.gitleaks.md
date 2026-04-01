@@ -1,4 +1,4 @@
-# 02 Modules Arch Compass Framework .Gitleaks
+﻿# 02 Modules Arch Compass Framework .Gitleaks
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_arch-compass-framework_.gitleaks.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
   
 ... (файл продолжается)
 ```
+
 

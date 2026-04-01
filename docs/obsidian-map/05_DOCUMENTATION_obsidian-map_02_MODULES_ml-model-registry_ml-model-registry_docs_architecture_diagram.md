@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Docs Architecture Diagram
+﻿# 02 Modules Ml Model Registry Ml Model Registry Docs Architecture Diagram
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_docs_architecture_diagram.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@ graph TD
    
 ... (файл продолжается)
 ```
+
 

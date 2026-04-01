@@ -1,4 +1,4 @@
-# 05 Documentation Docs Interview Prep Materials Readme
+﻿# 05 Documentation Docs Interview Prep Materials Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_interview-prep_materials_README.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Эти материалы помогут вам эффективно продемонстрировать свои архитектурные решения и навыки работодателям на собеседованиях. Они включают примеры проектов, подходы к объяснению архитектурных решений и советы по презентации
 ... (файл продолжается)
 ```
+
 

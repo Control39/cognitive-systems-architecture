@@ -1,4 +1,4 @@
-# Grant Proposal
+﻿# Grant Proposal
 
 - **Путь**: `05_DOCUMENTATION\docs\grants\grant-proposal.md`
 - **Тип**: .MD
@@ -26,3 +26,4 @@
 #
 ... (файл продолжается)
 ```
+

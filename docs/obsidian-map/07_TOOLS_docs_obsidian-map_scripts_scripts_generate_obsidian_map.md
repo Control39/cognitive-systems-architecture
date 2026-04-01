@@ -1,4 +1,4 @@
-# Scripts Scripts Generate Obsidian Map
+﻿# Scripts Scripts Generate Obsidian Map
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\scripts_scripts_generate_obsidian_map.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ REPO_ROOT: Path = Path(__file__).parent.parent.resolve()
 OUT
 ... (файл продолжается)
 ```
+
 

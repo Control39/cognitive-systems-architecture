@@ -1,4 +1,4 @@
-# 04 Development Examples Career Development System Practitioner Example
+﻿# 04 Development Examples Career Development System Practitioner Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_career-development-system_practitioner-example.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 2. Открыть в браузере `http://lo
 ... (файл продолжается)
 ```
+
 

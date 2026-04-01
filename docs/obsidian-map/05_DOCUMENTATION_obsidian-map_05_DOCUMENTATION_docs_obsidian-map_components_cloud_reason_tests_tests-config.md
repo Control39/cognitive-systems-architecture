@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Cloud Reason Tests Tests Config
+﻿# 05 Documentation Docs Obsidian Map Components Cloud Reason Tests Tests Config
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_cloud_reason_tests_tests-config.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@ test:
   framework: "pytest"
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 02 Modules It Compass Support Resources Crisis Contacts
+﻿# 02 Modules It Compass Support Resources Crisis Contacts
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_support_resources_crisis_contacts.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
       "description": "Экстренная помощь
 ... (файл продолжается)
 ```
+
 

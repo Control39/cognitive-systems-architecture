@@ -1,4 +1,4 @@
-# 03 Architecture
+﻿# 03 Architecture
 
 - **Путь**: `03_CASES\evolution-cases\01_knowledge_management\03_architecture.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@
 4. **Интеграционный 
 ... (файл продолжается)
 ```
+
 

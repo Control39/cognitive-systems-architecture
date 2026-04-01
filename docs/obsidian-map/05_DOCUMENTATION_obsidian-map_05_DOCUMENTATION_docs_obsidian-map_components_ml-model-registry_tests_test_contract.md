@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Ml Model Registry Tests Test Contract
+﻿# 05 Documentation Docs Obsidian Map Components Ml Model Registry Tests Test Contract
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_ml-model-registry_tests_test_contract.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ import unittest
 from src.core.model_registry import ModelReg
 ... (файл продолжается)
 ```
+
 

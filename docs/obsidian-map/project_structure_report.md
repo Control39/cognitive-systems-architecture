@@ -1,4 +1,4 @@
-# Project Structure Report
+﻿# Project Structure Report
 
 - **Путь**: `project_structure_report.md`
 - **Тип**: .MD
@@ -45,3 +45,4 @@
   ├── inspectionProfi
 ... (файл продолжается)
 ```
+

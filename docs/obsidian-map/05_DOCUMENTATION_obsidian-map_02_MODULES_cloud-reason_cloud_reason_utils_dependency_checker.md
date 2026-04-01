@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Utils Dependency Checker
+﻿# 02 Modules Cloud Reason Cloud Reason Utils Dependency Checker
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_utils_dependency_checker.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ def check_dependencies():
     """Проверяет установленные зависимости против требований конфигурации."
 ... (файл продолжается)
 ```
+
 

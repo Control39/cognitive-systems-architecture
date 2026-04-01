@@ -1,4 +1,4 @@
-# Templates Readme
+﻿# Templates Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\templates_README.md`
 - **Тип**: .MD
@@ -46,4 +46,5 @@ project-name/
 ## Архитектурные прин
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Publications Habr Habr Article Outline
+﻿# 05 Documentation Docs Obsidian Map Docs Publications Habr Habr Article Outline
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_publications_habr_HABR_ARTICLE_OUTLINE.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # Применение методологии "Объективные маркеры компетенций" в проекте I
 ... (файл продолжается)
 ```
+
 

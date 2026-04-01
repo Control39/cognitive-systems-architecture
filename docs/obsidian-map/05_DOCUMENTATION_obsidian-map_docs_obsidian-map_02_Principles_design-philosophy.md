@@ -1,4 +1,4 @@
-# Docs Obsidian Map 02 Principles Design Philosophy
+﻿# Docs Obsidian Map 02 Principles Design Philosophy
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_02_Principles_design-philosophy.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 ```
 
 ```
+
 

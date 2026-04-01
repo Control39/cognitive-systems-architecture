@@ -1,4 +1,4 @@
-# Reasoning Integration
+﻿# Reasoning Integration
 
 - **Путь**: `02_MODULES\it-compass\scripts\reasoning_integration.py`
 - **Тип**: .PY
@@ -27,3 +27,4 @@ import datetime
 from typing import Dict, List,
 ... (файл продолжается)
 ```
+

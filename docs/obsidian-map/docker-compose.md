@@ -1,4 +1,4 @@
-# Docker Compose
+﻿# Docker Compose
 
 - **Путь**: `docker-compose.yml`
 - **Тип**: .YML
@@ -34,4 +34,5 @@ services:
       - P
 ... (файл продолжается)
 ```
+
 

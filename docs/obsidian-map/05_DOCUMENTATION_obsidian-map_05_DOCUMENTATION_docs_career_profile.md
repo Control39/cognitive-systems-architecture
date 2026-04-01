@@ -1,4 +1,4 @@
-# 05 Documentation Docs Career Profile
+﻿# 05 Documentation Docs Career Profile
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_career_profile.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 
 ... (файл продолжается)
 ```
+
 

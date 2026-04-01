@@ -1,4 +1,4 @@
-# Docs Obsidian Map Cognitive Architect Manifesto 02 Methodology Readme
+﻿# Docs Obsidian Map Cognitive Architect Manifesto 02 Methodology Readme
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_cognitive-architect-manifesto_02_METHODOLOGY_README.md`
 - **Тип**: .MD
@@ -33,3 +33,4 @@
 > **Система проектировани
 ... (файл продолжается)
 ```
+

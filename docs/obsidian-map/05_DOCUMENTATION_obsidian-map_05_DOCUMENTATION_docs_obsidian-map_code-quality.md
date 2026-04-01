@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Code Quality
+﻿# 05 Documentation Docs Obsidian Map Code Quality
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_code-quality.md`
 - **Тип**: .MD
@@ -39,4 +39,5 @@ python:
       target_version: "
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Compare Itcompass Versions
+﻿# 07 Tools Scripts Scripts Compare Itcompass Versions
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_compare_itcompass_versions.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@ $paths = @(
     @{ Name = "Current"; Path = "C:\Users\Z\Desktop\portfolio-system-architect\components\i
 ... (файл продолжается)
 ```
+
 

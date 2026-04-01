@@ -1,4 +1,4 @@
-# 05 Documentation Docs Grants Sourcecraft Grant Combined 02 Cases
+﻿# 05 Documentation Docs Grants Sourcecraft Grant Combined 02 Cases
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_grants_sourcecraft-grant-combined_02_cases.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Эта коллекция кейсов специально подготовлена для демонстрации ценности методологии архитектора когнитивных систем для экосистемы SourceCraft Open Source. Каждый кейс фокусируется на конкретных измеримых результатах и стратегическом влиянии на сообще
 ... (файл продолжается)
 ```
+
 

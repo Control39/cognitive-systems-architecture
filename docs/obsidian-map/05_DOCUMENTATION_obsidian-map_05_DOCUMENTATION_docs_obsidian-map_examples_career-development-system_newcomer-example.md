@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Examples Career Development System Newcomer Example
+﻿# 05 Documentation Docs Obsidian Map Examples Career Development System Newcomer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_examples_career-development-system_newcomer-example.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Component Config
+﻿# 05 Documentation Docs Obsidian Map Component Config
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_component-config.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ component:
   path: "component
 ... (файл продолжается)
 ```
+
 

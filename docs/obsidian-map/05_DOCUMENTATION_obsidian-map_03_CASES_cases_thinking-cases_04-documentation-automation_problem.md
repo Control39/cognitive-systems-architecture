@@ -1,4 +1,4 @@
-# 03 Cases Cases Thinking Cases 04 Documentation Automation Problem
+﻿# 03 Cases Cases Thinking Cases 04 Documentation Automation Problem
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_thinking-cases_04-documentation-automation_problem.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
    - При добавлении новых компонентов нужно вручную обновлять все связанные докум
 ... (файл продолжается)
 ```
+
 

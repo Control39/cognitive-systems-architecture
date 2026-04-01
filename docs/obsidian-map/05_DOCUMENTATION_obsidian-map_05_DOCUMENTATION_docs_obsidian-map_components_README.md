@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Readme
+﻿# 05 Documentation Docs Obsidian Map Components Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_README.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 1. **it-compass** - 
 ... (файл продолжается)
 ```
+
 

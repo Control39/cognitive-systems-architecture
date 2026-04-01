@@ -1,4 +1,4 @@
-# It Recruiter Anchor
+﻿# It Recruiter Anchor
 
 - **Путь**: `03_CASES\thinking-cases\09-brusnika-analysis\it-recruiter-anchor.md`
 - **Тип**: .MD
@@ -14,4 +14,5 @@
 
 Анализ проведён с использованием маркеров системного мышления из методологии IT-Compass: [ссылка на методологию](https://github.com/leadarchitect-ai/portfolio-system-architect/tree/main/components/it-compass)
 ```
+
 

@@ -1,4 +1,4 @@
-# Database
+﻿# Database
 
 - **Путь**: `05_DOCUMENTATION\docs\methodology\markers\database.json`
 - **Тип**: .JSON
@@ -25,3 +25,4 @@
           "achievable": "Ур
 ... (файл продолжается)
 ```
+

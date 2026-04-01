@@ -1,4 +1,4 @@
-# Core
+﻿# Core
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_Components\core.md`
 - **Тип**: .MD
@@ -18,4 +18,5 @@
 
 
 ```
+
 

@@ -1,4 +1,4 @@
-# 02 Modules It Compass Support Resources Motivational Quotes
+﻿# 02 Modules It Compass Support Resources Motivational Quotes
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_support_resources_motivational_quotes.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
       "t
 ... (файл продолжается)
 ```
+
 

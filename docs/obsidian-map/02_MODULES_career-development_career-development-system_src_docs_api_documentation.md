@@ -1,4 +1,4 @@
-# Api Documentation
+﻿# Api Documentation
 
 - **Путь**: `02_MODULES\career-development\career-development-system\src\docs\api_documentation.md`
 - **Тип**: .MD
@@ -39,3 +39,4 @@ GET /users
     "email": "maria@
 ... (файл продолжается)
 ```
+

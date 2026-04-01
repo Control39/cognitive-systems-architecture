@@ -1,4 +1,4 @@
-# Markers
+﻿# Markers
 
 - **Путь**: `02_MODULES\it-compass\src\data\markers.json`
 - **Тип**: .JSON
@@ -10,3 +10,4 @@
 ```
 {}
 ```
+

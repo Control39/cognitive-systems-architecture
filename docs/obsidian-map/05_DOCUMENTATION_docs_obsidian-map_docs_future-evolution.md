@@ -1,4 +1,4 @@
-# Docs Future Evolution
+﻿# Docs Future Evolution
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_future-evolution.md`
 - **Тип**: .MD
@@ -30,3 +30,4 @@
 - Собрат
 ... (файл продолжается)
 ```
+

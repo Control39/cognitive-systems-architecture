@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Grants Sourcecraft Grant Case 3 Measurable Professional Impact Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Grants Sourcecraft Grant Case 3 Measurable Professional Impact Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_grants_sourcecraft-grant_case-3-measurable-professional-impact_README.md`
 - **Тип**: .MD
@@ -21,4 +21,5 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Grants Sourcecraft Grant Case 3 Measurabl
 ... (файл продолжается)
 ```
+
 

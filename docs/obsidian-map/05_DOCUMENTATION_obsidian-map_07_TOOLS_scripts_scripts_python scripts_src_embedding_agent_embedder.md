@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Python Scripts Src Embedding Agent Embedder
+﻿# 07 Tools Scripts Scripts Python Scripts Src Embedding Agent Embedder
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_python scripts_src_embedding_agent_embedder.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class CodeEmbedder:
         self.base_url = base_ur
 ... (файл продолжается)
 ```
+
 

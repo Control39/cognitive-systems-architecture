@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Communication
+﻿# 05 Documentation Docs Methodology Markers Communication
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_communication.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
         "
 ... (файл продолжается)
 ```
+
 

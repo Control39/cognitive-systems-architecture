@@ -1,4 +1,4 @@
-# Architect Perspective
+﻿# Architect Perspective
 
 - **Путь**: `03_CASES\thinking-cases\09-brusnika-analysis\architect-perspective.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
    - Коэфф
 ... (файл продолжается)
 ```
+
 

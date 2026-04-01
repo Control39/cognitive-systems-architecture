@@ -1,4 +1,4 @@
-# Psychological Support
+﻿# Psychological Support
 
 - **Путь**: `05_DOCUMENTATION\docs\methodology\psychological-support\PSYCHOLOGICAL_SUPPORT.md`
 - **Тип**: .MD
@@ -22,3 +22,4 @@ IT Compass — это не только про технические навык
 ## 🎯 Проблема
 ... (файл продолжается)
 ```
+

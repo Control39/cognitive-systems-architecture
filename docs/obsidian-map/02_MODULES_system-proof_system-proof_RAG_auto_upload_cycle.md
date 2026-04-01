@@ -1,4 +1,4 @@
-# Auto Upload Cycle
+﻿# Auto Upload Cycle
 
 - **Путь**: `02_MODULES\system-proof\system-proof\RAG\auto_upload_cycle.ps1`
 - **Тип**: .PS1
@@ -29,3 +29,4 @@ if (!(Test-Path $WatchFolder)) {
     New-Item -ItemType Directory -Path $WatchFolder
 ... (файл продолжается)
 ```
+

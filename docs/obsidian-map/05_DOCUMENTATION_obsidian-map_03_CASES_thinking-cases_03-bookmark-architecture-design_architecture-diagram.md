@@ -1,4 +1,4 @@
-# 03 Cases Thinking Cases 03 Bookmark Architecture Design Architecture Diagram
+﻿# 03 Cases Thinking Cases 03 Bookmark Architecture Design Architecture Diagram
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_thinking-cases_03-bookmark-architecture-design_architecture-diagram.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ E --> F[Структурированное портфолио]
 ```
 
 ```
+
 

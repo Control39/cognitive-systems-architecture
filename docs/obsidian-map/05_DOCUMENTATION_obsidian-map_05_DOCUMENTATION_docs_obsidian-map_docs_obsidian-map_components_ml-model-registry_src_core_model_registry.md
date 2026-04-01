@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Ml Model Registry Src Core Model Registry
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Ml Model Registry Src Core Model Registry
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_components_ml-model-registry_src_core_model_registry.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Последнее измене
 ... (файл продолжается)
 ```
+
 

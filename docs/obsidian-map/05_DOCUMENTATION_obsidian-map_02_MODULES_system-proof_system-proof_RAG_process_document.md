@@ -1,4 +1,4 @@
-# 02 Modules System Proof System Proof Rag Process Document
+﻿# 02 Modules System Proof System Proof Rag Process Document
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_system-proof_system-proof_RAG_process_document.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ function Write-Log {
     $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Docs Obsidian Map Scripts Check Dependencies
+﻿# Docs Obsidian Map Scripts Check Dependencies
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_scripts_check_dependencies.md`
 - **Тип**: .MD
@@ -34,3 +34,4 @@
 Проверяет соответствие зависимостей в компонентах и к
 ... (файл продолжается)
 ```
+

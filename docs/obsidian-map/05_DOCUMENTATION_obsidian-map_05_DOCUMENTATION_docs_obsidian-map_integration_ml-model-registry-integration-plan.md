@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Integration Ml Model Registry Integration Plan
+﻿# 05 Documentation Docs Obsidian Map Integration Ml Model Registry Integration Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_integration_ml-model-registry-integration-plan.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # План интеграции ML Model Registry с Portf
 ... (файл продолжается)
 ```
+
 

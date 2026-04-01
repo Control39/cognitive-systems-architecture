@@ -1,4 +1,4 @@
-# 04 Code Src Core Mental Support
+﻿# 04 Code Src Core Mental Support
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_CODE_src_core_mental_support.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ logger = logging.getLogger(__name__)
 class Psycho
 ... (файл продолжается)
 ```
+
 

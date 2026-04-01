@@ -1,4 +1,4 @@
-# Metrics
+﻿# Metrics
 
 - **Путь**: `02_MODULES\arch-compass-framework\src\infrastructure\monitoring\metrics.py`
 - **Тип**: .PY
@@ -23,3 +23,4 @@ def track_latency(func):
    
 ... (файл продолжается)
 ```
+

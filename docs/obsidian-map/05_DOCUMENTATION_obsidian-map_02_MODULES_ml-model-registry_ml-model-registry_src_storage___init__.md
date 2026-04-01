@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Src Storage   Init  
+﻿# 02 Modules Ml Model Registry Ml Model Registry Src Storage   Init  
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_src_storage___init__.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@
 ```
 
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Presentations Technical Readme
+﻿# 05 Presentations Technical Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_PRESENTATIONS_technical_README.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 2. Поместите туда файлы презентации
 ... (файл продолжается)
 ```
+
 

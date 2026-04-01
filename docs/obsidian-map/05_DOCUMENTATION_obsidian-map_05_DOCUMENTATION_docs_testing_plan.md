@@ -1,4 +1,4 @@
-# 05 Documentation Docs Testing Plan
+﻿# 05 Documentation Docs Testing Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_testing_plan.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 2. Добавить тесты в test_resilience.py для проверки реакции системы на
 ... (файл продолжается)
 ```
+
 

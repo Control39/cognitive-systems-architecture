@@ -1,4 +1,4 @@
-# Adr Template
+﻿# Adr Template
 
 - **Путь**: `docs\obsidian-map\06_Templates\adr-template.md`
 - **Тип**: .MD
@@ -32,3 +32,4 @@
 - [[ссылка на другой ADR]]
 
 ```
+

@@ -1,4 +1,4 @@
-# Load Env
+﻿# Load Env
 
 - **Путь**: `07_TOOLS\scripts\scripts\load-env.ps1`
 - **Тип**: .PS1
@@ -10,3 +10,4 @@
 ```
 
 ```
+

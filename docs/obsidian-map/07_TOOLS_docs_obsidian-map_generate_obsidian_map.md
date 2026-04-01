@@ -1,4 +1,4 @@
-# Generate Obsidian Map
+﻿# Generate Obsidian Map
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\generate_obsidian_map.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ OUTPUT_DIR: Path = REPO_ROOT / "docs" / "obsidian-map"
 README_PATH: Path = REPO_ROOT / "R
 ... (файл продолжается)
 ```
+
 

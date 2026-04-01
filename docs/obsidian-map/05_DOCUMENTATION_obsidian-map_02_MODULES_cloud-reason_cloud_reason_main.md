@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Main
+﻿# 02 Modules Cloud Reason Cloud Reason Main
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_main.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ def run_server():
     print(f"Запуск API: {api_script['co
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Terms
+﻿# Terms
 
 - **Путь**: `docs\obsidian-map\05_Glossary\terms.md`
 - **Тип**: .MD
@@ -17,3 +17,4 @@
 
 
 ```
+

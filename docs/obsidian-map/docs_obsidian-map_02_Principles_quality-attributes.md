@@ -1,4 +1,4 @@
-# Quality Attributes
+﻿# Quality Attributes
 
 - **Путь**: `docs\obsidian-map\02_Principles\quality-attributes.md`
 - **Тип**: .MD
@@ -18,3 +18,4 @@
 
 
 ```
+

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Scripts Find Cjk Characters
+﻿# 05 Documentation Docs Obsidian Map Scripts Find Cjk Characters
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_scripts_find_cjk_characters.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 Скрипт для поиска CJK (китайских, японских, корейских) иероглифов в файлах репозитория.
 ... (файл продолжается)
 ```
+
 

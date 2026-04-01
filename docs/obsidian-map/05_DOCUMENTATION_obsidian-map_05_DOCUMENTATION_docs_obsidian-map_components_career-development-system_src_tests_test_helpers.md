@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Career Development System Src Tests Test Helpers
+﻿# 05 Documentation Docs Obsidian Map Components Career Development System Src Tests Test Helpers
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_career-development-system_src_tests_test_helpers.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ import os
 im
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Src Readme
+﻿# 02 Modules Career Development Career Development System Src Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_src_README.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 ##
 ... (файл продолжается)
 ```
+
 

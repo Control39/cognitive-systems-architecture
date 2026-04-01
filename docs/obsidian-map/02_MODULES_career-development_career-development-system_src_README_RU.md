@@ -1,4 +1,4 @@
-# Readme Ru
+﻿# Readme Ru
 
 - **Путь**: `02_MODULES\career-development\career-development-system\src\README_RU.md`
 - **Тип**: .MD
@@ -34,3 +34,4 @@
    python api/app.py
 ... (файл продолжается)
 ```
+

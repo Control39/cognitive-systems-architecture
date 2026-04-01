@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Utils Portfolio Gen
+﻿# 02 Modules It Compass Src Utils Portfolio Gen
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_utils_portfolio_gen.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ from jinja2 import Environment, FileSystemLoader
 class PortfolioGe
 ... (файл продолжается)
 ```
+
 

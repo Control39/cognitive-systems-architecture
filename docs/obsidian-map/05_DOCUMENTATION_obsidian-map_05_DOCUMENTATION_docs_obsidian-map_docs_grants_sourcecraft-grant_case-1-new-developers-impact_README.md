@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Grants Sourcecraft Grant Case 1 New Developers Impact Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Grants Sourcecraft Grant Case 1 New Developers Impact Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_grants_sourcecraft-grant_case-1-new-developers-impact_README.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # Кейс 1: Уско
 ... (файл продолжается)
 ```
+
 

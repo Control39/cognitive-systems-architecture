@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers Docker
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers Docker
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_methodology_markers_docker.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 - **Путь**: `docs\methodology\m
 ... (файл продолжается)
 ```
+
 

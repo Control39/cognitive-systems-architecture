@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 
 - **Путь**: `02_MODULES\it-compass\src\data\markers\python.json`
 - **Тип**: .JSON
@@ -26,3 +26,4 @@
     "lev
 ... (файл продолжается)
 ```
+

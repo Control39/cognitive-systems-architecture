@@ -1,4 +1,4 @@
-# Project Analysis
+﻿# Project Analysis
 
 **Оценка: 9.0/10**
 
@@ -12,3 +12,4 @@
 **Metrics** [→](../adr/)
 
 **Source**: Migrated from legacy analysis.
+

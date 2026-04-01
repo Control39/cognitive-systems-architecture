@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Methodology Architecture Design
+﻿# 05 Documentation Docs Obsidian Map Docs Methodology Architecture Design
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_methodology_architecture-design.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 Подход к архитектурному проектир
 ... (файл продолжается)
 ```
+
 

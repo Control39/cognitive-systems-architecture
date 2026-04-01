@@ -1,4 +1,4 @@
-# 03 Cases Cases Presentation Cases Case 2 Arch Compass Cloud Reason Readme
+﻿# 03 Cases Cases Presentation Cases Case 2 Arch Compass Cloud Reason Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_presentation-cases_case-2-arch-compass-cloud-reason_README.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 - cloud-reason: облачная платформа для анализа и
 ... (файл продолжается)
 ```
+
 

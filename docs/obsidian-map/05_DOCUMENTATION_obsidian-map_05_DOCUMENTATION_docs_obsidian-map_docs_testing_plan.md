@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Testing Plan
+﻿# 05 Documentation Docs Obsidian Map Docs Testing Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_testing_plan.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@
 Проверить поведение системы при сбоях компонентов (баз дан
 ... (файл продолжается)
 ```
+
 

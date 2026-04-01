@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Src Docs Api Documentation
+﻿# 02 Modules Career Development Career Development System Src Docs Api Documentation
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_src_docs_api_documentation.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 ### Получить список всех 
 ... (файл продолжается)
 ```
+
 

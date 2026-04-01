@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Methodology Integration
+﻿# 05 Documentation Docs Obsidian Map Docs Methodology Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_methodology_integration.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 Методология интеграции множественных проектов представляе
 ... (файл продолжается)
 ```
+
 

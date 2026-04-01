@@ -1,4 +1,4 @@
-# Roadmap
+﻿# Roadmap
 
 - **Путь**: `05_DOCUMENTATION\docs\ROADMAP.md`
 - **Тип**: .MD
@@ -24,3 +24,4 @@
   - Thought Architecture
 ... (файл продолжается)
 ```
+

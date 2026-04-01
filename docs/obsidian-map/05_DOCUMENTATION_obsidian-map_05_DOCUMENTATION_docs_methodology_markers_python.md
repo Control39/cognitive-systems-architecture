@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Python
+﻿# 05 Documentation Docs Methodology Markers Python
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_python.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
         "priority
 ... (файл продолжается)
 ```
+
 

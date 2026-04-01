@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components It Compass Support Resources Motivational Quotes
+﻿# 05 Documentation Docs Obsidian Map Components It Compass Support Resources Motivational Quotes
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_it-compass_support_resources_motivational_quotes.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
   "motivational
 ... (файл продолжается)
 ```
+
 

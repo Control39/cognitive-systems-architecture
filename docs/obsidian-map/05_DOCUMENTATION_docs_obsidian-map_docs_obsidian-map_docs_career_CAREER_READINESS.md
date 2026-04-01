@@ -1,4 +1,4 @@
-# Docs Obsidian Map Docs Career Career Readiness
+﻿# Docs Obsidian Map Docs Career Career Readiness
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_career_CAREER_READINESS.md`
 - **Тип**: .MD
@@ -33,3 +33,4 @@
 | Направление | Минимум для «готов 
 ... (файл продолжается)
 ```
+

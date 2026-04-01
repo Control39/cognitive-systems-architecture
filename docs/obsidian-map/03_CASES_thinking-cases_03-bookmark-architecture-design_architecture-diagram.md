@@ -1,4 +1,4 @@
-# Architecture Diagram
+﻿# Architecture Diagram
 
 - **Путь**: `03_CASES\thinking-cases\03-bookmark-architecture-design\architecture-diagram.md`
 - **Тип**: .MD
@@ -18,3 +18,4 @@ C --> D[Кластеризация KMeans]
 D --> E[Асинхронная обработка]
 E --> F[Структурированное портфолио]
 ```
+

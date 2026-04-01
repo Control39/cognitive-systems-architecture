@@ -1,4 +1,4 @@
-# Docs Obsidian Map 04 Decisions Thinking Log
+﻿# Docs Obsidian Map 04 Decisions Thinking Log
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_04_Decisions_thinking-log.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 ```
 
 ```
+
 

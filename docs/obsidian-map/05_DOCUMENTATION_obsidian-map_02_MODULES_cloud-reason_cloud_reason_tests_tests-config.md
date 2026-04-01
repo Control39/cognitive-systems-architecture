@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Tests Tests Config
+﻿# 02 Modules Cloud Reason Cloud Reason Tests Tests Config
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_tests_tests-config.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ test_suites:
     
 ... (файл продолжается)
 ```
+
 

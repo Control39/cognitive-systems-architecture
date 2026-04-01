@@ -1,4 +1,4 @@
-# Portfolio System Architect 🧠
+﻿# Portfolio System Architect 🧠
 
 [![CI](https://github.com/Control39/cognitive-systems-architecture/workflows/CI/badge.svg)](https://github.com/Control39/cognitive-systems-architecture/actions)
 
@@ -19,3 +19,4 @@ docker compose up
 - [Cases →](cases/)
 - [Modules →](modules/)
 - [Grants →](grants/)
+

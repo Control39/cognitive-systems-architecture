@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Core Low Energy Mode
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Core Low Energy Mode
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_src_core_low_energy_mode.md`
 - **Тип**: .MD
@@ -24,4 +24,5 @@
 - **Тип*
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Docs Obsidian Map 05 Glossary Metrics
+﻿# Docs Obsidian Map 05 Glossary Metrics
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_05_Glossary_metrics.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 ```
 
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs History Journey 02 Chaos To System Readme
+﻿# 05 Documentation Docs History Journey 02 Chaos To System Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_history_journey_02_chaos-to-system_README.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 В 2024 году я совершила технологический прор
 ... (файл продолжается)
 ```
+
 

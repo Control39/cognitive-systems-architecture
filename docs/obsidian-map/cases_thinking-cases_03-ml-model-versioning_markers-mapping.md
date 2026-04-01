@@ -1,4 +1,4 @@
-# Markers Mapping
+﻿# Markers Mapping
 
 - **Путь**: `03_CASES\thinking-cases\03-ml-model-versioning\markers-mapping.json`
 - **Тип**: .JSON
@@ -24,4 +24,5 @@
       "validation_
 ... (файл продолжается)
 ```
+
 

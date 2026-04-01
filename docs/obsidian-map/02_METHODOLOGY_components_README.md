@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `02_METHODOLOGY\components\README.md`
 - **Тип**: .MD
@@ -21,4 +21,5 @@
 7. **career-development-sys
 ... (файл продолжается)
 ```
+
 

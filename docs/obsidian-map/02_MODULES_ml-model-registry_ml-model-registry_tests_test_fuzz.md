@@ -1,4 +1,4 @@
-# Test Fuzz
+﻿# Test Fuzz
 
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_fuzz.py`
 - **Тип**: .PY
@@ -24,3 +24,4 @@ class TestModelRegistryFuzz(unittest.TestCase):
         result 
 ... (файл продолжается)
 ```
+

@@ -1,4 +1,4 @@
-# 03 Cases Thinking Cases 03 Ml Model Versioning Markers Mapping
+﻿# 03 Cases Thinking Cases 03 Ml Model Versioning Markers Mapping
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_thinking-cases_03-ml-model-versioning_markers-mapping.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
         "type": "case_st
 ... (файл продолжается)
 ```
+
 

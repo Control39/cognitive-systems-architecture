@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Src Tests Test Helpers
+﻿# 02 Modules Career Development Career Development System Src Tests Test Helpers
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_src_tests_test_helpers.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ class TestHelpers(unittest.TestCase):
         self.assertTrue(validate_email("
 ... (файл продолжается)
 ```
+
 

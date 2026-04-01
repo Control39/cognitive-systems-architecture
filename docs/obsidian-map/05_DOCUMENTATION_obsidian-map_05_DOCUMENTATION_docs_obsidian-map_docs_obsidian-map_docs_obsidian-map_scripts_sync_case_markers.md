@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Scripts Sync Case Markers
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Scripts Sync Case Markers
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_scripts_sync_case_markers.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 ## Пре
 ... (файл продолжается)
 ```
+
 

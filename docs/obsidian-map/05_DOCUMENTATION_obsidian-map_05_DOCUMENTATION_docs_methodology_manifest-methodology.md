@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Manifest Methodology
+﻿# 05 Documentation Docs Methodology Manifest Methodology
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_manifest-methodology.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Методология объективных маркеров компетенций - это система оценки и развития профессиональных навыков, основанная на измеримых показателях и конкретных достижениях. В отличие от субъективных оценок, эта методология использует
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Check Yaml
+﻿# 07 Tools Scripts Scripts Check Yaml
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_check_yaml.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@ try:
 except FileNotFoundE
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Evolution Cases 01 Knowledge Management 05 Itcompas
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Evolution Cases 01 Knowledge Management 05 Itcompas
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cases_evolution-cases_01_knowledge_management_05_itcompas.md`
 - **Тип**: .MD
@@ -20,4 +20,5 @@
 ``
 ... (файл продолжается)
 ```
+
 

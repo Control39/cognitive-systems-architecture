@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Career Development System Src Tests Test Competency Tracker
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Career Development System Src Tests Test Competency Tracker
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_components_career-development-system_src_tests_test_competency_tracker.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\obsidian-map\components_career-development-system_src_tests_test_competenc
 ... (файл продолжается)
 ```
+
 
