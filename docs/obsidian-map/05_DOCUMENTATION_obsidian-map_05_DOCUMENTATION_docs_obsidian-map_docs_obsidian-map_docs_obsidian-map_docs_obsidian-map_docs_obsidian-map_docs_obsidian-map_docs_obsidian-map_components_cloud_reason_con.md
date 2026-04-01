@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components Cloud Reason Configs Vscode Settings
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components Cloud Reason Configs Vscode Settings
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_cloud_reason_configs_vscode_settings.md`
 - **Тип**: .MD
@@ -21,4 +21,5 @@
 # Docs Obsidian Map Docs Obsid
 ... (файл продолжается)
 ```
+
 

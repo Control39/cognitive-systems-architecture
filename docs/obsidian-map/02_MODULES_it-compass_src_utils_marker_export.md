@@ -1,4 +1,4 @@
-# Marker Export
+﻿# Marker Export
 
 - **Путь**: `02_MODULES\it-compass\src\utils\marker_export.py`
 - **Тип**: .PY
@@ -31,3 +31,4 @@ class MarkerExporter:
        
 ... (файл продолжается)
 ```
+

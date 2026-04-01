@@ -1,4 +1,4 @@
-# Logger
+﻿# Logger
 
 - **Путь**: `02_MODULES\arch-compass-framework\src\infrastructure\monitoring\logger.py`
 - **Тип**: .PY
@@ -26,3 +26,4 @@ async def update_marker(marker_id: str, status: str):
         logger.error("marker_update_failed", marker_id=marker_id, er
 ... (файл продолжается)
 ```
+

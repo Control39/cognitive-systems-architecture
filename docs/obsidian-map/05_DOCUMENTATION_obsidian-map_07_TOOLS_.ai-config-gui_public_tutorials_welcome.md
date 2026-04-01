@@ -1,4 +1,4 @@
-# 07 Tools .Ai Config Gui Public Tutorials Welcome
+﻿# 07 Tools .Ai Config Gui Public Tutorials Welcome
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_.ai-config-gui_public_tutorials_welcome.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
           "c
 ... (файл продолжается)
 ```
+
 

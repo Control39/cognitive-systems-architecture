@@ -1,4 +1,4 @@
-# Api Documentation
+﻿# Api Documentation
 
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\docs\api_documentation.md`
 - **Тип**: .MD
@@ -36,3 +36,4 @@ POST /models
 - `framework` (string) - 
 ... (файл продолжается)
 ```
+

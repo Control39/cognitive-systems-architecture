@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Data Markers
+﻿# 02 Modules It Compass Src Data Markers
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_data_markers.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@
 ```
 
 ```
+
 

@@ -1,4 +1,4 @@
-# Test Model Storage
+﻿# Test Model Storage
 
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\tests\test_model_storage.py`
 - **Тип**: .PY
@@ -28,3 +28,4 @@ class TestModelStorage(unittest.TestCase):
             os.remove(os.path.jo
 ... (файл продолжается)
 ```
+

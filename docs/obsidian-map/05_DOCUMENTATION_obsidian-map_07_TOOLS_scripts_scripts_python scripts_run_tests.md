@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Python Scripts Run Tests
+﻿# 07 Tools Scripts Scripts Python Scripts Run Tests
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_python scripts_run_tests.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@ pytest $TEST_DIR -v --cov=components/cloud-reason --cov-report=html
 ```
 
 ```
+
 

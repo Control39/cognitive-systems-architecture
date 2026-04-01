@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto 04 Artifacts Grants Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto 04 Artifacts Grants Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cognitive-architect-manifesto_04_ARTIFACTS_grants_README.md`
 - **Тип**: .MD
@@ -21,4 +21,5 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsid
 ... (файл продолжается)
 ```
+
 

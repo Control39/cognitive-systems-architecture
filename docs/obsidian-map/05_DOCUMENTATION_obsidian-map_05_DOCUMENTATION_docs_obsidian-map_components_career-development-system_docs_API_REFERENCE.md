@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Career Development System Docs Api Reference
+﻿# 05 Documentation Docs Obsidian Map Components Career Development System Docs Api Reference
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_career-development-system_docs_API_REFERENCE.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 htt
 ... (файл продолжается)
 ```
+
 

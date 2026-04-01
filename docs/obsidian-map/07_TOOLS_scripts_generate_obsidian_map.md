@@ -1,4 +1,4 @@
-# Generate Obsidian Map
+﻿# Generate Obsidian Map
 
 - **Путь**: `07_TOOLS\scripts\generate_obsidian_map.py`
 - **Тип**: .PY
@@ -28,4 +28,5 @@ OUTPUT_DIR: Path = REPO_ROOT / "docs" / "obsidian-map"
 REA
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Arch Compass Framework Src Infrastructure Monitoring Logger
+﻿# 05 Documentation Docs Obsidian Map Components Arch Compass Framework Src Infrastructure Monitoring Logger
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_arch-compass-framework_src_infrastructure_monitoring_logger.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 imp
 ... (файл продолжается)
 ```
+
 

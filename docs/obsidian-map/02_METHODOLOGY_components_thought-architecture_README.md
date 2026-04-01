@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `02_METHODOLOGY\components\thought-architecture\README.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@ Thought Architecture представляет собой коллекцию ко
 - **Verification Tools** - Инструменты верифик
 ... (файл продолжается)
 ```
+
 

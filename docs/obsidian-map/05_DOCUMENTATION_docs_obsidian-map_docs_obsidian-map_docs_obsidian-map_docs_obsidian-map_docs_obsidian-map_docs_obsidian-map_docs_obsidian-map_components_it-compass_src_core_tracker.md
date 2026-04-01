@@ -1,4 +1,4 @@
-# Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Core Tracker
+﻿# Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Core Tracker
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_src_core_tracker.md`
 - **Тип**: .MD
@@ -21,3 +21,4 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src C
 ... (файл продолжается)
 ```
+

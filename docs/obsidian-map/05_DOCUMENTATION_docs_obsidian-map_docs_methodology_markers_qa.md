@@ -1,4 +1,4 @@
-# Docs Methodology Markers Qa
+﻿# Docs Methodology Markers Qa
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_methodology_markers_qa.md`
 - **Тип**: .MD
@@ -32,3 +32,4 @@
         "smart_cri
 ... (файл продолжается)
 ```
+

@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Validate Yaml
+﻿# 07 Tools Scripts Scripts Validate Yaml
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_validate_yaml.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@ def validate_yaml_files(file_list):
    
 ... (файл продолжается)
 ```
+
 

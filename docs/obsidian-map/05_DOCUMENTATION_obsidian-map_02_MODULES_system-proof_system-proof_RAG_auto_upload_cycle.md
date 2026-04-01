@@ -1,4 +1,4 @@
-# 02 Modules System Proof System Proof Rag Auto Upload Cycle
+﻿# 02 Modules System Proof System Proof Rag Auto Upload Cycle
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_system-proof_system-proof_RAG_auto_upload_cycle.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ function Write-Log {
     $Time
 ... (файл продолжается)
 ```
+
 

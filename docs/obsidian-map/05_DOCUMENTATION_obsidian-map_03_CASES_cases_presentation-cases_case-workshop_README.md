@@ -1,4 +1,4 @@
-# 03 Cases Cases Presentation Cases Case Workshop Readme
+﻿# 03 Cases Cases Presentation Cases Case Workshop Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_presentation-cases_case-workshop_README.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@ YYYY‑MM‑DD‑topic‑workshop
 - `2025‑03‑10‑system‑thinking‑wor
 ... (файл продолжается)
 ```
+
 

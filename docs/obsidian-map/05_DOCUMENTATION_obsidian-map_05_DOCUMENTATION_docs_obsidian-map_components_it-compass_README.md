@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components It Compass Readme
+﻿# 05 Documentation Docs Obsidian Map Components It Compass Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_it-compass_README.md`
 - **Тип**: .MD
@@ -37,4 +37,5 @@
 IT-Compass — это интегрированная систе
 ... (файл продолжается)
 ```
+
 

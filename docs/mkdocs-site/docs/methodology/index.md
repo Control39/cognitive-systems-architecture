@@ -1,4 +1,4 @@
-# Methodology
+﻿# Methodology
 
 ## Системное мышление архитектора
 
@@ -15,3 +15,4 @@
 **Подробнее**: См. [ADR-001](adr/ADR-001-system-thinking-methodology.md) и исходники в `02_METHODOLOGY/`.
 
 [Origin: ../../methodology/ components/README.md]
+

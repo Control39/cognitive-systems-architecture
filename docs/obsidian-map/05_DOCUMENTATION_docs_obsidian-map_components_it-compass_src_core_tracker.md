@@ -1,4 +1,4 @@
-# Components It Compass Src Core Tracker
+﻿# Components It Compass Src Core Tracker
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_it-compass_src_core_tracker.md`
 - **Тип**: .MD
@@ -22,3 +22,4 @@ from .tracker import CareerTracker, Marker, SkillData
 ```
 
 ```
+

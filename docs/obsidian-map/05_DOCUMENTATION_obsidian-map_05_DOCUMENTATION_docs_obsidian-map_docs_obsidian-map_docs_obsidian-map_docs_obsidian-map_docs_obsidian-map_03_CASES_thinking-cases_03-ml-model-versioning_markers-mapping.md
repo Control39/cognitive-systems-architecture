@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 03 Ml Model Versioning Markers Mapping
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 03 Ml Model Versioning Markers Mapping
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_03-ml-model-versioning_markers-mapping.md`
 - **Тип**: .MD
@@ -21,4 +21,5 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinkin
 ... (файл продолжается)
 ```
+
 

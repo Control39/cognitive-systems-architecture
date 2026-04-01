@@ -1,4 +1,4 @@
-# Developer Example
+﻿# Developer Example
 
 - **Путь**: `04_DEVELOPMENT\examples\cloud-reason\developer-example.md`
 - **Тип**: .MD
@@ -27,3 +27,4 @@
        def analyze(self, t
 ... (файл продолжается)
 ```
+

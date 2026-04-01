@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Methodology Ai Interaction
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Methodology Ai Interaction
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_methodology_ai-interaction.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_methodology_ai-interaction.md
 ... (файл продолжается)
 ```
+
 

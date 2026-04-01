@@ -1,4 +1,4 @@
-# 05 Presentations Pitch Presentation
+﻿# 05 Presentations Pitch Presentation
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_PRESENTATIONS_pitch_presentation.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@
 ## Слайд 2: К
 ... (файл продолжается)
 ```
+
 

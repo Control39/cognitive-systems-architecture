@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Src Utils Helpers
+﻿# 02 Modules Ml Model Registry Ml Model Registry Src Utils Helpers
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_src_utils_helpers.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ def validate_model_metadata(metadata):
 def format_model_inf
 ... (файл продолжается)
 ```
+
 

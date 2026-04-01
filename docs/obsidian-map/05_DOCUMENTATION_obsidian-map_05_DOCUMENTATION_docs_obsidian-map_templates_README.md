@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Templates Readme
+﻿# 05 Documentation Docs Obsidian Map Templates Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_templates_README.md`
 - **Тип**: .MD
@@ -44,4 +44,5 @@ project-name/
 ├── t
 ... (файл продолжается)
 ```
+
 

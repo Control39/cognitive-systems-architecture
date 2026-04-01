@@ -1,4 +1,4 @@
-# 05 Documentation Docs Architecture Integration
+﻿# 05 Documentation Docs Architecture Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_architecture_integration.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 ```mermaid
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# My Portfolio
+﻿# My Portfolio
 
 - **Путь**: `05_DOCUMENTATION\docs\portfolio\my_portfolio.md`
 - **Тип**: .MD
@@ -20,3 +20,4 @@
 > 🔍 Валидация: Код пайплайна в репозитории + скриншот успешно
 ... (файл продолжается)
 ```
+

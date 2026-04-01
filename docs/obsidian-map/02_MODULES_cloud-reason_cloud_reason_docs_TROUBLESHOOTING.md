@@ -1,4 +1,4 @@
-# Troubleshooting
+﻿# Troubleshooting
 
 - **Путь**: `02_MODULES\cloud-reason\cloud_reason\docs\TROUBLESHOOTING.md`
 - **Тип**: .MD
@@ -23,3 +23,4 @@
 6. [Проблемы с W
 ... (файл продолжается)
 ```
+

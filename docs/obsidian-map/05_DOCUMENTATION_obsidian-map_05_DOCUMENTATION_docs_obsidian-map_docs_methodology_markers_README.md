@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Methodology Markers Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Methodology Markers Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_methodology_markers_README.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@
 ```
 
 ```
+
 

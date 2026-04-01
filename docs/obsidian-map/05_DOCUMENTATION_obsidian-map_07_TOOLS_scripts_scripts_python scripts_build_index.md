@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Python Scripts Build Index
+﻿# 07 Tools Scripts Scripts Python Scripts Build Index
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_python scripts_build_index.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@
 ```
 
 ```
+
 

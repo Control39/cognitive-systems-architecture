@@ -1,4 +1,4 @@
-# Contributing
+﻿# Contributing
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\CONTRIBUTING.md`
 - **Тип**: .MD
@@ -32,3 +32,4 @@
 4. **Документирован
 ... (файл продолжается)
 ```
+

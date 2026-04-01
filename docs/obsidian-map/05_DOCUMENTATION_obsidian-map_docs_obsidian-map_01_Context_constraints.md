@@ -1,4 +1,4 @@
-# Docs Obsidian Map 01 Context Constraints
+﻿# Docs Obsidian Map 01 Context Constraints
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_01_Context_constraints.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 ```
 
 ```
+
 

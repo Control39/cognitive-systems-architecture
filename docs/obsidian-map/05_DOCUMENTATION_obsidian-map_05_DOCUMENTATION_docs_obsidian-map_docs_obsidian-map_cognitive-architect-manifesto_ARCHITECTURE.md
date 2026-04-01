@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto Architecture
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_cognitive-architect-manifesto_ARCHITECTURE.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 ## Превь
 ... (файл продолжается)
 ```
+
 

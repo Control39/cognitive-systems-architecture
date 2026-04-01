@@ -1,4 +1,4 @@
-# App
+﻿# App
 
 - **Путь**: `02_MODULES\portfolio-organizer\portfolio-organizer\src\app.py`
 - **Тип**: .PY
@@ -27,3 +27,4 @@ app.register_blueprint(ml_model_registry_bp)
 # мы не можем просто импортировать ег
 ... (файл продолжается)
 ```
+

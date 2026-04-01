@@ -1,4 +1,4 @@
-# Theses
+﻿# Theses
 
 - **Путь**: `03_CASES\thinking-cases\09-brusnika-analysis\theses.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 Рост ключевой ставки ЦБ (+6 
 ... (файл продолжается)
 ```
+
 

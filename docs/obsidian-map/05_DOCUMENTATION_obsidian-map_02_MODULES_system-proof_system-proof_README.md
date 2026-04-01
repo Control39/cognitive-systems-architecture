@@ -1,4 +1,4 @@
-# 02 Modules System Proof System Proof Readme
+﻿# 02 Modules System Proof System Proof Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_system-proof_system-proof_README.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ System Proof предоставляет инструменты для анали
 ## Основные компонент
 ... (файл продолжается)
 ```
+
 

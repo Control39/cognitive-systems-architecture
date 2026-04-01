@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Scripts Analyze All
+﻿# 02 Modules Cloud Reason Cloud Reason Scripts Analyze All
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_scripts_analyze_all.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@ from typing import Dict, List, Tuple
 def setup_logging() -> Non
 ... (файл продолжается)
 ```
+
 

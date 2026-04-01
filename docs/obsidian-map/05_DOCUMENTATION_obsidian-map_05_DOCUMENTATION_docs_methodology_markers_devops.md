@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Devops
+﻿# 05 Documentation Docs Methodology Markers Devops
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_devops.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
       
 ... (файл продолжается)
 ```
+
 

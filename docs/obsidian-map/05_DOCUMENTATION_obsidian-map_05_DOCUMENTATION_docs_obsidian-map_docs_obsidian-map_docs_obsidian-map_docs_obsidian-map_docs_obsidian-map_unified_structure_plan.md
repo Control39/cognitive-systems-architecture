@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Unified Structure Plan
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Unified Structure Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_unified_structure_plan.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_ob
 ... (файл продолжается)
 ```
+
 

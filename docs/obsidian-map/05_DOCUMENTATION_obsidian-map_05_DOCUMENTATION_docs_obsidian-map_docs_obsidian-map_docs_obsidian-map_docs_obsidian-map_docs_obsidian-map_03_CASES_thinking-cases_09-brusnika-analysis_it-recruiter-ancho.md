@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 09 Brusnika Analysis It Recruiter Anchor
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 09 Brusnika Analysis It Recruiter Anchor
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_09-brusnika-analysis_it-recruiter-anchor.md`
 - **Тип**: .MD
@@ -21,4 +21,5 @@
 # Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thi
 ... (файл продолжается)
 ```
+
 

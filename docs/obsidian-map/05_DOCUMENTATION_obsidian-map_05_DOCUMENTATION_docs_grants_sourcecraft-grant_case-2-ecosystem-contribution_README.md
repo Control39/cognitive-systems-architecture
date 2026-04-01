@@ -1,4 +1,4 @@
-# 05 Documentation Docs Grants Sourcecraft Grant Case 2 Ecosystem Contribution Readme
+﻿# 05 Documentation Docs Grants Sourcecraft Grant Case 2 Ecosystem Contribution Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_grants_sourcecraft-grant_case-2-ecosystem-contribution_README.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 2. **Дублирование усилий** - разные проекты решают одинак
 ... (файл продолжается)
 ```
+
 

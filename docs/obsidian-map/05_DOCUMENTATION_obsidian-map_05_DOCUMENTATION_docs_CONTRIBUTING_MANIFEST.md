@@ -1,4 +1,4 @@
-# 05 Documentation Docs Contributing Manifest
+﻿# 05 Documentation Docs Contributing Manifest
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_CONTRIBUTING_MANIFEST.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 - Опишите 
 ... (файл продолжается)
 ```
+
 

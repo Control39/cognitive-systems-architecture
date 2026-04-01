@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Ml Model Registry Architecture
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Ml Model Registry Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_components_ml-model-registry_ARCHITECTURE.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 `
 ... (файл продолжается)
 ```
+
 

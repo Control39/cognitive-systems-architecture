@@ -1,4 +1,4 @@
-# Ai Config Gui Report
+﻿# Ai Config Gui Report
 
 - **Путь**: `ai_config_gui_report.md`
 - **Тип**: .MD
@@ -14,3 +14,4 @@
 
 
 ```
+

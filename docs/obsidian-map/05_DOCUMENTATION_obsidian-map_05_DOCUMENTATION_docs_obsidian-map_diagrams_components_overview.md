@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Diagrams Components Overview
+﻿# 05 Documentation Docs Obsidian Map Diagrams Components Overview
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_diagrams_components_overview.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@ graph TD
     C[arch-compass-framework] --> D[c
 ... (файл продолжается)
 ```
+
 

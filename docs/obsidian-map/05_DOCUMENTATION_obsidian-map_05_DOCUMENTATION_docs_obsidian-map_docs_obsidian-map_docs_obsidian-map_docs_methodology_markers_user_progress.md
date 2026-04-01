@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers User Progress
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers User Progress
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_methodology_markers_user_progress.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **
 ... (файл продолжается)
 ```
+
 

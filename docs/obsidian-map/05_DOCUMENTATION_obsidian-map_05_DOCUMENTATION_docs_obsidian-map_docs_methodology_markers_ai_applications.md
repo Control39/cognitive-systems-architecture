@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Methodology Markers Ai Applications
+﻿# 05 Documentation Docs Obsidian Map Docs Methodology Markers Ai Applications
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_methodology_markers_ai_applications.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
   "description": "Навыки по направлению A
 ... (файл продолжается)
 ```
+
 

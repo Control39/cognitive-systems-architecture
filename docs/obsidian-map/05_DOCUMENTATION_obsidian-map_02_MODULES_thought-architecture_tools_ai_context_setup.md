@@ -1,4 +1,4 @@
-# 02 Modules Thought Architecture Tools Ai Context Setup
+﻿# 02 Modules Thought Architecture Tools Ai Context Setup
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_thought-architecture_tools_ai_context_setup.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ AI Context Setup - это инструмент для оптимизации в�
 Определение пред
 ... (файл продолжается)
 ```
+
 

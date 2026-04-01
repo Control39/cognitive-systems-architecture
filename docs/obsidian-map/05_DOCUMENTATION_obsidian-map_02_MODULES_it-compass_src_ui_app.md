@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Ui App
+﻿# 02 Modules It Compass Src Ui App
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_ui_app.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ from ..core.api_integration import APIIntegration
 
 ... (файл продолжается)
 ```
+
 

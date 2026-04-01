@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 04 Code Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 04 Code Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_04_CODE_README.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 - **Путь**: `do
 ... (файл продолжается)
 ```
+
 

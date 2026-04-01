@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Src Api App
+﻿# 02 Modules Career Development Career Development System Src Api App
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_src_api_app.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ db = SQLAlchemy(app)
 c
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 04 Development Examples Cloud Reason Developer Example
+﻿# 04 Development Examples Cloud Reason Developer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_cloud-reason_developer-example.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
        api_endpoint: "https://llm.api.yand
 ... (файл продолжается)
 ```
+
 

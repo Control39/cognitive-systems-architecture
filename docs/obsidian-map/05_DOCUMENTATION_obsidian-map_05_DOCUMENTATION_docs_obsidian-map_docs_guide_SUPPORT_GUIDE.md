@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Guide Support Guide
+﻿# 05 Documentation Docs Obsidian Map Docs Guide Support Guide
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_guide_SUPPORT_GUIDE.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 Этот раздел создан для того, чтобы помочь пользователям
 ... (файл продолжается)
 ```
+
 

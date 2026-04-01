@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests Test Security
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests Test Security
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests_test_security.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@ class TestModelRegistrySecurity(unittest.TestCase):
    
 ... (файл продолжается)
 ```
+
 

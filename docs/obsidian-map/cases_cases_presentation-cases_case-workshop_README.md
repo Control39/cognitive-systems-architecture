@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `03_CASES\cases\presentation-cases\case-workshop\README.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ YYYY‑MM‑DD‑topic‑workshop
 - Презентационные слайды (PDF
 ... (файл продолжается)
 ```
+
 

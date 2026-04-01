@@ -1,4 +1,4 @@
-# Newcomer Example
+﻿# Newcomer Example
 
 - **Путь**: `04_DEVELOPMENT\examples\newcomer-example.md`
 - **Тип**: .MD
@@ -29,3 +29,4 @@
 Понимание базовых принципов прое
 ... (файл продолжается)
 ```
+

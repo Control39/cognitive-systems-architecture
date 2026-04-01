@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Examples Cloud Reason Developer Example
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Examples Cloud Reason Developer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_examples_cloud-reason_developer-example.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - **Размер**: 996 бай
 ... (файл продолжается)
 ```
+
 

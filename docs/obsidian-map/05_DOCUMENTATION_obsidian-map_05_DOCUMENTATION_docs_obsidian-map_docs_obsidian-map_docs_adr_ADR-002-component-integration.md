@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Adr Adr 002 Component Integration
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Adr Adr 002 Component Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_adr_ADR-002-component-integration.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # Adr 002
 ... (файл продолжается)
 ```
+
 

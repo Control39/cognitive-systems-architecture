@@ -1,4 +1,4 @@
-# 06 Resources Templates Ai Context Setup
+﻿# 06 Resources Templates Ai Context Setup
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\06_RESOURCES_templates_ai_context_setup.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ AI Context Setup - это инструмент для оптимизации в�
 Определение предметной области 
 ... (файл продолжается)
 ```
+
 

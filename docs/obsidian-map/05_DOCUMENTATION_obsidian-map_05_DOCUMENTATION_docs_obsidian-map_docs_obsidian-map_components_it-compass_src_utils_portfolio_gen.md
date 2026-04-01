@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components It Compass Src Utils Portfolio Gen
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components It Compass Src Utils Portfolio Gen
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_components_it-compass_src_utils_portfolio_gen.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Последнее изменение**: 2026-03-12 10:52:56
 ... (файл продолжается)
 ```
+
 

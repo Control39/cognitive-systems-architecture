@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map 05 Presentations Pitch Presentation
+﻿# 05 Documentation Docs Obsidian Map 05 Presentations Pitch Presentation
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_05_PRESENTATIONS_pitch_presentation.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 > **Документальный фильм о рожден
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 09 Meta Pr Checklist
+﻿# 09 Meta Pr Checklist
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\09_META_PR_CHECKLIST.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 - [ ] Соблю
 ... (файл продолжается)
 ```
+
 

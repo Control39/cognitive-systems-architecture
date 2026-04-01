@@ -1,4 +1,4 @@
-# Adr 002
+﻿# Adr 002
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_Decisions\ADR-002.md`
 - **Тип**: .MD
@@ -19,4 +19,5 @@
 
 
 ```
+
 

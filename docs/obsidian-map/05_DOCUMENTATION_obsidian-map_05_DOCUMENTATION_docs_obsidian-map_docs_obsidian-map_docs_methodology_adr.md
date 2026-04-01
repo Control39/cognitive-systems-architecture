@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Methodology Adr
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Methodology Adr
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_methodology_adr.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 - **Размер**: 13,338 
 ... (файл продолжается)
 ```
+
 

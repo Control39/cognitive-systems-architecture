@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Architecture Tradeoffs
+﻿# 05 Documentation Docs Obsidian Map Docs Architecture Tradeoffs
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_architecture-tradeoffs.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 В процессе разработки IT Compass были сделаны осознанные а
 ... (файл продолжается)
 ```
+
 

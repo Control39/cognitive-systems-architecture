@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Integration Examples System Proof Thought Architecture
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Integration Examples System Proof Thought Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_integration_examples_system-proof-thought-architecture.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Послед
 ... (файл продолжается)
 ```
+
 

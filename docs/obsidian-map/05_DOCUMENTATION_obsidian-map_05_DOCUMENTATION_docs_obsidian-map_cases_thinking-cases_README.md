@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Cases Thinking Cases Readme
+﻿# 05 Documentation Docs Obsidian Map Cases Thinking Cases Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_cases_thinking-cases_README.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 Архитектурные и аналитические кейсы, демонстрирующие навыки системного мышления, анализа проблем и проектирова
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 07 Tools .Ai Config Gui Readme
+﻿# 07 Tools .Ai Config Gui Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_.ai-config-gui_README.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 
 ... (файл продолжается)
 ```
+
 

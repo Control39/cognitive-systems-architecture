@@ -1,4 +1,4 @@
-# 04 Development Diagrams Interactive Data Flow Diagram
+﻿# 04 Development Diagrams Interactive Data Flow Diagram
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_diagrams_interactive_data-flow-diagram.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@ graph LR
     J --> K[(
 ... (файл продолжается)
 ```
+
 

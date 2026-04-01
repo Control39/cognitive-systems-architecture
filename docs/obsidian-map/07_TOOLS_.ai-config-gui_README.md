@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `07_TOOLS\.ai-config-gui\README.md`
 - **Тип**: .MD
@@ -36,3 +36,4 @@ npm start
 📱
 ... (файл продолжается)
 ```
+

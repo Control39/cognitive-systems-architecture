@@ -1,4 +1,4 @@
-# 02 Modules Portfolio Organizer Portfolio Organizer Src Api Ml Model Registry Integration
+﻿# 02 Modules Portfolio Organizer Portfolio Organizer Src Api Ml Model Registry Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_portfolio-organizer_portfolio-organizer_src_api_ml_model_registry_integration.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ import os
 bp = Blueprint('ml_model_registry', __name__, url_prefix=
 ... (файл продолжается)
 ```
+
 

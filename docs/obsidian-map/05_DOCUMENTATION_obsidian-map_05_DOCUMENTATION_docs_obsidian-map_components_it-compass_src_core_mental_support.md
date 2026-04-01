@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components It Compass Src Core Mental Support
+﻿# 05 Documentation Docs Obsidian Map Components It Compass Src Core Mental Support
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_it-compass_src_core_mental_support.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 Психологическая поддержка для IT Compass (совместимость с предыд
 ... (файл продолжается)
 ```
+
 

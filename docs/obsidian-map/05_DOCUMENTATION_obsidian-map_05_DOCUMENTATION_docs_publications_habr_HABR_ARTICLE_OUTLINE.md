@@ -1,4 +1,4 @@
-# 05 Documentation Docs Publications Habr Habr Article Outline
+﻿# 05 Documentation Docs Publications Habr Habr Article Outline
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_publications_habr_HABR_ARTICLE_OUTLINE.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 ```
 
 ```
+
 

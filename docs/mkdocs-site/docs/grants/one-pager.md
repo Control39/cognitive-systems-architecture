@@ -1,4 +1,4 @@
-# One-Pager: Portfolio System Architect for Grants
+﻿# One-Pager: Portfolio System Architect for Grants
 **Lead Architect: Екатерина Куделя | Zero→Cognitive Architect (3yr AI-led journey)**
 
 ## 🎯 Problem Solved
@@ -43,4 +43,5 @@ Non-tech to architect barrier: High. Solution: Human-in-loop methodology → rep
 **Grant Match**: AI leadership, OSS, inclusion.
 
 **Ready. Transform IT entry. 🚀**
+
 

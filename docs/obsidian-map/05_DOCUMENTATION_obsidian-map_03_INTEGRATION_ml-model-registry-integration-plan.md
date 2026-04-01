@@ -1,4 +1,4 @@
-# 03 Integration Ml Model Registry Integration Plan
+﻿# 03 Integration Ml Model Registry Integration Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_INTEGRATION_ml-model-registry-integration-plan.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 ## Текущее сост
 ... (файл продолжается)
 ```
+
 

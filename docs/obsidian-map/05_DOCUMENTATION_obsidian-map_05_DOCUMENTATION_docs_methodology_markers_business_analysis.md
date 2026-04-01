@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Business Analysis
+﻿# 05 Documentation Docs Methodology Markers Business Analysis
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_business_analysis.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
         "validation": "Документация или артефа
 ... (файл продолжается)
 ```
+
 

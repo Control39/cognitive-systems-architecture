@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Product Management
+﻿# 05 Documentation Docs Methodology Markers Product Management
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_product_management.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
         "validation": "Документация или 
 ... (файл продолжается)
 ```
+
 

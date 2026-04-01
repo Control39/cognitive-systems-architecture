@@ -1,4 +1,4 @@
-# Practitioner Example
+﻿# Practitioner Example
 
 - **Путь**: `04_DEVELOPMENT\examples\practitioner-example.md`
 - **Тип**: .MD
@@ -25,3 +25,4 @@
     
 ... (файл продолжается)
 ```
+

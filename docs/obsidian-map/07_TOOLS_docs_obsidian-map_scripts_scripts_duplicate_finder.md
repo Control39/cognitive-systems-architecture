@@ -1,4 +1,4 @@
-# Scripts Scripts Duplicate Finder
+﻿# Scripts Scripts Duplicate Finder
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\scripts_scripts_duplicate_finder.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ import hashlib
 im
 ... (файл продолжается)
 ```
+
 

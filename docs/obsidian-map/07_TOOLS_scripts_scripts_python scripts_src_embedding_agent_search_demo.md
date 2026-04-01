@@ -1,4 +1,4 @@
-# Search Demo
+﻿# Search Demo
 
 - **Путь**: `07_TOOLS\scripts\scripts\python scripts\src\embedding_agent\search_demo.py`
 - **Тип**: .PY
@@ -28,3 +28,4 @@ def load_full_index(index_file: str):
     # Для демо будем переиндексировать при поис
 ... (файл продолжается)
 ```
+

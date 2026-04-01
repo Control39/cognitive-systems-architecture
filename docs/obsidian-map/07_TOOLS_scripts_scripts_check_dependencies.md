@@ -1,4 +1,4 @@
-# Check Dependencies
+﻿# Check Dependencies
 
 - **Путь**: `07_TOOLS\scripts\scripts\check_dependencies.py`
 - **Тип**: .PY
@@ -29,3 +29,4 @@ class DependencyChecker:
     def find_requirements_fi
 ... (файл продолжается)
 ```
+

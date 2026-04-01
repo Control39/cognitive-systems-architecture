@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Scripts Python Scripts Search Code
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Scripts Python Scripts Search Code
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_scripts_python scripts_search_code.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 - **Путь**: `s
 ... (файл продолжается)
 ```
+
 

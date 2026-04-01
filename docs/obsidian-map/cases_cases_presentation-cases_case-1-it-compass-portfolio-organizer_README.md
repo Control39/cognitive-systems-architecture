@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `03_CASES\cases\presentation-cases\case-1-it-compass-portfolio-organizer\README.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 3. Обеспечение согласованности данных меж
 ... (файл продолжается)
 ```
+
 

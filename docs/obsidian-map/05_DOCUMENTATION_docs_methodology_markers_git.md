@@ -1,4 +1,4 @@
-# Git
+﻿# Git
 
 - **Путь**: `05_DOCUMENTATION\docs\methodology\markers\git.json`
 - **Тип**: .JSON
@@ -26,3 +26,4 @@
 
 ... (файл продолжается)
 ```
+

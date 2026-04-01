@@ -1,4 +1,4 @@
-# Cybersecurity
+﻿# Cybersecurity
 
 - **Путь**: `05_DOCUMENTATION\docs\methodology\markers\cybersecurity.json`
 - **Тип**: .JSON
@@ -25,3 +25,4 @@
        
 ... (файл продолжается)
 ```
+

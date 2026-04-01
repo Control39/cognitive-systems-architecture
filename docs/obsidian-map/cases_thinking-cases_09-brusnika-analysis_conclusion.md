@@ -1,4 +1,4 @@
-# Conclusion
+﻿# Conclusion
 
 - **Путь**: `03_CASES\thinking-cases\09-brusnika-analysis\conclusion.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@
 - финансовом моделировани
 ... (файл продолжается)
 ```
+
 

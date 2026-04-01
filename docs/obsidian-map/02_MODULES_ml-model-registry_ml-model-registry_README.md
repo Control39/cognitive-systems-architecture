@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\README.md`
 - **Тип**: .MD
@@ -25,3 +25,4 @@
 - Отказоустойчивость при сбоя
 ... (файл продолжается)
 ```
+

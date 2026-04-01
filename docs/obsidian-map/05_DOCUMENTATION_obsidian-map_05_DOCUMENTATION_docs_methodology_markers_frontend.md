@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Frontend
+﻿# 05 Documentation Docs Methodology Markers Frontend
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_frontend.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
         "re
 ... (файл продолжается)
 ```
+
 

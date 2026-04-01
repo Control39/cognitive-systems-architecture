@@ -1,4 +1,4 @@
-# 03 Cases Thinking Cases 09 Brusnika Analysis Application
+﻿# 03 Cases Thinking Cases 09 Brusnika Analysis Application
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_thinking-cases_09-brusnika-analysis_application.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 5. Спрогнозируй
 ... (файл продолжается)
 ```
+
 

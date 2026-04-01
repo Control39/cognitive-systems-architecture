@@ -1,4 +1,4 @@
-# 03 Cases Thinking Cases 09 Brusnika Analysis Theses
+﻿# 03 Cases Thinking Cases 09 Brusnika Analysis Theses
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_thinking-cases_09-brusnika-analysis_theses.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 Займы бенефициару (4 млрд) при отрицательном операц
 ... (файл продолжается)
 ```
+
 

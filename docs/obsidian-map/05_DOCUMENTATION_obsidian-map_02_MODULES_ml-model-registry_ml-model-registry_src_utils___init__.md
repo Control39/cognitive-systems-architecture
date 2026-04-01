@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Src Utils   Init  
+﻿# 02 Modules Ml Model Registry Ml Model Registry Src Utils   Init  
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_src_utils___init__.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@
 ```
 
 ```
+
 

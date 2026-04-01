@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Docs Api Reference
+﻿# 02 Modules Career Development Career Development System Docs Api Reference
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_docs_API_REFERENCE.md`
 - **Тип**: .MD
@@ -48,4 +48,5 @@ GET /users
 POST /use
 ... (файл продолжается)
 ```
+
 

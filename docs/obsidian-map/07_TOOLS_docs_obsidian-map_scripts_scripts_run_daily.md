@@ -1,4 +1,4 @@
-# Scripts Scripts Run Daily
+﻿# Scripts Scripts Run Daily
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\scripts_scripts_run_daily.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ git pull origin main
 # 2. Генерация карты
 ... (файл продолжается)
 ```
+
 

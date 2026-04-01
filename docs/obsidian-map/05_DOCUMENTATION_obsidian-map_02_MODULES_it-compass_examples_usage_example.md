@@ -1,4 +1,4 @@
-# 02 Modules It Compass Examples Usage Example
+﻿# 02 Modules It Compass Examples Usage Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_examples_usage_example.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 5. Инте
 ... (файл продолжается)
 ```
+
 

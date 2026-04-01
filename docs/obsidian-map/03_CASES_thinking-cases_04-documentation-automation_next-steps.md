@@ -1,4 +1,4 @@
-# Next Steps
+﻿# Next Steps
 
 - **Путь**: `03_CASES\thinking-cases\04-documentation-automation\next-steps.md`
 - **Тип**: .MD
@@ -26,3 +26,4 @@
 - [ ] **Linter д
 ... (файл продолжается)
 ```
+

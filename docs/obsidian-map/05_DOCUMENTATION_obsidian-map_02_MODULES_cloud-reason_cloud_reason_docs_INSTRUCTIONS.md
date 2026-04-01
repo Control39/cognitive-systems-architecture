@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Docs Instructions
+﻿# 02 Modules Cloud Reason Cloud Reason Docs Instructions
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_docs_INSTRUCTIONS.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 особенно в средах Windows с поддержкой кириллицы. Все инструм
 ... (файл продолжается)
 ```
+
 

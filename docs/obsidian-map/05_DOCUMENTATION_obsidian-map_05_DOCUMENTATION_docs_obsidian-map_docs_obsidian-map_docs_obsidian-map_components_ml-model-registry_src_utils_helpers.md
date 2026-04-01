@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components Ml Model Registry Src Utils Helpers
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components Ml Model Registry Src Utils Helpers
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_ml-model-registry_src_utils_helpers.md`
 - **Тип**: .MD
@@ -24,4 +24,5 @@
 - **Тип**:
 ... (файл продолжается)
 ```
+
 

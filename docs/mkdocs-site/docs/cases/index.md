@@ -1,4 +1,4 @@
-# Cases
+﻿# Cases
 
 Кейсы эволюции и мышления.
 
@@ -15,3 +15,4 @@
 См. README модулей в cases/.
 
 **Источник**: `03_CASES/README.md` + subdirs
+

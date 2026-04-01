@@ -1,4 +1,4 @@
-# Welcome
+﻿# Welcome
 
 - **Путь**: `07_TOOLS\.ai-config-gui\public\tutorials\welcome.json`
 - **Тип**: .JSON
@@ -29,3 +29,4 @@
           "content": "Прове
 ... (файл продолжается)
 ```
+

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Core Api Integration
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Core Api Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_src_core_api_integration.md`
 - **Тип**: .MD
@@ -24,4 +24,5 @@
 - **Тип**:
 ... (файл продолжается)
 ```
+
 

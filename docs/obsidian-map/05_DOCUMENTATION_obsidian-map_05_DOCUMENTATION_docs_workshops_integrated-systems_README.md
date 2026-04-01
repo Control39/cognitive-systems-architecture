@@ -1,4 +1,4 @@
-# 05 Documentation Docs Workshops Integrated Systems Readme
+﻿# 05 Documentation Docs Workshops Integrated Systems Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_workshops_integrated-systems_README.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 1. Понять
 ... (файл продолжается)
 ```
+
 

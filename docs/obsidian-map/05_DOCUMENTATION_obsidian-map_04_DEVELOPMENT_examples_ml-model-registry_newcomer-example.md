@@ -1,4 +1,4 @@
-# 04 Development Examples Ml Model Registry Newcomer Example
+﻿# 04 Development Examples Ml Model Registry Newcomer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_ml-model-registry_newcomer-example.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
    python -m pytest tests/test_model_registr
 ... (файл продолжается)
 ```
+
 

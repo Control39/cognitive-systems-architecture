@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers Product Management
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers Product Management
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_methodology_markers_product_management.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_docs_obsidian-
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Services
+﻿# Services
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_Components\services.md`
 - **Тип**: .MD
@@ -17,4 +17,5 @@
 
 
 ```
+
 

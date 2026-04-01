@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 04 Documentation Automation Problem
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 04 Documentation Automation Problem
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_04-documentation-automation_problem.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_03_CASES_thinking-ca
 ... (файл продолжается)
 ```
+
 

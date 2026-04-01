@@ -1,4 +1,4 @@
-# 05 Documentation Docs Skills
+﻿# 05 Documentation Docs Skills
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_SKILLS.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 | Навык | Уровень | Примеры 
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Indexer
+﻿# Indexer
 
 - **Путь**: `07_TOOLS\scripts\scripts\python scripts\indexer.py`
 - **Тип**: .PY
@@ -28,3 +28,4 @@ class CodeIndexer:
             wit
 ... (файл продолжается)
 ```
+

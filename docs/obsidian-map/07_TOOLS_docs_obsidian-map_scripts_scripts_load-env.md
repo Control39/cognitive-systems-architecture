@@ -1,4 +1,4 @@
-# Scripts Scripts Load Env
+﻿# Scripts Scripts Load Env
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\scripts_scripts_load-env.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 
 
 ```
+
 

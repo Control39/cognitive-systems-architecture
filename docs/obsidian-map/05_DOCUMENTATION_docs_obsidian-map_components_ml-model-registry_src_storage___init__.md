@@ -1,4 +1,4 @@
-# Components Ml Model Registry Src Storage   Init  
+﻿# Components Ml Model Registry Src Storage   Init  
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_ml-model-registry_src_storage___init__.md`
 - **Тип**: .MD
@@ -22,3 +22,4 @@
 ```
 
 ```
+

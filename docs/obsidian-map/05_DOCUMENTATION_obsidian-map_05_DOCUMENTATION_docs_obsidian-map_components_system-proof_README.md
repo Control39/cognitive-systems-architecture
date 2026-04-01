@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components System Proof Readme
+﻿# 05 Documentation Docs Obsidian Map Components System Proof Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_system-proof_README.md`
 - **Тип**: .MD
@@ -37,4 +37,5 @@ System Proof - это система для исследования и подт
 System
 ... (файл продолжается)
 ```
+
 

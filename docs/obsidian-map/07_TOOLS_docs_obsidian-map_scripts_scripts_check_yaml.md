@@ -1,4 +1,4 @@
-# Scripts Scripts Check Yaml
+﻿# Scripts Scripts Check Yaml
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\scripts_scripts_check_yaml.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ except FileNotFoundError:
    
 ... (файл продолжается)
 ```
+
 

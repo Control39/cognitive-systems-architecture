@@ -1,4 +1,4 @@
-# Mobile Development
+﻿# Mobile Development
 
 - **Путь**: `05_DOCUMENTATION\docs\methodology\markers\mobile_development.json`
 - **Тип**: .JSON
@@ -24,3 +24,4 @@
           "measurable": "Завершен
 ... (файл продолжается)
 ```
+

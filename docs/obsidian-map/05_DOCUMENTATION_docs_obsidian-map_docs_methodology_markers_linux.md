@@ -1,4 +1,4 @@
-# Docs Methodology Markers Linux
+﻿# Docs Methodology Markers Linux
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_methodology_markers_linux.md`
 - **Тип**: .MD
@@ -32,3 +32,4 @@
 
 ... (файл продолжается)
 ```
+

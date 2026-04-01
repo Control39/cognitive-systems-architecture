@@ -1,4 +1,4 @@
-# 03 Integration Examples It Compass Cloud Reason
+﻿# 03 Integration Examples It Compass Cloud Reason
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_INTEGRATION_examples_it-compass-cloud-reason.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class ITCompassCloudReasonIntegration:
     Класс для демонстрации интеграции it-compass и cloud
 ... (файл продолжается)
 ```
+
 

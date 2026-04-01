@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Generate Docs
+﻿# 07 Tools Scripts Scripts Generate Docs
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_generate_docs.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ def generate_api_docs():
     for endpoint in COMPO
 ... (файл продолжается)
 ```
+
 

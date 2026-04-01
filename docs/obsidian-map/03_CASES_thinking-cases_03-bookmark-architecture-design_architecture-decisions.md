@@ -1,4 +1,4 @@
-# Architecture Decisions
+﻿# Architecture Decisions
 
 - **Путь**: `03_CASES\thinking-cases\03-bookmark-architecture-design\architecture-decisions.md`
 - **Тип**: .MD
@@ -28,3 +28,4 @@
 **Обосно
 ... (файл продолжается)
 ```
+

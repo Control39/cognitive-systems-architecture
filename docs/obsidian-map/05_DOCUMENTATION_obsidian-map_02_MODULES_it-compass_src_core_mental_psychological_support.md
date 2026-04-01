@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Core Mental Psychological Support
+﻿# 02 Modules It Compass Src Core Mental Psychological Support
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_core_mental_psychological_support.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ from pathlib import Path
 logger =
 ... (файл продолжается)
 ```
+
 

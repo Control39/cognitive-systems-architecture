@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Publications Habr Habr Article Content
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Publications Habr Habr Article Content
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_publications_habr_HABR_ARTICLE_CONTENT.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 ## П
 ... (файл продолжается)
 ```
+
 

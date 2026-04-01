@@ -1,4 +1,4 @@
-# 02 Modules Portfolio Organizer Portfolio Organizer Readme
+﻿# 02 Modules Portfolio Organizer Portfolio Organizer Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_portfolio-organizer_portfolio-organizer_README.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@ Portfolio Organizer - это система, созданная архитект
 ## Описани
 ... (файл продолжается)
 ```
+
 

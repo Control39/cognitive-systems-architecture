@@ -1,4 +1,4 @@
-# Contributing
+﻿# Contributing
 
 - **Путь**: `09_META\CONTRIBUTING.md`
 - **Тип**: .MD
@@ -29,3 +29,4 @@
 
 ... (файл продолжается)
 ```
+

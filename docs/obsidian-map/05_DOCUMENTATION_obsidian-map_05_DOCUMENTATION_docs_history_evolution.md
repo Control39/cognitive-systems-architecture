@@ -1,4 +1,4 @@
-# 05 Documentation Docs History Evolution
+﻿# 05 Documentation Docs History Evolution
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_history_evolution.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 ## v1.5.0 - Систематизация (20
 ... (файл продолжается)
 ```
+
 

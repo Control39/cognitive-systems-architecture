@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Cloud Reason Scripts Convert To Utf8
+﻿# 05 Documentation Docs Obsidian Map Components Cloud Reason Scripts Convert To Utf8
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_cloud_reason_scripts_convert_to_utf8.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 Массовая 
 ... (файл продолжается)
 ```
+
 

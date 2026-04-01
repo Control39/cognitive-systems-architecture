@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `03_CASES\cases\thinking-cases\README.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ thinking-cases/
 ├
 ... (файл продолжается)
 ```
+
 

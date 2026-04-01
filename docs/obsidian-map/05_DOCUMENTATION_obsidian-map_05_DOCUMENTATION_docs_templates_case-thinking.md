@@ -1,4 +1,4 @@
-# 05 Documentation Docs Templates Case Thinking
+﻿# 05 Documentation Docs Templates Case Thinking
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_templates_case-thinking.md`
 - **Тип**: .MD
@@ -43,4 +43,5 @@
 ##
 ... (файл продолжается)
 ```
+
 

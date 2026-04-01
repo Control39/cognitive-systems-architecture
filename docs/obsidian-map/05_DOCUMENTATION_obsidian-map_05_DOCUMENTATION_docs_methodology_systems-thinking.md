@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Systems Thinking
+﻿# 05 Documentation Docs Methodology Systems Thinking
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_systems-thinking.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 ## Основны
 ... (файл продолжается)
 ```
+
 

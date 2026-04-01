@@ -1,4 +1,4 @@
-# 04 Code Tests Test Cli
+﻿# 04 Code Tests Test Cli
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_CODE_tests_test_cli.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@ try:
     from cli.
 ... (файл продолжается)
 ```
+
 

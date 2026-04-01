@@ -1,4 +1,4 @@
-# 02 Modules Career Development Career Development System Src Tests Test Competency Tracker
+﻿# 02 Modules Career Development Career Development System Src Tests Test Competency Tracker
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_career-development_career-development-system_src_tests_test_competency_tracker.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class TestCompetencyTracker(unittest.TestCase):
         self.user_id = "user_0
 ... (файл продолжается)
 ```
+
 

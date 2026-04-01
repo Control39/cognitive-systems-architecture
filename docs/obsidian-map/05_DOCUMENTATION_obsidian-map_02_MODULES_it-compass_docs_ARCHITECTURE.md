@@ -1,4 +1,4 @@
-# 02 Modules It Compass Docs Architecture
+﻿# 02 Modules It Compass Docs Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_docs_ARCHITECTURE.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@ IT Compass - это модульная система для отслежива�
 - Ми
 ... (файл продолжается)
 ```
+
 

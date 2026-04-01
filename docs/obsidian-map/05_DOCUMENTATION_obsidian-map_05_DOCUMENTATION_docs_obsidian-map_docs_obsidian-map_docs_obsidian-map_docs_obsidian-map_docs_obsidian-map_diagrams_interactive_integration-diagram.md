@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Diagrams Interactive Integration Diagram
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Diagrams Interactive Integration Diagram
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_diagrams_interactive_integration-diagram.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Grants Grant Proposal
+﻿# 05 Documentation Docs Grants Grant Proposal
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_grants_grant-proposal.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 **Репозиторий**: [g
 ... (файл продолжается)
 ```
+
 

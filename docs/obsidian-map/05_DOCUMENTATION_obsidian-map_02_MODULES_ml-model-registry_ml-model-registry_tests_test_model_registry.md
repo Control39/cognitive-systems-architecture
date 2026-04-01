@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests Test Model Registry
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests Test Model Registry
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests_test_model_registry.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class TestModelRegistry(unittest.TestCase):
         result = self.registry.register_model("test_model", {"name"
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 04 Development Examples Newcomer Example
+﻿# 04 Development Examples Newcomer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_newcomer-example.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
    python src/cli.py tutorial web-
 ... (файл продолжается)
 ```
+
 

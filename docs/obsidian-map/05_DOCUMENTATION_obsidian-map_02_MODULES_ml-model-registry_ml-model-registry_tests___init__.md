@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests   Init  
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests   Init  
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests___init__.md`
 - **Тип**: .MD
@@ -22,4 +22,5 @@
 ```
 
 ```
+
 

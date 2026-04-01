@@ -1,4 +1,4 @@
-# 04 Development Diagrams Interactive Component Diagram
+﻿# 04 Development Diagrams Interactive Component Diagram
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_diagrams_interactive_component-diagram.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@ graph TD
     F --> J[(База данных
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Instructions
+﻿# Instructions
 
 - **Путь**: `02_MODULES\cloud-reason\cloud_reason\docs\INSTRUCTIONS.md`
 - **Тип**: .MD
@@ -23,3 +23,4 @@
 3. [Быстрый старт](#быстрый
 ... (файл продолжается)
 ```
+

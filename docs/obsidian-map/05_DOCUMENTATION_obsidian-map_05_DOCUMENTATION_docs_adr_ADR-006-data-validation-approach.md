@@ -1,4 +1,4 @@
-# 05 Documentation Docs Adr Adr 006 Data Validation Approach
+﻿# 05 Documentation Docs Adr Adr 006 Data Validation Approach
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_adr_ADR-006-data-validation-approach.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 Необходимо выбрать подход к валидации данных в IT Compass. В системе используются dataclass для представления маркеров и другой структурированной информации. Выбор влияет на надежность, производительность и удобство 
 ... (файл продолжается)
 ```
+
 

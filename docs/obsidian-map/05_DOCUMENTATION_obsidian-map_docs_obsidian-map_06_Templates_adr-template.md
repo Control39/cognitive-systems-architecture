@@ -1,4 +1,4 @@
-# Docs Obsidian Map 06 Templates Adr Template
+﻿# Docs Obsidian Map 06 Templates Adr Template
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_06_Templates_adr-template.md`
 - **Тип**: .MD
@@ -41,4 +41,5 @@
 ## Связан
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 03 Integration Examples Arch Compass Portfolio Organizer
+﻿# 03 Integration Examples Arch Compass Portfolio Organizer
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_INTEGRATION_examples_arch-compass-portfolio-organizer.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@ function Initialize-ArchProject {
         [Parameter(Mand
 ... (файл продолжается)
 ```
+
 

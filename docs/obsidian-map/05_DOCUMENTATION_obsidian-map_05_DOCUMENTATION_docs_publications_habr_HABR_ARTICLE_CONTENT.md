@@ -1,4 +1,4 @@
-# 05 Documentation Docs Publications Habr Habr Article Content
+﻿# 05 Documentation Docs Publications Habr Habr Article Content
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_publications_habr_HABR_ARTICLE_CONTENT.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Методология "О
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Loader
+﻿# Loader
 
 - **Путь**: `02_MODULES\cloud-reason\cloud_reason\configs\loader.py`
 - **Тип**: .PY
@@ -25,3 +25,4 @@ def load_component_config():
          
 ... (файл продолжается)
 ```
+

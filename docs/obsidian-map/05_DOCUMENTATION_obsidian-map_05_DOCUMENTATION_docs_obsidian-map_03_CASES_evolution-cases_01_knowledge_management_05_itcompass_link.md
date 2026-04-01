@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map 03 Cases Evolution Cases 01 Knowledge Management 05 Itcompass Link
+﻿# 05 Documentation Docs Obsidian Map 03 Cases Evolution Cases 01 Knowledge Management 05 Itcompass Link
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_03_CASES_evolution-cases_01_knowledge_management_05_itcompass_link.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 
 ... (файл продолжается)
 ```
+
 

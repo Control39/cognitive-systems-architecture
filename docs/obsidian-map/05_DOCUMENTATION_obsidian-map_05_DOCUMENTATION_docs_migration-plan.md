@@ -1,4 +1,4 @@
-# 05 Documentation Docs Migration Plan
+﻿# 05 Documentation Docs Migration Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_migration-plan.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 - `03_CASES/` - кейсы мигрированы в cases/ и compo
 ... (файл продолжается)
 ```
+
 

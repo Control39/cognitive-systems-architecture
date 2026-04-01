@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Cloud Reason Main
+﻿# 05 Documentation Docs Obsidian Map Components Cloud Reason Main
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_cloud_reason_main.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@ def run_server():
     # Берём команду за
 ... (файл продолжается)
 ```
+
 

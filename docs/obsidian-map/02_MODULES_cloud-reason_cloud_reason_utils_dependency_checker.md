@@ -1,4 +1,4 @@
-# Dependency Checker
+﻿# Dependency Checker
 
 - **Путь**: `02_MODULES\cloud-reason\cloud_reason\utils\dependency_checker.py`
 - **Тип**: .PY
@@ -26,3 +26,4 @@ def check_dependencies():
         except pkg_resources.Dis
 ... (файл продолжается)
 ```
+

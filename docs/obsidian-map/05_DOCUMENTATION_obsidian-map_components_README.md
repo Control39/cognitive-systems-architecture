@@ -1,4 +1,4 @@
-# Components Readme
+﻿# Components Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\components_README.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@
 4. **portfolio-organizer** - организатор портфолио
 ... (файл продолжается)
 ```
+
 

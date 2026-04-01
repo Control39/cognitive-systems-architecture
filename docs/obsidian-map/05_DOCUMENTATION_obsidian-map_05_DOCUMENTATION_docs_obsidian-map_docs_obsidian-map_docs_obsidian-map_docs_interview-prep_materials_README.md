@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Interview Prep Materials Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Interview Prep Materials Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_interview-prep_materials_README.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Посл
 ... (файл продолжается)
 ```
+
 

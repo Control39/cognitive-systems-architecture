@@ -1,4 +1,4 @@
-# Tracker.Original
+﻿# Tracker.Original
 
 - **Путь**: `02_MODULES\it-compass\src\core\tracker.original.py`
 - **Тип**: .PY
@@ -34,3 +34,4 @@ class Marker:
     smart_criteria: Dic
 ... (файл продолжается)
 ```
+

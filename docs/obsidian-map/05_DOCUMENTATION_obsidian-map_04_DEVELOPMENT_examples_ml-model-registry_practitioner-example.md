@@ -1,4 +1,4 @@
-# 04 Development Examples Ml Model Registry Practitioner Example
+﻿# 04 Development Examples Ml Model Registry Practitioner Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_ml-model-registry_practitioner-example.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
    p
 ... (файл продолжается)
 ```
+
 

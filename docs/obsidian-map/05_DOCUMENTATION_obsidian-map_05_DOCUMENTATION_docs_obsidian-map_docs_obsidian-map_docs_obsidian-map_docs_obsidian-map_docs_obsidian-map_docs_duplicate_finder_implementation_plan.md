@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Duplicate Finder Implementation Plan
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Duplicate Finder Implementation Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_duplicate_finder_implementation_plan.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `do
 ... (файл продолжается)
 ```
+
 

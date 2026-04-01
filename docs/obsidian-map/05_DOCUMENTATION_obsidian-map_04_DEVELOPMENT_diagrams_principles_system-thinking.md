@@ -1,4 +1,4 @@
-# 04 Development Diagrams Principles System Thinking
+﻿# 04 Development Diagrams Principles System Thinking
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_diagrams_principles_system-thinking.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ graph TB
     E 
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Methodology Manifest Methodology
+﻿# 05 Documentation Docs Obsidian Map Docs Methodology Manifest Methodology
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_methodology_manifest-methodology.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 Методоло
 ... (файл продолжается)
 ```
+
 

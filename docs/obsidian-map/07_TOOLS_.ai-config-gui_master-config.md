@@ -1,4 +1,4 @@
-# Master Config
+﻿# Master Config
 
 - **Путь**: `07_TOOLS\.ai-config-gui\master-config.yaml`
 - **Тип**: .YAML
@@ -23,3 +23,4 @@
   defaults:
     temperature: 0.3
 ```
+

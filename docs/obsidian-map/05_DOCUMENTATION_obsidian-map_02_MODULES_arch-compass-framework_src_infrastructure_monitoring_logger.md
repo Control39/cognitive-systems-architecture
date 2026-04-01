@@ -1,4 +1,4 @@
-# 02 Modules Arch Compass Framework Src Infrastructure Monitoring Logger
+﻿# 02 Modules Arch Compass Framework Src Infrastructure Monitoring Logger
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_arch-compass-framework_src_infrastructure_monitoring_logger.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@ async def update_marker(marker_id: str, status: str):
     logger.info("marker_update_started", marker_id=marker_id, new_status=status)
 ... (файл продолжается)
 ```
+
 

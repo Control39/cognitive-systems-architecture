@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests Test Integration
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests Test Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests_test_integration.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ class TestModelRegistryIntegration(unittest.TestCase):
         self.
 ... (файл продолжается)
 ```
+
 

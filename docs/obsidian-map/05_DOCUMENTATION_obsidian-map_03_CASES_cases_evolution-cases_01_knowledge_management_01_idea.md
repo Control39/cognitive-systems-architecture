@@ -1,4 +1,4 @@
-# 03 Cases Cases Evolution Cases 01 Knowledge Management 01 Idea
+﻿# 03 Cases Cases Evolution Cases 01 Knowledge Management 01 Idea
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_evolution-cases_01_knowledge_management_01_idea.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 IT‑специалисты сталкиваются с проблемой фрагментации знаний, отсутствия систематизации и сложности поиска релевантных м
 ... (файл продолжается)
 ```
+
 

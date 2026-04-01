@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Architecture
+﻿# 02 Modules Ml Model Registry Ml Model Registry Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_ARCHITECTURE.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ ML Model Registry - это система для управления жизне
 - RESTful API для 
 ... (файл продолжается)
 ```
+
 
