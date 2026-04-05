@@ -1,4 +1,4 @@
-# Architecture Tradeoffs
+﻿# Architecture Tradeoffs
 
 - **Путь**: `05_DOCUMENTATION\docs\architecture-tradeoffs.md`
 - **Тип**: .MD
@@ -24,3 +24,4 @@
 - **Графовые баз
 ... (файл продолжается)
 ```
+

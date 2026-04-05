@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Readme
+﻿# 05 Documentation Docs Obsidian Map Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_README.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 Этот репозиторий представляет собой **методологию, инструментарий и практические доказательства** новой профессиональной роли — архитектора когнитивных систем. Проект демонстрирует ценность системного мы
 ... (файл продолжается)
 ```
+
 

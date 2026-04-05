@@ -1,4 +1,4 @@
-# 05 Documentation Docs Adr Adr 005 Ui Technology Choice
+﻿# 05 Documentation Docs Adr Adr 005 Ui Technology Choice
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_adr_ADR-005-ui-technology-choice.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 Необходимо выбрать технологию для реализации пользовательского интерфейса в IT Compass. Интерфейс должен обеспечивать отображение прогресса, рекомендаций, генерацию портфолио и визуализацию данных. Вы
 ... (файл продолжается)
 ```
+
 

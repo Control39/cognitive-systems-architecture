@@ -1,4 +1,4 @@
-# 04 Development Examples It Compass Practitioner Example
+﻿# 04 Development Examples It Compass Practitioner Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_it-compass_practitioner-example.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
    cd com
 ... (файл продолжается)
 ```
+
 

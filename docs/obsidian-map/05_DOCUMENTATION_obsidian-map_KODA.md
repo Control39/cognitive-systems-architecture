@@ -1,4 +1,4 @@
-# Koda
+﻿# Koda
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\KODA.md`
 - **Тип**: .MD
@@ -38,4 +38,5 @@ models:
       - c
 ... (файл продолжается)
 ```
+
 

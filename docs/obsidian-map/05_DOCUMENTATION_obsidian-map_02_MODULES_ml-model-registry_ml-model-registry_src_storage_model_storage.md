@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Src Storage Model Storage
+﻿# 02 Modules Ml Model Registry Ml Model Registry Src Storage Model Storage
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_src_storage_model_storage.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class ModelStorage:
         return {"status": "success", "mes
 ... (файл продолжается)
 ```
+
 

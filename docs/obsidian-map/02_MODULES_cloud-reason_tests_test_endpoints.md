@@ -1,4 +1,4 @@
-# Test Endpoints
+﻿# Test Endpoints
 
 - **Путь**: `02_MODULES\cloud-reason\tests\test_endpoints.py`
 - **Тип**: .PY
@@ -27,4 +27,5 @@ def test_reasoning(mock_git):
     a
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components It Compass Src Main
+﻿# 05 Documentation Docs Obsidian Map Components It Compass Src Main
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_it-compass_src_main.md`
 - **Тип**: .MD
@@ -37,4 +37,5 @@ import os
 impo
 ... (файл продолжается)
 ```
+
 

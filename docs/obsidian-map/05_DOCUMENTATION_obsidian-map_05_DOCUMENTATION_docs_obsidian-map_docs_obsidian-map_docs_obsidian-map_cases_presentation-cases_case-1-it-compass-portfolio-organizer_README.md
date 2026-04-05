@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Presentation Cases Case 1 It Compass Portfolio Organizer Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Presentation Cases Case 1 It Compass Portfolio Organizer Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cases_presentation-cases_case-1-it-compass-portfolio-organizer_README.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\obsidian-map\docs_obs
 ... (файл продолжается)
 ```
+
 

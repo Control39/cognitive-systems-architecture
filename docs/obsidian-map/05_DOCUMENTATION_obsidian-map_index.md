@@ -1,4 +1,4 @@
-# Index
+﻿# Index
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\index.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - [[03_Components/integrations|Интегра
 ... (файл продолжается)
 ```
+
 

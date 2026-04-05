@@ -1,4 +1,4 @@
-# Process Document
+﻿# Process Document
 
 - **Путь**: `02_MODULES\system-proof\system-proof\RAG\process_document.ps1`
 - **Тип**: .PS1
@@ -34,3 +34,4 @@ if (!(Test-Path $Path)) {
 if (!(Test
 ... (файл продолжается)
 ```
+

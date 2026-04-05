@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Code Of Conduct
+﻿# 05 Documentation Docs Obsidian Map Code Of Conduct
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_CODE_OF_CONDUCT.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 В интересах создания открытого и доброжелательного пространства мы, как авторы и участники сообщества, обязуемся
 ... (файл продолжается)
 ```
+
 

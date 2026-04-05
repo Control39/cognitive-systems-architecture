@@ -1,4 +1,4 @@
-# 05 Documentation Docs Evidence Readme
+﻿# 05 Documentation Docs Evidence Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_evidence_README.md`
 - **Тип**: .MD
@@ -24,4 +24,5 @@
 ```
 
 ```
+
 

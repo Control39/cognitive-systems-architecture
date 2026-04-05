@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Git
+﻿# 05 Documentation Docs Methodology Markers Git
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_git.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
         "resources": ["https://example.co
 ... (файл продолжается)
 ```
+
 

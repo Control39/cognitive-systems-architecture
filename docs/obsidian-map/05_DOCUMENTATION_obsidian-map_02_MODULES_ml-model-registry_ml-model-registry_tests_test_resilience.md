@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests Test Resilience
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests Test Resilience
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests_test_resilience.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ class TestModelRegistryResilience(unittest.TestCase):
     d
 ... (файл продолжается)
 ```
+
 

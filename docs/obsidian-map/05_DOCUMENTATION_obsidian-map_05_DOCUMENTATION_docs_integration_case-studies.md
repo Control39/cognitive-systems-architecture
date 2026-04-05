@@ -1,4 +1,4 @@
-# 05 Documentation Docs Integration Case Studies
+﻿# 05 Documentation Docs Integration Case Studies
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_integration_case-studies.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 Необходимо интегрировать
 ... (файл продолжается)
 ```
+
 

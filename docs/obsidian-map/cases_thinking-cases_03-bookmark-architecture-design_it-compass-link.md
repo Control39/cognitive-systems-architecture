@@ -1,4 +1,4 @@
-# It Compass Link
+﻿# It Compass Link
 
 - **Путь**: `03_CASES\thinking-cases\03-bookmark-architecture-design\it-compass-link.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 **Применение кластеризации для 
 ... (файл продолжается)
 ```
+
 

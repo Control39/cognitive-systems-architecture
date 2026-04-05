@@ -1,4 +1,4 @@
-# Project Config
+﻿# Project Config
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\project-config.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ author:
 components:
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Src Api Portfolio Integration
+﻿# 02 Modules Ml Model Registry Ml Model Registry Src Api Portfolio Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_src_api_portfolio_integration.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ import logging
 from typing import Dict, List, Optional, Any
 ... (файл продолжается)
 ```
+
 

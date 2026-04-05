@@ -1,4 +1,4 @@
-# Duplicate Finder Design
+﻿# Duplicate Finder Design
 
 - **Путь**: `05_DOCUMENTATION\docs\duplicate_finder_design.md`
 - **Тип**: .MD
@@ -25,3 +25,4 @@
 ### 1. Рекурсивный обход 
 ... (файл продолжается)
 ```
+

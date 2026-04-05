@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Scripts Find Cjk Characters
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Scripts Find Cjk Characters
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_scripts_find_cjk_characters.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Последнее изменение**: 2026-03-12 10:52:
 ... (файл продолжается)
 ```
+
 

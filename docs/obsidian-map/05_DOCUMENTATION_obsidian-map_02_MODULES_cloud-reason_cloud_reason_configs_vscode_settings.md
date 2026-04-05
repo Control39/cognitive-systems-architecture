@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Configs Vscode Settings
+﻿# 02 Modules Cloud Reason Cloud Reason Configs Vscode Settings
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_configs_vscode_settings.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
   "files.insertFinalNewline
 ... (файл продолжается)
 ```
+
 

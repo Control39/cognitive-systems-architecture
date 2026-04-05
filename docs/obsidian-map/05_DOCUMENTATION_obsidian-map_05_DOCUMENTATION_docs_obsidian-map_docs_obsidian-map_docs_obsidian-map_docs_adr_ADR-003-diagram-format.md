@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Adr Adr 003 Diagram Format
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Adr Adr 003 Diagram Format
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_adr_ADR-003-diagram-format.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Последнее изменение**: 2
 ... (файл продолжается)
 ```
+
 

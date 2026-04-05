@@ -1,4 +1,4 @@
-# 03 Cases Thinking Cases 03 Bookmark Architecture Design It Compass Link
+﻿# 03 Cases Thinking Cases 03 Bookmark Architecture Design It Compass Link
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_thinking-cases_03-bookmark-architecture-design_it-compass-link.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 - Проектиров
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Api Integration
+﻿# Api Integration
 
 - **Путь**: `02_MODULES\it-compass\src\core\api_integration.py`
 - **Тип**: .PY
@@ -10,3 +10,4 @@
 ```
 from .api_integration import GitHubIntegration, StackOverflowIntegration, CareerDevelopmentSystemIntegration
 ```
+

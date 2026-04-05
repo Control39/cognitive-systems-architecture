@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Methodology Markers   Init  
+﻿# 05 Documentation Docs Obsidian Map Docs Methodology Markers   Init  
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_methodology_markers___init__.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 ```
 
 ```
+
 

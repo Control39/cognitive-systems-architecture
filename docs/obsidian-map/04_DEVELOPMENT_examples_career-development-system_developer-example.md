@@ -1,4 +1,4 @@
-# Developer Example
+﻿# Developer Example
 
 - **Путь**: `04_DEVELOPMENT\examples\career-development-system\developer-example.md`
 - **Тип**: .MD
@@ -25,3 +25,4 @@
 3. 
 ... (файл продолжается)
 ```
+

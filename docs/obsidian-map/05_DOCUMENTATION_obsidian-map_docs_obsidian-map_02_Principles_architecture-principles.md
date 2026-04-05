@@ -1,4 +1,4 @@
-# Docs Obsidian Map 02 Principles Architecture Principles
+﻿# Docs Obsidian Map 02 Principles Architecture Principles
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_02_Principles_architecture-principles.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 ```
 
 ```
+
 

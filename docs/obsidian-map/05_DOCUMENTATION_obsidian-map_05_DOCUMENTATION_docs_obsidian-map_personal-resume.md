@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Personal Resume
+﻿# 05 Documentation Docs Obsidian Map Personal Resume
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_personal-resume.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 > **Создаю новые формы экспертизы для эпохи ИИ. Не пишу код — проектирую системы, в которых ИИ
 ... (файл продолжается)
 ```
+
 

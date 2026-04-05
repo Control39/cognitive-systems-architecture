@@ -1,4 +1,4 @@
-# Patterns
+﻿# Patterns
 
 - **Путь**: `docs\obsidian-map\05_Glossary\patterns.md`
 - **Тип**: .MD
@@ -17,3 +17,4 @@
 
 
 ```
+

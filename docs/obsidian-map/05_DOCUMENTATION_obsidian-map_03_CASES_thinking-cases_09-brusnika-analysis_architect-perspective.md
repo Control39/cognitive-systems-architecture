@@ -1,4 +1,4 @@
-# 03 Cases Thinking Cases 09 Brusnika Analysis Architect Perspective
+﻿# 03 Cases Thinking Cases 09 Brusnika Analysis Architect Perspective
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_thinking-cases_09-brusnika-analysis_architect-perspective.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 2. **Ликвидно
 ... (файл продолжается)
 ```
+
 

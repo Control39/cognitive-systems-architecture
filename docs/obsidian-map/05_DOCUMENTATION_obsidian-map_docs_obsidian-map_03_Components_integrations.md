@@ -1,4 +1,4 @@
-# Docs Obsidian Map 03 Components Integrations
+﻿# Docs Obsidian Map 03 Components Integrations
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_03_Components_integrations.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 ```
 
 ```
+
 

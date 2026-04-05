@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Cleanup Plan
+﻿# 05 Documentation Docs Obsidian Map Cleanup Plan
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_cleanup_plan.md`
 - **Тип**: .MD
@@ -37,4 +37,5 @@
 - components/arch
 ... (файл продолжается)
 ```
+
 

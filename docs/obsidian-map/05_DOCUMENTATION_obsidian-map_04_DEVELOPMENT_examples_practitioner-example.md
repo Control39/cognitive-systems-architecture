@@ -1,4 +1,4 @@
-# 04 Development Examples Practitioner Example
+﻿# 04 Development Examples Practitioner Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_practitioner-example.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
        {"name": "order-service", "responsib
 ... (файл продолжается)
 ```
+
 

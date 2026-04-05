@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers System Design
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Methodology Markers System Design
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_methodology_markers_system_design.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # System Desi
 ... (файл продолжается)
 ```
+
 

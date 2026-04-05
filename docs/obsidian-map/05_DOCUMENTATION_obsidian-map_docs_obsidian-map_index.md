@@ -1,4 +1,4 @@
-# Docs Obsidian Map Index
+﻿# Docs Obsidian Map Index
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_index.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 - [[02_Principles/quality-attrib
 ... (файл продолжается)
 ```
+
 

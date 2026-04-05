@@ -1,4 +1,4 @@
-# 04 Code Tests Test Support
+﻿# 04 Code Tests Test Support
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_CODE_tests_test_support.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ def test_psychological_support_initialization():
     """Проверяем
 ... (файл продолжается)
 ```
+
 

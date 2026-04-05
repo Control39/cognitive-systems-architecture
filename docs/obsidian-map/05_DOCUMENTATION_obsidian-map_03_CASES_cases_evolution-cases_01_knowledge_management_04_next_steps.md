@@ -1,4 +1,4 @@
-# 03 Cases Cases Evolution Cases 01 Knowledge Management 04 Next Steps
+﻿# 03 Cases Cases Evolution Cases 01 Knowledge Management 04 Next Steps
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_CASES_cases_evolution-cases_01_knowledge_management_04_next_steps.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 1. **Рефакторинг core‑модулей** — объединить `mental_support.py` и `low_energy_mode.py` в единый модуль психологической поддержки
 ... (файл продолжается)
 ```
+
 

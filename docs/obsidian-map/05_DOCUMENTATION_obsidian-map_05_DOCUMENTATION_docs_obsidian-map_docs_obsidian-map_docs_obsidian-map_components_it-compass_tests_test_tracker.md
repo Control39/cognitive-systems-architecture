@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Tests Test Tracker
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Tests Test Tracker
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_tests_test_tracker.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - **Размер**: 933 б
 ... (файл продолжается)
 ```
+
 

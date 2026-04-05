@@ -1,4 +1,4 @@
-# Glossary
+﻿# Glossary
 
 - **Путь**: `05_DOCUMENTATION\docs\glossary.md`
 - **Тип**: .MD
@@ -27,3 +27,4 @@
 ### Архит
 ... (файл продолжается)
 ```
+

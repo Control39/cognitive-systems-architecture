@@ -1,4 +1,4 @@
-# Components Cloud Reason Scripts Convert To Utf8
+﻿# Components Cloud Reason Scripts Convert To Utf8
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\components_cloud_reason_scripts_convert_to_utf8.md`
 - **Тип**: .MD
@@ -35,3 +35,4 @@ import datetime
 
 ... (файл продолжается)
 ```
+

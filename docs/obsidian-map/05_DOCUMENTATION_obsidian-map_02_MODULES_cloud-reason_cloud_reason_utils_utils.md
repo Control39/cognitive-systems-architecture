@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Utils Utils
+﻿# 02 Modules Cloud Reason Cloud Reason Utils Utils
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_utils_utils.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ def get_module_path(module_name):
     raise ValueError(f"Модуль {modul
 ... (файл продолжается)
 ```
+
 

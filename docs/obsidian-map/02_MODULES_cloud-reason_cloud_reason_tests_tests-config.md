@@ -1,4 +1,4 @@
-# Tests Config
+﻿# Tests Config
 
 - **Путь**: `02_MODULES\cloud-reason\cloud_reason\tests\tests-config.yaml`
 - **Тип**: .YAML
@@ -34,3 +34,4 @@ test_data:
 cove
 ... (файл продолжается)
 ```
+

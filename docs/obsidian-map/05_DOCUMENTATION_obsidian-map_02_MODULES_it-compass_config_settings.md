@@ -1,4 +1,4 @@
-# 02 Modules It Compass Config Settings
+﻿# 02 Modules It Compass Config Settings
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_config_settings.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
     "user_progress_file": "data/user_progress.json",
 ... (файл продолжается)
 ```
+
 

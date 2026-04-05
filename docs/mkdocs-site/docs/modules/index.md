@@ -1,4 +1,4 @@
-# Modules
+﻿# Modules
 
 Документация модулей с README.
 
@@ -8,3 +8,4 @@
 - [IT Compass](it-compass_README.md)
 
 **Источник**: `02_MODULES/*/README.md`
+

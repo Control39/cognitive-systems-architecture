@@ -1,4 +1,4 @@
-# 05 Documentation Docs Adr Adr 004 Data Storage Format
+﻿# 05 Documentation Docs Adr Adr 004 Data Storage Format
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_adr_ADR-004-data-storage-format.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 Необходимо выбрать формат хранения маркеров компетенций в IT Compass. Маркеры содержат информацию о навыках, уровнях, критериях выполнения и валидации. Выбор формата влияет на простоту разработки, масштабируе
 ... (файл продолжается)
 ```
+
 

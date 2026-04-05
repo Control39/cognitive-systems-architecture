@@ -1,4 +1,4 @@
-# Test Api
+﻿# Test Api
 
 - **Путь**: `02_MODULES\ml-model-registry\tests\test_api.py`
 - **Тип**: .PY
@@ -27,4 +27,5 @@ def test_register_model(mock_db):
 # Add DB
 ... (файл продолжается)
 ```
+
 

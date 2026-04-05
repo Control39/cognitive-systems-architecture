@@ -1,4 +1,4 @@
-# Project Structure Report
+﻿# Project Structure Report
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\project_structure_report.md`
 - **Тип**: .MD
@@ -39,4 +39,5 @@
     ├
 ... (файл продолжается)
 ```
+
 

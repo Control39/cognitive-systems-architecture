@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `03_CASES\thinking-cases\02-system-analysis-template\README.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 
 ... (файл продолжается)
 ```
+
 

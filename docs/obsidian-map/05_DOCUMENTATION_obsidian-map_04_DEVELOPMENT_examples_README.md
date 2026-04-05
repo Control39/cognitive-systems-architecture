@@ -1,4 +1,4 @@
-# 04 Development Examples Readme
+﻿# 04 Development Examples Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_README.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 - **Новичок** — как использо
 ... (файл продолжается)
 ```
+
 

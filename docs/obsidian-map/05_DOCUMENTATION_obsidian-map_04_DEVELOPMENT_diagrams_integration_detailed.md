@@ -1,4 +1,4 @@
-# 04 Development Diagrams Integration Detailed
+﻿# 04 Development Diagrams Integration Detailed
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_diagrams_integration_detailed.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ graph LR
     F -- Когнитивные моде
 ... (файл продолжается)
 ```
+
 

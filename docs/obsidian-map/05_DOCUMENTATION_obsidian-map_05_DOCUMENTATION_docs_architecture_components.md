@@ -1,4 +1,4 @@
-# 05 Documentation Docs Architecture Components
+﻿# 05 Documentation Docs Architecture Components
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_architecture_components.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 - Поддерж
 ... (файл продолжается)
 ```
+
 

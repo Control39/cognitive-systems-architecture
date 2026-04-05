@@ -1,4 +1,4 @@
-# Docs Obsidian Map 01 Context System Overview
+﻿# Docs Obsidian Map 01 Context System Overview
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_01_Context_system-overview.md`
 - **Тип**: .MD
@@ -28,4 +28,5 @@ Portfolio-system-architect — это автоматизированная си�
 - **Структура репозитория**: 01_ARCHITECTURE/, 02_MODULES/, 03_CASES/ и др
 ... (файл продолжается)
 ```
+
 

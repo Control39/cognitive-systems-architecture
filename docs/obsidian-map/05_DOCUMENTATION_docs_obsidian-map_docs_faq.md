@@ -1,4 +1,4 @@
-# Docs Faq
+﻿# Docs Faq
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_faq.md`
 - **Тип**: .MD
@@ -33,3 +33,4 @@
 - Метакогнитивные 
 ... (файл продолжается)
 ```
+

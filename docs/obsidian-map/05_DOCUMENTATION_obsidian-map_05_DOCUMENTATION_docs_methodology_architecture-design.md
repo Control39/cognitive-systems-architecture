@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Architecture Design
+﻿# 05 Documentation Docs Methodology Architecture Design
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_architecture-design.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Подход к архитектурному проектированию представляет собой структурированный метод проектирования и реализации архитектуры систем. Он основан на фундаментальных архитектурных принципах и методологиях, которые обеспечивают создание надежных, масштаб
 ... (файл продолжается)
 ```
+
 

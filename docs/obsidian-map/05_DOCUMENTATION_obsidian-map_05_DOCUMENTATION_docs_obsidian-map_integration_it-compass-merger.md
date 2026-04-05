@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Integration It Compass Merger
+﻿# 05 Documentation Docs Obsidian Map Integration It Compass Merger
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_integration_it-compass-merger.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 На основе анализа двух версий IT-Compass (it-comp
 ... (файл продолжается)
 ```
+
 

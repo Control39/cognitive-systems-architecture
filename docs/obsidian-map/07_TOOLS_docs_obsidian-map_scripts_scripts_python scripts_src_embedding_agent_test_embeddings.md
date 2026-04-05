@@ -1,4 +1,4 @@
-# Scripts Scripts Python Scripts Src Embedding Agent Test Embeddings
+﻿# Scripts Scripts Python Scripts Src Embedding Agent Test Embeddings
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\scripts_scripts_python scripts_src_embedding_agent_test_embeddings.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ def test_embedder():
         ("def hello(): print('world'
 ... (файл продолжается)
 ```
+
 

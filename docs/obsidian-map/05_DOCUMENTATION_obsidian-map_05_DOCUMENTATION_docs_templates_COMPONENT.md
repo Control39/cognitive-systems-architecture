@@ -1,4 +1,4 @@
-# 05 Documentation Docs Templates Component
+﻿# 05 Documentation Docs Templates Component
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_templates_COMPONENT.md`
 - **Тип**: .MD
@@ -39,4 +39,5 @@ def main_function(param: Type) -> Result:
     """Описание
 ... (файл продолжается)
 ```
+
 

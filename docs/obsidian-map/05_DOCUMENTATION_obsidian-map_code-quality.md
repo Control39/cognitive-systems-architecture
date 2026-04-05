@@ -1,4 +1,4 @@
-# Code Quality
+﻿# Code Quality
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\code-quality.md`
 - **Тип**: .MD
@@ -39,4 +39,5 @@ python:
      
 ... (файл продолжается)
 ```
+
 

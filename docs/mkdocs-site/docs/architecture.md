@@ -1,4 +1,4 @@
-# Architecture
+﻿# Architecture
 
 ```mermaid
 graph TD
@@ -25,3 +25,4 @@ graph TD
 - Cloud-Reason: RAG API
 
 Подробнее в [Modules](../modules/)
+

@@ -1,4 +1,4 @@
-# Config Readme
+﻿# Config Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\config_README.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 Конфигурации 
 ... (файл продолжается)
 ```
+
 

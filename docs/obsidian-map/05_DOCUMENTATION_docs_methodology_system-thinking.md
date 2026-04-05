@@ -1,4 +1,4 @@
-# System Thinking
+﻿# System Thinking
 
 - **Путь**: `05_DOCUMENTATION\docs\methodology\system-thinking.md`
 - **Тип**: .MD
@@ -24,3 +24,4 @@
 Система рассматривается как единое 
 ... (файл продолжается)
 ```
+

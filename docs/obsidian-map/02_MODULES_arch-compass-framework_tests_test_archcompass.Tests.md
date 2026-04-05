@@ -1,4 +1,4 @@
-# Test Archcompass.Tests
+﻿# Test Archcompass.Tests
 
 - **Путь**: `02_MODULES\arch-compass-framework\tests\test_archcompass.Tests.ps1`
 - **Тип**: .PS1
@@ -25,4 +25,5 @@ Describe 'ArchCompass Functions' {
 
 
 ```
+
 

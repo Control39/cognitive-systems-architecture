@@ -1,4 +1,4 @@
-# Results And Metrics
+﻿# Results And Metrics
 
 - **Путь**: `03_CASES\thinking-cases\03-bookmark-architecture-design\results-and-metrics.md`
 - **Тип**: .MD
@@ -31,3 +31,4 @@
 ###
 ... (файл продолжается)
 ```
+

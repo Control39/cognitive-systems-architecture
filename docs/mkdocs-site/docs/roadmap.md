@@ -1,4 +1,4 @@
-# Roadmap
+﻿# Roadmap
 
 **Q2-2026**:
 - Observability (Grafana/Prometheus)
@@ -12,3 +12,4 @@
 2023: Excel → IT-Compass
 2024: RAG loops
 2025: Full OSS ecosystem
+

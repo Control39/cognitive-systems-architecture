@@ -1,4 +1,4 @@
-# Cognitive Architect Manifesto 03 Evidence Readme
+﻿# Cognitive Architect Manifesto 03 Evidence Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\cognitive-architect-manifesto_03_EVIDENCE_README.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 ### 1. RAG-система (Re
 ... (файл продолжается)
 ```
+
 

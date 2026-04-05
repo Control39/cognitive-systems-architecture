@@ -1,4 +1,4 @@
-# App
+﻿# App
 
 - **Путь**: `02_MODULES\it-compass\src\ui\app.py`
 - **Тип**: .PY
@@ -30,3 +30,4 @@ class ITCompassApp:
     """Осно
 ... (файл продолжается)
 ```
+

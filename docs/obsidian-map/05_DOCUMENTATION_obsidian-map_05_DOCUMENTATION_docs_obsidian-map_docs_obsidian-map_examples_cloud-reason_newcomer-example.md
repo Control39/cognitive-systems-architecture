@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Examples Cloud Reason Newcomer Example
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Examples Cloud Reason Newcomer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_examples_cloud-reason_newcomer-example.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # Newcomer 
 ... (файл продолжается)
 ```
+
 

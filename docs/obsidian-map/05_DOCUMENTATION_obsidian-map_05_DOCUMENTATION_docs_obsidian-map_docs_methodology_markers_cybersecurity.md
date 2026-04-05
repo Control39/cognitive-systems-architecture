@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Methodology Markers Cybersecurity
+﻿# 05 Documentation Docs Obsidian Map Docs Methodology Markers Cybersecurity
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_methodology_markers_cybersecurity.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
   "description": "Навыки по направлению Cybersecuri
 ... (файл продолжается)
 ```
+
 

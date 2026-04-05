@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Scripts Python Scripts Src Embedding Agent Embedder
+﻿# 05 Documentation Docs Obsidian Map Scripts Python Scripts Src Embedding Agent Embedder
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_scripts_python scripts_src_embedding_agent_embedder.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ import numpy as np
 from typing import Li
 ... (файл продолжается)
 ```
+
 

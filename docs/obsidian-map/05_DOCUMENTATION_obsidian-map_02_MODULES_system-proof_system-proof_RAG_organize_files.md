@@ -1,4 +1,4 @@
-# 02 Modules System Proof System Proof Rag Organize Files
+﻿# 02 Modules System Proof System Proof Rag Organize Files
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_system-proof_system-proof_RAG_organize_files.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ function Write-Log {
     $Times
 ... (файл продолжается)
 ```
+
 

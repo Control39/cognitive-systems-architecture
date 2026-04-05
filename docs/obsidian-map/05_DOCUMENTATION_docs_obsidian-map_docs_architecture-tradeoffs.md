@@ -1,4 +1,4 @@
-# Docs Architecture Tradeoffs
+﻿# Docs Architecture Tradeoffs
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_architecture-tradeoffs.md`
 - **Тип**: .MD
@@ -29,3 +29,4 @@
 Маркеры компетенций 
 ... (файл продолжается)
 ```
+

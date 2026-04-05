@@ -1,4 +1,4 @@
-# 02 Modules Arch Compass Framework Readme
+﻿# 02 Modules Arch Compass Framework Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_arch-compass-framework_README.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 Этот фреймворк — не просто набор скриптов, а воплощение моего архитектурного мышления. Я не пишу код ради кода, я проектирую системы, где PowerShell используется как язык оркестрации сложных проце
 ... (файл продолжается)
 ```
+
 

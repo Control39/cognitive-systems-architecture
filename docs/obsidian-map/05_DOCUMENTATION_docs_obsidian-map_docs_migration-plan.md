@@ -1,4 +1,4 @@
-# Docs Migration Plan
+﻿# Docs Migration Plan
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_migration-plan.md`
 - **Тип**: .MD
@@ -34,3 +34,4 @@
 - `05_PRES
 ... (файл продолжается)
 ```
+

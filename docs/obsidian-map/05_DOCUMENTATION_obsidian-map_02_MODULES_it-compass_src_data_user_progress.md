@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Data User Progress
+﻿# 02 Modules It Compass Src Data User Progress
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_data_user_progress.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 ```
 
 ```
+
 

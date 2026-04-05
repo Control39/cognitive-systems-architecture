@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Core Module Loader
+﻿# 02 Modules Cloud Reason Cloud Reason Core Module Loader
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_core_module-loader.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ def load_module_by_name(module_name):
             module_
 ... (файл продолжается)
 ```
+
 

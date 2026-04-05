@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Architecture Manifest Architecture
+﻿# 05 Documentation Docs Obsidian Map Docs Architecture Manifest Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_architecture_manifest-architecture.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 > **Документальный фильм о рожде
 ... (файл продолжается)
 ```
+
 

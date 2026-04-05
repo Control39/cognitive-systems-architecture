@@ -1,4 +1,4 @@
-# 02 Modules Cloud Reason Cloud Reason Scripts Convert To Utf8
+﻿# 02 Modules Cloud Reason Cloud Reason Scripts Convert To Utf8
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_cloud-reason_cloud_reason_scripts_convert_to_utf8.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@ from typing import Dict, List, Tuple
 imp
 ... (файл продолжается)
 ```
+
 

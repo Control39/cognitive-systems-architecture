@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Adr Adr 005 Ui Technology Choice
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Adr Adr 005 Ui Technology Choice
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_adr_ADR-005-ui-technology-choice.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # Adr 005 Ui 
 ... (файл продолжается)
 ```
+
 

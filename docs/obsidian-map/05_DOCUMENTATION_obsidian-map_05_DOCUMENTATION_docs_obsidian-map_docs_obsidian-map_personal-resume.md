@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Personal Resume
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Personal Resume
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_personal-resume.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@
 - **После
 ... (файл продолжается)
 ```
+
 

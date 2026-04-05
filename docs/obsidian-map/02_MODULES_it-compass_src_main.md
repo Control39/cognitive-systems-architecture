@@ -1,4 +1,4 @@
-# Main
+﻿# Main
 
 - **Путь**: `02_MODULES\it-compass\src\main.py`
 - **Тип**: .PY
@@ -30,3 +30,4 @@ def show_directions(tracker):
 def show_markers_for_direction(tracker, di
 ... (файл продолжается)
 ```
+

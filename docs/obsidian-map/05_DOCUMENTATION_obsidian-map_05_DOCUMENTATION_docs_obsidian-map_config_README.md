@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Config Readme
+﻿# 05 Documentation Docs Obsidian Map Config Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_config_README.md`
 - **Тип**: .MD
@@ -39,4 +39,5 @@
 
 ... (файл продолжается)
 ```
+
 

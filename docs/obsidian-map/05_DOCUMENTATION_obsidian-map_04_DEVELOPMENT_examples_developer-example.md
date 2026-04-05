@@ -1,4 +1,4 @@
-# 04 Development Examples Developer Example
+﻿# 04 Development Examples Developer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_developer-example.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
        def generate_manifest
 ... (файл продолжается)
 ```
+
 

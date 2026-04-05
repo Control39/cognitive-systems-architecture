@@ -1,4 +1,4 @@
-# 05 Presentations Readme
+﻿# 05 Presentations Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_PRESENTATIONS_README.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 - **workshop/** —
 ... (файл продолжается)
 ```
+
 

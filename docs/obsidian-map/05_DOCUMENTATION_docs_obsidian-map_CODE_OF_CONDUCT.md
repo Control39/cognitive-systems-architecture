@@ -1,4 +1,4 @@
-# Code Of Conduct
+﻿# Code Of Conduct
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\CODE_OF_CONDUCT.md`
 - **Тип**: .MD
@@ -27,3 +27,4 @@
 ## Наш
 ... (файл продолжается)
 ```
+

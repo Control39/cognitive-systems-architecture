@@ -1,4 +1,4 @@
-# 04 Development Examples Cloud Reason Newcomer Example
+﻿# 04 Development Examples Cloud Reason Newcomer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_examples_cloud-reason_newcomer-example.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 3.
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Architecture
+﻿# 05 Documentation Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_ARCHITECTURE.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 - Бу
 ... (файл продолжается)
 ```
+
 

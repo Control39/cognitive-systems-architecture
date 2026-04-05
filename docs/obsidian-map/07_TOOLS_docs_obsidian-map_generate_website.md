@@ -1,4 +1,4 @@
-# Generate Website
+﻿# Generate Website
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\generate_website.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ OUTPUT_DIR: Path = REPO_ROOT / "docs" / "website"
 LOGO_PATH: str = REPO_ROOT / "assets" 
 ... (файл продолжается)
 ```
+
 

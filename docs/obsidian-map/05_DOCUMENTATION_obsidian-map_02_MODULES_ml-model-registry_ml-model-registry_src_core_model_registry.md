@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Src Core Model Registry
+﻿# 02 Modules Ml Model Registry Ml Model Registry Src Core Model Registry
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_src_core_model_registry.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class ModelRegistry:
         return {"sta
 ... (файл продолжается)
 ```
+
 

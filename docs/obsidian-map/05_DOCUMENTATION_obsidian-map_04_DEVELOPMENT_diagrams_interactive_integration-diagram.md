@@ -1,4 +1,4 @@
-# 04 Development Diagrams Interactive Integration Diagram
+﻿# 04 Development Diagrams Interactive Integration Diagram
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\04_DEVELOPMENT_diagrams_interactive_integration-diagram.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ graph TD
     B --> B5[Career Development Syste
 ... (файл продолжается)
 ```
+
 

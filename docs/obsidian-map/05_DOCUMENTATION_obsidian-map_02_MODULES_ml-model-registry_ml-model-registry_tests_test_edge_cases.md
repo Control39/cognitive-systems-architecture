@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests Test Edge Cases
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests Test Edge Cases
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests_test_edge_cases.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class TestModelRegistryEdgeCases(unittest.TestCase):
         """Проверка регистрации модели с None вмест
 ... (файл продолжается)
 ```
+
 

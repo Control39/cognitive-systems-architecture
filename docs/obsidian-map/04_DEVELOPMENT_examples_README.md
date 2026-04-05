@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `04_DEVELOPMENT\examples\README.md`
 - **Тип**: .MD
@@ -28,3 +28,4 @@
 - [Для практика](it-compass/
 ... (файл продолжается)
 ```
+

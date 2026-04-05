@@ -1,4 +1,4 @@
-# 02 Modules It Compass Support Low Energy Mode
+﻿# 02 Modules It Compass Support Low Energy Mode
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_support_low_energy_mode.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ from datetime import datetime, timedelta
 from typing import Dict, List, Optio
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Scripts Python Scripts Src Embedding Agent Test Embeddings
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Scripts Python Scripts Src Embedding Agent Test Embeddings
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_scripts_python scripts_src_embedding_agent_test_embeddings.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - **Размер**: 904 б
 ... (файл продолжается)
 ```
+
 

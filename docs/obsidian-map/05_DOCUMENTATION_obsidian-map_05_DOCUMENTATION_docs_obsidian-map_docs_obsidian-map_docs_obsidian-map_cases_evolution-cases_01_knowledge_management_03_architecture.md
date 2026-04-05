@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Evolution Cases 01 Knowledge Management 03 Architecture
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Cases Evolution Cases 01 Knowledge Management 03 Architecture
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_cases_evolution-cases_01_knowledge_management_03_architecture.md`
 - **Тип**: .MD
@@ -23,4 +23,5 @@
 - **Путь**: `docs\obsidian-map\docs_obsidian-map_cases_evolutio
 ... (файл продолжается)
 ```
+
 

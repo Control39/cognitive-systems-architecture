@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 09 Brusnika Analysis It Compass Link
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map 03 Cases Thinking Cases 09 Brusnika Analysis It Compass Link
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_03_CASES_thinking-cases_09-brusnika-analysis_it-compass-link.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - **Разме
 ... (файл продолжается)
 ```
+
 

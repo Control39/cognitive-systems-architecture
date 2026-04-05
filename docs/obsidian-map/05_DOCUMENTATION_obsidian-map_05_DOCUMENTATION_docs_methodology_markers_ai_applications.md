@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Ai Applications
+﻿# 05 Documentation Docs Methodology Markers Ai Applications
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_ai_applications.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
         "validation": "Документация или артефакт на GitHub
 ... (файл продолжается)
 ```
+
 

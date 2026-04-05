@@ -1,4 +1,4 @@
-# 02 Modules It Compass Docs Support Guide
+﻿# 02 Modules It Compass Docs Support Guide
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_docs_SUPPORT_GUIDE.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@ IT Compass включает в себя комплексную систему п
 ### Доку
 ... (файл продолжается)
 ```
+
 

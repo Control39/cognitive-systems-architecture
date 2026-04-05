@@ -1,4 +1,4 @@
-# Settings
+﻿# Settings
 
 - **Путь**: `02_MODULES\it-compass\config\settings.json`
 - **Тип**: .JSON
@@ -28,3 +28,4 @@
     "mood_tracking_enabled": tr
 ... (файл продолжается)
 ```
+

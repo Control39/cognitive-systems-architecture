@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Architecture Integration
+﻿# 05 Documentation Docs Obsidian Map Docs Architecture Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_architecture_integration.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 Интеграция компонентов в единую экосистему основана на следующих принц
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Newcomer Example
+﻿# Newcomer Example
 
 - **Путь**: `04_DEVELOPMENT\examples\ml-model-registry\newcomer-example.md`
 - **Тип**: .MD
@@ -27,3 +27,4 @@
 
 
 ```
+

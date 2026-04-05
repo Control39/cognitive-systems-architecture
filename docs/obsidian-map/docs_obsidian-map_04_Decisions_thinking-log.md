@@ -1,4 +1,4 @@
-# Thinking Log
+﻿# Thinking Log
 
 - **Путь**: `docs\obsidian-map\04_Decisions\thinking-log.md`
 - **Тип**: .MD
@@ -17,3 +17,4 @@
 
 
 ```
+

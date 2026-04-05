@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Examples Arch Compass Practitioner Example
+﻿# 05 Documentation Docs Obsidian Map Examples Arch Compass Practitioner Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_examples_arch-compass_practitioner-example.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 Спроектировать архитек
 ... (файл продолжается)
 ```
+
 

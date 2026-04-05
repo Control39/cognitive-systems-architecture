@@ -1,4 +1,4 @@
-# Docs Obsidian Map Docs Obsidian Map Docs Testing Plan
+﻿# Docs Obsidian Map Docs Obsidian Map Docs Testing Plan
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\docs_obsidian-map_docs_obsidian-map_docs_testing_plan.md`
 - **Тип**: .MD
@@ -36,3 +36,4 @@
 - **Последнее измен
 ... (файл продолжается)
 ```
+

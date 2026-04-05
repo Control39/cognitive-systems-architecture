@@ -1,4 +1,4 @@
-# 05 Documentation Docs Roadmap
+﻿# 05 Documentation Docs Roadmap
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_ROADMAP.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 - [x] Создани
 ... (файл продолжается)
 ```
+
 

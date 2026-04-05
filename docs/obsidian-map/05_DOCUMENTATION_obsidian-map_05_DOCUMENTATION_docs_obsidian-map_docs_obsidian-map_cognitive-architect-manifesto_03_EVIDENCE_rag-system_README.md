@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto 03 Evidence Rag System Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto 03 Evidence Rag System Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_cognitive-architect-manifesto_03_EVIDENCE_rag-system_README.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - **Размер**: 4
 ... (файл продолжается)
 ```
+
 

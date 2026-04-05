@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Architecture Principles
+﻿# 05 Documentation Docs Methodology Architecture Principles
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_architecture-principles.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 Система должна быть разбита на четко опре
 ... (файл продолжается)
 ```
+
 

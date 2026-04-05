@@ -1,4 +1,4 @@
-# 03 Integration Documentation Integration Guide
+﻿# 03 Integration Documentation Integration Guide
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\03_INTEGRATION_documentation_integration-guide.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 1. **it-compass**
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Portfolio Organizer Src Api Ml Model Registry Integration
+﻿# 05 Documentation Docs Obsidian Map Components Portfolio Organizer Src Api Ml Model Registry Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_portfolio-organizer_src_api_ml_model_registry_integration.md`
 - **Тип**: .MD
@@ -27,4 +27,5 @@
 
 ... (файл продолжается)
 ```
+
 

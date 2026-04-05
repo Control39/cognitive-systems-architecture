@@ -1,4 +1,4 @@
-# Risk Flow Diagram
+﻿# Risk Flow Diagram
 
 - **Путь**: `03_CASES\thinking-cases\09-brusnika-analysis\risk-flow-diagram.md`
 - **Тип**: .MD
@@ -29,3 +29,4 @@ graph TD
    
 ... (файл продолжается)
 ```
+

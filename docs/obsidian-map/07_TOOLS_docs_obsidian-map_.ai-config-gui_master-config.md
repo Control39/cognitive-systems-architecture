@@ -1,4 +1,4 @@
-# .Ai Config Gui Master Config
+﻿# .Ai Config Gui Master Config
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\.ai-config-gui_master-config.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@
 
 
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Grants Sourcecraft Grant Combined 02 Cases
+﻿# 05 Documentation Docs Obsidian Map Docs Grants Sourcecraft Grant Combined 02 Cases
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_grants_sourcecraft-grant-combined_02_cases.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 Эта коллекци
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Cognitive Architect Manifesto 02 Methodology It Compass Readme
+﻿# 05 Documentation Docs Obsidian Map Cognitive Architect Manifesto 02 Methodology It Compass Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_cognitive-architect-manifesto_02_METHODOLOGY_it-compass_README.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # IT-Compass: Объективн
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 02 Modules It Compass Scripts Reasoning Integration
+﻿# 02 Modules It Compass Scripts Reasoning Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_scripts_reasoning_integration.md`
 - **Тип**: .MD
@@ -29,4 +29,5 @@
 2. Генерацию сложных рекомендаций на основе анализа рассуждений
 ... (файл продолжается)
 ```
+
 

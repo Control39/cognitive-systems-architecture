@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Docs Api Documentation
+﻿# 02 Modules Ml Model Registry Ml Model Registry Docs Api Documentation
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_docs_api_documentation.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ http://localhost:8000/api/v1
 ### Регистрация м
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests Test Contract
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests Test Contract
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests_test_contract.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ class TestModelRegistryContract(unittest.TestCase):
     def test_register_model_contract(se
 ... (файл продолжается)
 ```
+
 

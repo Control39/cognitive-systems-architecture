@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Mlops
+﻿# 05 Documentation Docs Methodology Markers Mlops
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_mlops.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
         "priorit
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Case Template
+﻿# Case Template
 
 - **Путь**: `05_DOCUMENTATION\docs\templates\case-template.md`
 - **Тип**: .MD
@@ -36,3 +36,4 @@
 | [
 ... (файл продолжается)
 ```
+

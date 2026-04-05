@@ -1,4 +1,4 @@
-# Facts
+﻿# Facts
 
 - **Путь**: `03_CASES\thinking-cases\09-brusnika-analysis\facts.md`
 - **Тип**: .MD
@@ -20,3 +20,4 @@
 | Чистый долг / EBITDA | 6,9x | ▲ (было 5,8x) | Расчёт на 
 ... (файл продолжается)
 ```
+

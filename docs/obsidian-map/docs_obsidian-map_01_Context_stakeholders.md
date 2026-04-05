@@ -1,4 +1,4 @@
-# Stakeholders
+﻿# Stakeholders
 
 - **Путь**: `docs\obsidian-map\01_Context\stakeholders.md`
 - **Тип**: .MD
@@ -19,3 +19,4 @@
 
 
 ```
+

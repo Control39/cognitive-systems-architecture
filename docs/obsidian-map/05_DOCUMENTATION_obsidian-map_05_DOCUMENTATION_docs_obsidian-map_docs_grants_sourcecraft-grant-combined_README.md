@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Grants Sourcecraft Grant Combined Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Grants Sourcecraft Grant Combined Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_grants_sourcecraft-grant-combined_README.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 - `01_prop
 ... (файл продолжается)
 ```
+
 

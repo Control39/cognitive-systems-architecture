@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components It Compass Scripts Reasoning Integration
+﻿# 05 Documentation Docs Obsidian Map Components It Compass Scripts Reasoning Integration
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_it-compass_scripts_reasoning_integration.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@
 # Интеграция с системой рассуждений (Clo
 ... (файл продолжается)
 ```
+
 

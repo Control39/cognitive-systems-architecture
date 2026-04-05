@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Python Scripts Indexer
+﻿# 07 Tools Scripts Scripts Python Scripts Indexer
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_python scripts_indexer.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ class CodeIndexer:
     def 
 ... (файл продолжается)
 ```
+
 

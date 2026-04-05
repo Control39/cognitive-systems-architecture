@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Core Mental Support
+﻿# 02 Modules It Compass Src Core Mental Support
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_core_mental_support.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ from datetime import datetime, date
 from typing import Dict, List, Optional, Any
 ... (файл продолжается)
 ```
+
 

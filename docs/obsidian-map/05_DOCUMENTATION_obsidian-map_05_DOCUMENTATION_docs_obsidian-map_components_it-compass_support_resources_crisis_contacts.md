@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components It Compass Support Resources Crisis Contacts
+﻿# 05 Documentation Docs Obsidian Map Components It Compass Support Resources Crisis Contacts
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_it-compass_support_resources_crisis_contacts.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
   
 ... (файл продолжается)
 ```
+
 

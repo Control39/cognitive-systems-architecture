@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Markers Qa
+﻿# 05 Documentation Docs Methodology Markers Qa
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_markers_qa.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
  
 ... (файл продолжается)
 ```
+
 

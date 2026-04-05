@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Workshops Integrated Systems Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Docs Workshops Integrated Systems Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_docs_workshops_integrated-systems_README.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 - **Размер**: 1,1
 ... (файл продолжается)
 ```
+
 

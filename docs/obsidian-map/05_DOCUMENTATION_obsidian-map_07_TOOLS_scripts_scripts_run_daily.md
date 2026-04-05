@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Run Daily
+﻿# 07 Tools Scripts Scripts Run Daily
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_run_daily.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ git pull origin main
 # 2. Генера
 ... (файл продолжается)
 ```
+
 

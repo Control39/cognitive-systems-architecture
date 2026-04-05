@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Python Scripts Src Embedding Agent Search Demo
+﻿# 07 Tools Scripts Scripts Python Scripts Src Embedding Agent Search Demo
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_python scripts_src_embedding_agent_search_demo.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ def load_full_index(index_file: str):
     """Загружает полный индекс с эм
 ... (файл продолжается)
 ```
+
 

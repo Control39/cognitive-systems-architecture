@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components It Compass Docs Context For Ai Analysis
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components It Compass Docs Context For Ai Analysis
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_components_it-compass_docs_context_for_ai_analysis.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Последнее изменение*
 ... (файл продолжается)
 ```
+
 

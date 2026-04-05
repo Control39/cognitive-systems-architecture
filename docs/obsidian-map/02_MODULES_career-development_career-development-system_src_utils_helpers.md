@@ -1,4 +1,4 @@
-# Helpers
+﻿# Helpers
 
 - **Путь**: `02_MODULES\career-development\career-development-system\src\utils\helpers.py`
 - **Тип**: .PY
@@ -30,3 +30,4 @@ def save_json_file(filepath, data):
     """Сохранить данные
 ... (файл продолжается)
 ```
+

@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Duplicate Finder
+﻿# 07 Tools Scripts Scripts Duplicate Finder
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_duplicate_finder.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ import sys
 import h
 ... (файл продолжается)
 ```
+
 

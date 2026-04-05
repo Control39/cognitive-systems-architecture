@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Examples It Compass Newcomer Example
+﻿# 05 Documentation Docs Obsidian Map Examples It Compass Newcomer Example
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_examples_it-compass_newcomer-example.md`
 - **Тип**: .MD
@@ -36,4 +36,5 @@
 ### Де
 ... (файл продолжается)
 ```
+
 

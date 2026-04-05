@@ -1,4 +1,4 @@
-# 02 Modules Ml Model Registry Ml Model Registry Tests Test Fuzz
+﻿# 02 Modules Ml Model Registry Ml Model Registry Tests Test Fuzz
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_ml-model-registry_ml-model-registry_tests_test_fuzz.md`
 - **Тип**: .MD
@@ -31,4 +31,5 @@ class TestModelRegistryFuzz(unittest.TestCase):
     def test_register_mod
 ... (файл продолжается)
 ```
+
 

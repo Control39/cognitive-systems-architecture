@@ -1,4 +1,4 @@
-# Docs Obsidian Map 02 Principles Quality Attributes
+﻿# Docs Obsidian Map 02 Principles Quality Attributes
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\docs_obsidian-map_02_Principles_quality-attributes.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 ```
 
 ```
+
 

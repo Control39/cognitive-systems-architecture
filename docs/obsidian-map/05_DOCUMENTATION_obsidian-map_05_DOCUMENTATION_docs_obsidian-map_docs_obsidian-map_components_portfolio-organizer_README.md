@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Portfolio Organizer Readme
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Portfolio Organizer Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_components_portfolio-organizer_README.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 - *
 ... (файл продолжается)
 ```
+
 

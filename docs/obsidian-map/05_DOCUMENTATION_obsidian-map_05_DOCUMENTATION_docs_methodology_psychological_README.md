@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Psychological Readme
+﻿# 05 Documentation Docs Methodology Psychological Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_psychological_README.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@ IT Compass — это не только про технические навык
 - 😰 **Им
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# Pr Checklist
+﻿# Pr Checklist
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\PR_CHECKLIST.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@
 - [ ] Соблюдён PEP 
 ... (файл продолжается)
 ```
+
 

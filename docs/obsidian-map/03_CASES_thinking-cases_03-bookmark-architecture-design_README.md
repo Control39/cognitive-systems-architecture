@@ -1,4 +1,4 @@
-# Readme
+﻿# Readme
 
 - **Путь**: `03_CASES\thinking-cases\03-bookmark-architecture-design\README.md`
 - **Тип**: .MD
@@ -21,3 +21,4 @@
 - **Наблюдение:** Сегодня кажущееся логичным ("отнести в Python") завтра выг
 ... (файл продолжается)
 ```
+

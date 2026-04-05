@@ -1,4 +1,4 @@
-# Constraints
+﻿# Constraints
 
 - **Путь**: `docs\obsidian-map\01_Context\constraints.md`
 - **Тип**: .MD
@@ -22,3 +22,4 @@
 
 
 ```
+

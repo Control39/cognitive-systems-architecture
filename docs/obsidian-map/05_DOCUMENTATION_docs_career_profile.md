@@ -1,4 +1,4 @@
-# Profile
+﻿# Profile
 
 - **Путь**: `05_DOCUMENTATION\docs\career\profile.md`
 - **Тип**: .MD
@@ -30,3 +30,4 @@
 4. Автоматизация c
 ... (файл продолжается)
 ```
+

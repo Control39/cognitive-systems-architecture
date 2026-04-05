@@ -1,4 +1,4 @@
-# Main
+﻿# Main
 
 - **Путь**: `02_MODULES\ml-model-registry\ml-model-registry\src\api\main.py`
 - **Тип**: .PY
@@ -30,3 +30,4 @@ if __name__ == "__main__":
     import uvic
 ... (файл продолжается)
 ```
+

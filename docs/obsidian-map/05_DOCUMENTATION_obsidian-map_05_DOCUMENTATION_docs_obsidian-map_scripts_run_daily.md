@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Scripts Run Daily
+﻿# 05 Documentation Docs Obsidian Map Scripts Run Daily
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_scripts_run_daily.md`
 - **Тип**: .MD
@@ -34,4 +34,5 @@
 Write-Host "[*] Начало ежедневной автоматизации portfolio-system-architect" -
 ... (файл продолжается)
 ```
+
 

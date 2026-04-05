@@ -1,4 +1,4 @@
-# Cleanup Plan
+﻿# Cleanup Plan
 
 - **Путь**: `05_DOCUMENTATION\docs\obsidian-map\cleanup_plan.md`
 - **Тип**: .MD
@@ -29,3 +29,4 @@
 - components/career-development-sys
 ... (файл продолжается)
 ```
+

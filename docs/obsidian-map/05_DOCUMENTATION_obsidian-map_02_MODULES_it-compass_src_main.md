@@ -1,4 +1,4 @@
-# 02 Modules It Compass Src Main
+﻿# 02 Modules It Compass Src Main
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_src_main.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ def show_directions(tracker):
     print(
 ... (файл продолжается)
 ```
+
 

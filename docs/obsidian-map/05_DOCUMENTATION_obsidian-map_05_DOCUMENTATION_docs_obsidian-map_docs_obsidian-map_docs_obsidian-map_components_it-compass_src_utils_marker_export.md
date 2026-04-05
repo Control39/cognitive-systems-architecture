@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Utils Marker Export
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Docs Obsidian Map Components It Compass Src Utils Marker Export
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_docs_obsidian-map_components_it-compass_src_utils_marker_export.md`
 - **Тип**: .MD
@@ -24,4 +24,5 @@
 - **Тип**: .
 ... (файл продолжается)
 ```
+
 

@@ -1,4 +1,4 @@
-# 07 Tools Scripts Scripts Find Cjk Characters
+﻿# 07 Tools Scripts Scripts Find Cjk Characters
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_scripts_scripts_find_cjk_characters.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@ from typing import List, Dict, Any
 # Регулярное выражение д
 ... (файл продолжается)
 ```
+
 

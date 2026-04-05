@@ -1,4 +1,4 @@
-# Git Branch Analysis
+﻿# Git Branch Analysis
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\GIT_BRANCH_ANALYSIS.md`
 - **Тип**: .MD
@@ -32,4 +32,5 @@
 ```bas
 ... (файл продолжается)
 ```
+
 

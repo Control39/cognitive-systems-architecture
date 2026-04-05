@@ -1,4 +1,4 @@
-# Metrics
+﻿# Metrics
 
 - **Путь**: `docs\obsidian-map\05_Glossary\metrics.md`
 - **Тип**: .MD
@@ -17,3 +17,4 @@
 
 
 ```
+

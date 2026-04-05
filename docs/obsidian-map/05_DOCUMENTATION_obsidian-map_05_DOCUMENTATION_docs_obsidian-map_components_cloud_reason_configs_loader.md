@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Components Cloud Reason Configs Loader
+﻿# 05 Documentation Docs Obsidian Map Components Cloud Reason Configs Loader
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_components_cloud_reason_configs_loader.md`
 - **Тип**: .MD
@@ -35,4 +35,5 @@ from pathlib import Path
 def load_component
 ... (файл продолжается)
 ```
+
 

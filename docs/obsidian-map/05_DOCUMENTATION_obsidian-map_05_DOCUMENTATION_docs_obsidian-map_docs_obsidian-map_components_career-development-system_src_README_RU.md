@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Career Development System Src Readme Ru
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Components Career Development System Src Readme Ru
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_components_career-development-system_src_README_RU.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Последнее изменение*
 ... (файл продолжается)
 ```
+
 

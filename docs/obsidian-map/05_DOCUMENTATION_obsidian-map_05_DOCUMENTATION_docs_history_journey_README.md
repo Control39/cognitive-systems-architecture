@@ -1,4 +1,4 @@
-# 05 Documentation Docs History Journey Readme
+﻿# 05 Documentation Docs History Journey Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_history_journey_README.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@
 - В 2023 году, не имея опыта в IT, я создала простую таблицу для отсл
 ... (файл продолжается)
 ```
+
 

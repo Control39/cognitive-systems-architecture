@@ -1,4 +1,4 @@
-# Карта
+﻿# Карта
 
 # Portfolio System Architect
 
@@ -36,4 +36,5 @@ Project ready for submission:
 - Architecture: [Ecosystem](diagrams/ecosystems.mmd)
 
 License: MIT | Author: Екатерина Куделя
+
 

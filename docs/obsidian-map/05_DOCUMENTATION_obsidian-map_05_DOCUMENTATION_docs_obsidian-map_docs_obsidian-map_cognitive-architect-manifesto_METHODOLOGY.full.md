@@ -1,4 +1,4 @@
-# 05 Documentation Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto Methodology.Full
+﻿# 05 Documentation Docs Obsidian Map Docs Obsidian Map Cognitive Architect Manifesto Methodology.Full
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_obsidian-map_docs_obsidian-map_cognitive-architect-manifesto_METHODOLOGY.full.md`
 - **Тип**: .MD
@@ -26,4 +26,5 @@
 - **Последнее изменение**: 2026-03-12 11
 ... (файл продолжается)
 ```
+
 

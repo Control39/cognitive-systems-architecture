@@ -1,4 +1,4 @@
-# 02 Modules It Compass Decisions 0001 Use Submodules For Modularity
+﻿# 02 Modules It Compass Decisions 0001 Use Submodules For Modularity
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\02_MODULES_it-compass_decisions_0001-use-submodules-for-modularity.md`
 - **Тип**: .MD
@@ -33,4 +33,5 @@
 - Централизованное управле
 ... (файл продолжается)
 ```
+
 

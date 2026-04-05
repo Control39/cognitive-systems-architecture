@@ -1,4 +1,4 @@
-# 05 Documentation Docs Methodology Visualization
+﻿# 05 Documentation Docs Methodology Visualization
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\05_DOCUMENTATION_docs_methodology_visualization.md`
 - **Тип**: .MD
@@ -25,4 +25,5 @@
 Методология визуализации архитектуры представляет собой структурированный подход к созданию визуальных представлений архитектуры систем. Она основана на принципах эффективной визуализации информации и позволяет создавать понятные, информативные и полезные диагр
 ... (файл продолжается)
 ```
+
 

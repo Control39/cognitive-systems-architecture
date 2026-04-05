@@ -1,4 +1,4 @@
-# Run Daily
+﻿# Run Daily
 
 - **Путь**: `07_TOOLS\docs\obsidian-map\run_daily.md`
 - **Тип**: .MD
@@ -30,4 +30,5 @@ git pull origin main
 # 2. Генерация карты знаний Obsidian
 ... (файл продолжается)
 ```
+
 
