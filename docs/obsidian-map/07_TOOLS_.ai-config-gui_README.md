@@ -1,6 +1,6 @@
-﻿# Readme
+# Readme
 
-- **Путь**: `07_TOOLS\.ai-config-gui\README.md`
+- **Путь**: `07_apps\\ai-config-manager\README.md`
 - **Тип**: .MD
 - **Размер**: 900 байт
 - **Последнее изменение**: 2026-03-12 20:35:47
@@ -23,7 +23,7 @@
 ## 📦 Установка
 
 `ash
-cd 07_TOOLS/.ai-config-gui
+cd 07_apps/ai-config-manager
 npm install
 npm start
 🔧 Настройка

@@ -1,6 +1,6 @@
-﻿# Welcome
+# Welcome
 
-- **Путь**: `07_TOOLS\.ai-config-gui\public\tutorials\welcome.json`
+- **Путь**: `07_apps\\ai-config-manager\public\tutorials\welcome.json`
 - **Тип**: .JSON
 - **Размер**: 1,952 байт
 - **Последнее изменение**: 2026-03-12 18:13:07

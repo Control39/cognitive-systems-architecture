@@ -1,4 +1,4 @@
-﻿# 07 Tools .Ai Config Gui Readme
+# 07 Tools .Ai Config Gui Readme
 
 - **Путь**: `05_DOCUMENTATION\obsidian-map\07_TOOLS_.ai-config-gui_README.md`
 - **Тип**: .MD
@@ -10,7 +10,7 @@
 ```
 # Readme
 
-- **Путь**: `07_TOOLS\.ai-config-gui\README.md`
+- **Путь**: `07_apps\\ai-config-manager\README.md`
 - **Тип**: .MD
 - **Размер**: 900 байт
 - **Последнее изменение**: 2026-03-12 20:35:47
