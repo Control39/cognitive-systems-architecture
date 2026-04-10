@@ -1,4 +1,4 @@
-﻿name: Test Cloud Reason Component
+name: Test Cloud Reason Component
 
 on:
   push:
@@ -28,7 +28,7 @@ jobs:
           "
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:

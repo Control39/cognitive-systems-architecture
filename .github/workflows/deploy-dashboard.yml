@@ -1,4 +1,4 @@
-﻿name: Deploy Assistant Orchestrator Dashboard
+name: Deploy Assistant Orchestrator Dashboard
 
 on:
   push:
@@ -26,7 +26,7 @@ jobs:
           fetch-depth: 0  # Fetch all history for git analysis
       
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       
