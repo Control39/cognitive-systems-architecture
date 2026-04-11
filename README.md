@@ -1,56 +1,170 @@
-# Cognitive Systems Architecture
+# Когнитивные системы архитектуры
+> Экосистема для микросервисов, управляемых ИИ. Создана системным архитектором, который проектирует решения, а не пишет код. 
 
-## О проекте
-Экосистема для когнитивного управления ИИ в разработке. Создан архитектором, который не пишет код руками, а проектирует системы мышления и автоматизации. Проект — proof-of-concept новой роли "AI-Driven Architect".
+## 👋 Кто я?
 
-### История создания
-Два года назад я была "нулем в IT". Начала с Excel-таблички навыков, чтобы понять себя. Через диалоги с ИИ создала IT-Compass — методологию для новичков. Столкнулась с хаосом заметок и потерянными диалогами, что привело к RAG и Reasoning. Теперь — полная экосистема микросервисов.
+**Я не разработчик, я архитектор.** Два года назад я была "нулём в IT". Сегодня я:
+- Проектирую когнитивные системы (не пишу PHP в Sublime Text)
+- Управляю ИИ через систематическое мышление и диалоги
+- Преподаю новичкам, как ориентироваться в IT (IT-Compass)
+- Автоматизирую управление портфолио, карьерой, архитектурой
 
-### Архитектура
-- **Микросервисы**: Auth, Cloud-Reason, Portfolio-Organizer и др.
-- **Инструменты**: IT-Compass (навигация по навыкам), Portfolio-Organizer (авто-генерация резюме).
-- **Технологии**: FastAPI, Docker, PostgreSQL, GitHub Actions.
+**Результат**: приватный репо на SourceCraft с 10 микросервисами, 237 документами, используется для подготовки к грантам.
 
-## Структура проекта
-- `apps/` - Микросервисы
-- `src/` - Общий код (health-check, async_helpers)
-- `docs/` - Документация и история
-- `scripts/` - Сборщик наработок (collector.py)
-- `tools/` - Инструменты (portfolio-organizer, it-compass)
-- `tests/` - Тесты
-- `deployment/` - Конфиги для K8s/Docker
-- `archive/` - Старые версии и отчеты
+---
 
-## Проекты
-| Проект | Описание | Статус |
-|--------|----------|--------|
-| **Arch-Compass-Framework** | Фреймворк для автоматизации архитектурных решений | Внутренний |
-| **Cloud-Reason** | API для системного мышления с YandexGPT | Внутренний |
-| **IT-Compass** | Система отслеживания навыков и предотвращения выгорания | Внутренний |
-| **Career-Development** | AI-управляемое планирование карьеры | Внутренний |
-| **ML-Model-Registry** | Реестр моделей с API и UI | Внутренний |
-| **Portfolio-Organizer** | Автоматизированная организация портфолио | Внутренний |
-| **System-Proof** | Формальная верификация архитектурных решений | Внутренний |
-| **Thought-Architecture** | Коллекция когнитивных паттернов | Внутренний |
+## 🎯 Выбери свой путь
 
-Подробная матрица: [Projects Matrix](docs/PROJECTS-MATRIX.md).
+### Для работодателей / HRы мне нужен специалист
+**→ Открой [HIRE_ME.md](HIRE_ME.md)** (5 минут)
+- Кто я (и почему я не разработчик)
+- Что я построила (с метриками)
+- Какие роли я ищу
+- FAQ про мою позицию
 
-## Запуск
+### Для сообщества / я развиваюсь, помоги мне
+**→ Открой [NAVIGATION.md](docs/NAVIGATION.md)** (10 минут)
+- 5 путей для разных целей (новичок → архитектор)
+- Микросервисы с примерами
+- Как использовать IT-Compass
+
+### Для грантов / я оцениваю projet
+**→ Открой [MAIN_BRANCH_ANALYSIS.md](analysis/MAIN_BRANCH_ANALYSIS.md)** (20 минут)
+- 53 MB, 8,716 файлов, 237 документов
+- Методология разработки
+- Open-source компоненты и интеграции
+
+---
+
+## 🏗️ Архитектура (кратко)
+
+| Сервис | Назначение | Статус |
+|--------|-----------|--------|
+| **IT-Compass** | Система отслеживания навыков + метод для новичков | ✅ Активный |
+| **Cloud-Reason** | API для системного мышления с YandexGPT | ✅ Активный |
+| **Career-Development** | AI-управляемое планирование + карьерные решения | ✅ Активный |
+| **Portfolio-Organizer** | Автоматическое резюме из архива | ✅ Активный |
+| **ML-Model-Registry** | Реестр моделей + веб-UI | ✅ Активный |
+| **Auth-Service** | OAuth2 + управление доступом | ✅ Активный |
+| **Job-Automation-Agent** | Автоматизация трудозатрат и метрик | ✅ Активный |
+| **System-Proof** | Верификация архитектурных решений | 🔄 Разработка |
+| **Arch-Compass-Framework** | Фреймворк для архитектурных паттернов | 🔄 Разработка |
+| **Thought-Architecture** | Коллекция когнитивных паттернов (RAG) | ✅ Активный |
+
+Полная справка: [PROJECTS-MATRIX.md](docs/PROJECTS-MATRIX.md)
+
+---
+
+## 🚀 Быстрый старт
+
+### Локально (Docker)
 ```bash
+git clone https://github.com/your-org/cognitive-systems-architecture.git
+cd cognitive-systems-architecture
 docker-compose up
 ```
 
-## Сбор наработок
-Используйте collector для интеграции локальных файлов и SourceCraft репо:
+Сервисы доступны на `localhost:800X` (см. `docker-compose.yml`).
+
+### Kubernetes (с ArgoCD)
 ```bash
-python scripts/collector.py --local-paths /path/to/notes --sourcecraft-repo https://github.com/user/repo
+kubectl apply -f deployment/k8s/
+# или используйте GitOps в ArgoCD
 ```
 
-## Как внести вклад
-Проект открыт для идей по когнитивной архитектуре. Issues welcome!
+### Dev режим (Python)
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements-dev.txt
+python -m pytest tests/
+```
 
-## Автор
-[Ваше имя] — AI Systems Architect. Контакт: leadarchitect@yandex.ru
+---
+
+## 📊 Метрики проекта
+
+- **8,716 файлов**, 53 MB кода + документации
+- **237 документов** (методологии, логика, примеры)
+- **10 микросервисов** (FastAPI, async, RAG)
+- **68 Kubernetes манифестов** (production-ready)
+- **181 файлов Python** (14K+ LOC, типизированный)
+- **70+ checkpoints** в аудите репо (ENTERPRISE уровень)
+- **5+ интеграций**: YandexGPT, ChromaDB, PostgreSQL, Prometheus, GitHub Actions
+
+---
+
+## 🔧 Инструменты и интеграции
+
+**RAG система** (Chromadb + LangChain):
+- Индексирует 237 документов из репо
+- Ищет похожие решения при новых задачах
+- Интегрирована в Cloud-Reason
+
+**Мониторинг** (Prometheus + Grafana):
+- Метрики всех микросервисов в реальном времени
+- Дэшборды для Health, Requests, Errors, Latency
+- Alerts в Slack для критических метрик
+
+**CI/CD** (GitHub Actions):
+- Автоматический Trivy-скан контейнеров
+- Линтинг (pylint, black, isort)
+- Unit тесты перед деплоем
+- Автоматическое создание Docker образов
+
+**Аудит репо** (собственный инструмент):
+- Проверяет 70+ параметров качества кода
+- Уровни: Base (нужна для стартапа), Professional (для компании), Enterprise (для критического ПО)
+- Может автоматически создавать недостающие файлы
+
+---
+
+## 📚 Документация
+
+| Документ | Для кого | Время |
+|----------|---------|-------|
+| [HIRE_ME.md](HIRE_ME.md) | Работодатели | 5 мин |
+| [NAVIGATION.md](docs/NAVIGATION.md) | Новички + сообщество | 10 мин |
+| [MAIN_BRANCH_ANALYSIS.md](analysis/MAIN_BRANCH_ANALYSIS.md) | Грант-ревьюэры | 20 мин |
+| [ARCHITECTURE.md](docs/ARCHITECTURE.md) | Техлиды | 30 мин |
+| [DEVOPS_GITOPS_GUIDE.md](docs/DEVOPS_GITOPS_GUIDE.md) | DevOps инженеры | 45 мин |
+| [PROJECTS-MATRIX.md](docs/PROJECTS-MATRIX.md) | Product менеджеры | 20 мин |
+
+Все документы хранятся в `docs/` и обновляются с кодом.
+
+---
+
+## 🤝 Как внести вклад?
+
+1. **Новичок в IT** — используй IT-Compass чтобы найти свой путь (в `apps/it-compass/`)
+2. **Разработчик** — улучшай микросервисы, добавляй тесты в `tests/`
+3. **Архитектор** — предлагай улучшения в `docs/` (Issues welcome)
+4. **Грант-ревьюэр** — смотри [MAIN_BRANCH_ANALYSIS.md](analysis/MAIN_BRANCH_ANALYSIS.md)
+
+---
+
+## 📋 Лицензия и контакты
+
+**Лицензия**: MIT (см. [LICENSE](LICENSE))
+
+**Автор**: Системный архитектор (специализация: когнитивные системы, ИИ-управление)
+- 📧 Email: [указано в HIRE_ME.md](HIRE_ME.md#контакты)
+- 🔗 SourceCraft: https://sourcecraft.dev/[your-username]
+- 💼 LinkedIn: [указано в HIRE_ME.md](HIRE_ME.md#контакты)
+
+---
+
+## ✨ Благодарности
+
+Проект использует:
+- **FastAPI** для микросервисов
+- **PostgreSQL** для персистентности
+- **ChromaDB** для RAG
+- **Docker** и **Kubernetes** для оркестрации
+- **YandexGPT** для системного мышления
+- **GitHub Actions** для CI/CD
+
+Спасибо сообществам этих проектов! 🙏
 .env
 .coverage
 htmlcov/
