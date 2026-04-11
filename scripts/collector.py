@@ -8,13 +8,16 @@ Usage:
     python scripts/collector.py --local-paths /path/to/notes /path/to/dialogs --sourcecraft-repo https://github.com/user/repo
 """
 
-import os
+import json
 import shutil
 import argparse
+import hashlib
 import git
 from pathlib import Path
 
 class Collector:
+    ALLOWED_SUFFIXES = [".md", ".txt", ".py", ".json"]
+
     def __init__(self, output_dir="docs/notes"):
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -25,7 +28,7 @@ class Collector:
             src_path = Path(path)
             if src_path.exists():
                 for file in src_path.rglob("*"):
-                    if file.is_file() and file.suffix in [".md", ".txt", ".py", ".json"]:
+                    if file.is_file() and file.suffix in self.ALLOWED_SUFFIXES:
                         rel_path = file.relative_to(src_path)
                         dest = self.output_dir / rel_path
                         dest.parent.mkdir(parents=True, exist_ok=True)
@@ -45,13 +48,55 @@ class Collector:
 
     def deduplicate(self):
         """Remove duplicates based on content hash."""
-        # TODO: Implement deduplication
-        pass
+        seen_hashes = {}
+        duplicates = []
+
+        files = sorted(
+            [p for p in self.output_dir.rglob("*") if p.is_file() and p.suffix in self.ALLOWED_SUFFIXES]
+        )
+
+        for file_path in files:
+            file_hash = self._hash_file(file_path)
+            if file_hash in seen_hashes:
+                duplicates.append(file_path)
+                file_path.unlink()
+                print(f"Removed duplicate: {file_path}")
+            else:
+                seen_hashes[file_hash] = file_path
+
+        return duplicates
 
     def index_for_rag(self):
         """Prepare files for RAG indexing."""
-        # TODO: Generate index
-        pass
+        index = {
+            "generated_from": str(self.output_dir),
+            "files": []
+        }
+
+        files = sorted(
+            [p for p in self.output_dir.rglob("*") if p.is_file() and p.suffix in self.ALLOWED_SUFFIXES]
+        )
+
+        for file_path in files:
+            content = file_path.read_text(encoding="utf-8", errors="ignore")
+            index["files"].append({
+                "path": str(file_path.relative_to(self.output_dir)),
+                "size": file_path.stat().st_size,
+                "sha256": self._hash_file(file_path),
+                "lines": content.count("\n") + 1 if content else 0,
+            })
+
+        index_path = self.output_dir / "index.json"
+        index_path.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"Generated RAG index: {index_path}")
+        return index_path
+
+    def _hash_file(self, file_path):
+        hasher = hashlib.sha256()
+        with file_path.open("rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                hasher.update(chunk)
+        return hasher.hexdigest()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Collect and integrate scattered artifacts.")
