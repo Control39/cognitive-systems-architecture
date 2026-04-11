@@ -1,4 +1,4 @@
-﻿name: Code Quality & Documentation (SourceCraft → GitHub Sync)
+name: Code Quality & Documentation (SourceCraft → GitHub Sync)
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       - name: Cache Python dependencies
         id: cache
-        uses: actions/cache@v3
+        uses: actions/cache@v5
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
@@ -47,7 +47,7 @@ jobs:
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       - name: Restore Python cache
-        uses: actions/cache@v3
+        uses: actions/cache@v5
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
@@ -116,7 +116,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Restore Python cache
-        uses: actions/cache@v3
+        uses: actions/cache@v5
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
@@ -470,7 +470,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Restore Python cache
-        uses: actions/cache@v3
+        uses: actions/cache@v5
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
