@@ -129,3 +129,5 @@ ehthumbs.db# Obsidian Vault — не коммитить
 *.db
 *.log
 .gigacode/config.ini
+.gigacode/config.ini
+.gigacode/
