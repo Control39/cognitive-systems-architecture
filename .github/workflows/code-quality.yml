@@ -1,4 +1,4 @@
-﻿name: Code Quality & Documentation (SourceCraft → GitHub Sync)
+name: Code Quality & Documentation (SourceCraft → GitHub Sync)
 
 on:
   push:
@@ -750,7 +750,7 @@ jobs:
       - name: Update PR comment
         if: github.event_name == 'pull_request'
         continue-on-error: true
-        uses: actions/github-script@v6
+        uses: actions/github-script@v9
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
